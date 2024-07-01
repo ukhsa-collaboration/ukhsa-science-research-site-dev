@@ -3,14 +3,14 @@ title: "Sunlight and Cardiovascular Disease"
 date: 2024-07-01T14:00:00Z
 draft: false
 type: "spotlight"
-thumbnail: "sunlight.jpg"
+thumbnail: "sunlight-thumb.jpg"
 alt: "Sun shining through clouds."
 description: "High blood pressure affects around 25&#37; of UK adults and is a leading risk factor for cardiovascular disease. Research by UKHSA shows that small exposures to  sunlight may be beneficial for our cardiovascular health. This may offer a simple and accessible way of reducing the risk of cardiovascular disease."
 excerpt: "High blood pressure affects around 25&#37; of UK adults and is a leading risk factor for cardiovascular disease. Research by UKHSA shows that small exposures to sunlight may be beneficial for our cardiovascular health. This may offer a simple and accessible way of reducing the risk of cardiovascular disease"
 buttonText: "Learn more on Sunlight and Cardiovascular Disease"
 ---
 
-{{< spotlight-feature title="Sunlight and Cardiovascular Disease" image="sunlight-text.jpg" >}}
+{{< spotlight-feature title="Sunlight and Cardiovascular Disease" image="sunlight.jpg" >}}
 
 <p>The hazards of staying out too long in the sun are well known – sunburn, increasing risk of skin cancer, skin ageing, to name a few. However, <i>in vitro</i> laboratory research from UKHSA (and independently shown by others), shows that some sunlight exposure activates nitric oxide, a molecule in the skin known to reduce blood pressure <i>(Liu 2024)</i>. High blood pressure affects around 25&percnt; of UK adults and is a leading risk factor for cardiovascular disease; therefore, strategies to alleviate this burden of disease are a key priority <a href="https://www.gov.uk/government/publications/health-matters-combating-high-blood-pressure/health-matters-combating-high-blood-pressure"><a style="color:white;"> PHE Guidance 2017</a></p>
 
@@ -20,7 +20,7 @@ buttonText: "Learn more on Sunlight and Cardiovascular Disease"
 <p><a href="https://researchportal.ukhsa.gov.uk/en/persons/paul-omahoney" style="color:white" target="_blank" >Author: Paul O&#39;Mahoney UKHSA Research Profile<a style="color:white;"> 
 {{< /spotlight-feature >}}
 
-{{< spotlight-content title="Sunlight and the Impact on Blood Pressure" image="sunlight-text.jpg" alt="sunlight-cardio" caption=" Blood pressure monitoring." >}}
+{{< spotlight-content title="Sunlight and the Impact on Blood Pressure" image="sunlight-bp.jpg" alt="sunlight-cardio" caption=" Blood pressure monitoring." >}}
 
 {{< "Useful Links">}}
 <p><a href="https://researchportal.ukhsa.gov.uk/en/publications/low-dose-daylight-exposure-induces-nitric-oxide-release-and-maint"  target="_blank">Low-dose daylight exposure induces nitric oxide release and maintains cell viability in vitro Authors Hazell, Khazova & O'Mahoney (2023)</a></p>
