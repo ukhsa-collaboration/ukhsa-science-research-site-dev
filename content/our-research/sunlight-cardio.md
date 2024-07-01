@@ -11,7 +11,7 @@ buttonText: "Learn more on Sunlight and Cardiovascular Disease"
 ---
 
 {{< spotlight-feature title="Sunlight and Cardiovascular Disease" image="sunlight.jpg" >}}
-<p>The hazards of staying out too long in the sun are well known – sunburn, increasing risk of skin cancer, skin ageing, to name a few. However, <i>in vitro</i> laboratory research from UKHSA (and independently shown by others), shows that some sunlight exposure activates nitric oxide, a molecule in the skin known to reduce blood pressure <i>(Liu 2024)</i>. High blood pressure affects around 25&percnt; of UK adults and is a leading risk factor for cardiovascular disease; therefore, strategies to alleviate this burden of disease are a key priority<a href="https://www.gov.uk/government/publications/health-matters-combating-high-blood-pressure/health-matters-combating-high-blood-pressure"><white>PHE Guidance, 2017.</a></p>
+<p>The hazards of staying out too long in the sun are well known – sunburn, increasing risk of skin cancer, skin ageing, to name a few. However, <i>in vitro</i> laboratory research from UKHSA (and independently shown by others), shows that some sunlight exposure activates nitric oxide, a molecule in the skin known to reduce blood pressure <i>(Liu 2024)</i>. High blood pressure affects around 25&percnt; of UK adults and is a leading risk factor for cardiovascular disease; therefore, strategies to alleviate this burden of disease are a key priority<a href="https://www.gov.uk/government/publications/health-matters-combating-high-blood-pressure/health-matters-combating-high-blood-pressure">PHE Guidance, 2017.</a>
 
 {{< /spotlight-feature >}}
 
