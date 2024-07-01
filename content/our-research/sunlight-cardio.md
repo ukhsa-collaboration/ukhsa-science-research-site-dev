@@ -19,7 +19,7 @@ buttonText: "Learn more on Sunlight and Cardiovascular Disease"
 <p><a href="https://researchportal.ukhsa.gov.uk/en/persons/paul-omahoney"> Author: Paul O&#39;Mahoney UKHSA Research Profile</a></p>
 {{< /spotlight-feature >}}
 
-{{< spotlight-content title="Useful Linkds" image="mouldundermicroscope.jpg" alt="Damp and Mould" caption="Mould under microscope" >}}
+{{< spotlight-content title="Useful Links" image="mouldundermicroscope.jpg" alt="Damp and Mould" caption="Mould under microscope" >}}
 <p><a href="https://researchportal.ukhsa.gov.uk/en/publications/low-dose-daylight-exposure-induces-nitric-oxide-release-and-maint" target="_blank">Low-dose daylight exposure induces nitric oxide release and maintains cell viability in vitro Authors Hazell, Khazova & O'Mahoney (2023)</a></p>
 <p><a href="https://www.nature.com/articles/s41598-022-13399-4">Post-exposure persistence of nitric oxide up regulation in skin cells irradiated by UV-A, Authors- Hazell, Khazova Cohen, Felton and Raj (2022)</a><p>
 <p><a href="https://www.nature.com/articles/s41598-017-11567-5">Ultraviolet Radiation - Induced Production of Nitric Oxide: A multi-cell and multi-donor analysis, Authors - Holliman, Lowe, Cohen, Felton and Raj (2017)</a><p>
