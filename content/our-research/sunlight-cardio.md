@@ -3,7 +3,7 @@ title: "Sunlight and Cardiovascular Disease"
 date: 2024-07-01T14:00:00Z
 draft: false
 type: "spotlight"
-thumbnail: "sunlight-text.jpg"
+thumbnail: "sunlight.jpg"
 alt: "Sun shining through clouds."
 description: "High blood pressure affects around 25&#37; of UK adults and is a leading risk factor for cardiovascular disease. Research by UKHSA shows that small exposures to  sunlight may be beneficial for our cardiovascular health. This may offer a simple and accessible way of reducing the risk of cardiovascular disease."
 excerpt: "High blood pressure affects around 25&#37; of UK adults and is a leading risk factor for cardiovascular disease. Research by UKHSA shows that small exposures to sunlight may be beneficial for our cardiovascular health. This may offer a simple and accessible way of reducing the risk of cardiovascular disease"
@@ -18,6 +18,7 @@ buttonText: "Learn more on Sunlight and Cardiovascular Disease"
 <p>Recently published work by researchers at UKHSA has shown that low exposures to natural sunlight (around 10 minutes on a clear summer day) can induce this effect in cells <i>in vitro</i>. Importantly, these doses of sunlight produced no detrimental effects to the cells. It may be possible then to be protected against the harmful effects of sunlight while taking advantage of the benefits to our health that sunlight has to offer, though further work is needed to study these effects in humans. Research on this area continues under the <a href="https://crth.hpru.nihr.ac.uk/" style="color:#ffffff;" target="_blank" >NIHR Chemical Radiation Threats and Hazards Health Protection Research Unit</a>,and in collaboration with partner universities.</p>
 <p><a href="https://researchportal.ukhsa.gov.uk/en/persons/paul-omahoney" style="color:white" target="_blank" >Author: Paul O&#39;Mahoney UKHSA Research Profile<a style="color:white;"> 
 {{< /spotlight-feature >}}
+
 {{< spotlight-content title="Sunlight and the Impact on Blood Pressure" image="sunlight-text.jpg" alt="sunlight-cardio" caption=" Blood pressure monitoring." >}}
 
 {{< "Useful Links">}}
