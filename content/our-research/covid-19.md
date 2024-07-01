@@ -23,3 +23,4 @@ buttonText: "Learn more on Covid-19"
 <p>The study has received approval from the NHS Health Research Authority Berkshire Research Ethics Committee and is funded by the National Institute of Health Research and Public Health England.</p>
 {{< button text="Find out more" icon="external" url="https://www.gov.uk/government/news/past-covid-19-infection-provides-some-immunity-but-people-may-still-carry-and-transmit-virus" external="true">}}
 {{< /spotlight-content >}}
+<h4 class="aqua">Other Spotlights</h4>

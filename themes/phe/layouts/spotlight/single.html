@@ -18,14 +18,18 @@
 
 {{ .Content }}
 
-{{ $spotlights := (where (where (where .Site.RegularPages "Section" "our-research") "Date.Unix" "<" .Date.Unix ) "Title" "!=" .Title ) }}
-
-{{ if len $spotlights | lt 0 }}
-<section class="pb-12">
+{{ $spotlights := (where (where (where .Site.RegularPages "Section" "our-research") "Date.Unix" "<" .Date.Unix
+    ) "Title" "!=" .Title ) }} {{ if len $spotlights | lt 0 }} <section class="pb-12">
     <div class="container">
         <div class="row">
             <div class="col-12 pb-6">
+<<<<<<< Updated upstream
                 <h4 class="h2">Other spotlights</h4>
+=======
+                <h4 class="h2">Other Spotlights</h4>
+
+            
+>>>>>>> Stashed changes
             </div>
         </div>
 
@@ -47,7 +51,11 @@
 
         </div><!-- /.spotlights -->
     </div>
-</section>
-{{ end }}
+    </section>
+    {{ end }}
 
+<<<<<<< Updated upstream
 {{ end }}
+=======
+    {{ end }}
+>>>>>>> Stashed changes
