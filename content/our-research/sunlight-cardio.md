@@ -11,7 +11,7 @@ buttonText: "Learn more on Sunlight and Cardiovascular Disease"
 ---
 
 {{< spotlight-feature title="Sunlight and Cardiovascular Disease" image="sunlight.jpg" >}}
-<p>The hazards of staying out too long in the sun are well known – sunburn, increasing risk of skin cancer, skin ageing, to name a few. However, <i>in vitro</i> laboratory research from UKHSA (and independently shown by others), shows that some sunlight exposure activates nitric oxide, a molecule in the skin known to reduce blood pressure <i>(Liu 2024)</i>. High blood pressure affects around 25&percnt; of UK adults and is a leading risk factor for cardiovascular disease; therefore, strategies to alleviate this burden of disease are a key priority<a href="https://www.gov.uk/government/publications/health-matters-combating-high-blood-pressure/health-matters-combating-high-blood-pressure"> PHE Guidance, 2017.</a></p>
+<p>The hazards of staying out too long in the sun are well known – sunburn, increasing risk of skin cancer, skin ageing, to name a few. However, <i>in vitro</i> laboratory research from UKHSA (and independently shown by others), shows that some sunlight exposure activates nitric oxide, a molecule in the skin known to reduce blood pressure <i>(Liu 2024)</i>. High blood pressure affects around 25&percnt; of UK adults and is a leading risk factor for cardiovascular disease; therefore, strategies to alleviate this burden of disease are a key priority<a href="https://www.gov.uk/government/publications/health-matters-combating-high-blood-pressure/health-matters-combating-high-blood-pressure"><white>PHE Guidance, 2017.</a></p>
 
 {{< /spotlight-feature >}}
 
@@ -20,9 +20,7 @@ buttonText: "Learn more on Sunlight and Cardiovascular Disease"
 <p>Recently published work by researchers at UKHSA has shown that low exposures to natural sunlight (around 10 minutes on a clear summer day) can induce this effect in cells <i>in vitro</i>. Importantly, these doses of sunlight produced no detrimental effects to the cells. It may be possible then to be protected against the harmful effects of sunlight while taking advantage of the benefits to our health that sunlight has to offer, though further work is needed to study these effects in humans. Research on this area continues under the <a href="https://crth.hpru.nihr.ac.uk/" target="_blank" >NIHR Chemical Radiation Threats and Hazards Health Protection Research Unit</a>, and in collaboration with partner universities.</p>
 {{< /spotlight-content >}}
 <p><a href="https://researchportal.ukhsa.gov.uk/en/persons/paul-omahoney">Author- Paul O'Mahoney UKHSA Research Profile, </a><p
-
 {{< spotlight-content title="Useful Links"}}
->
 <p><a href="https://researchportal.ukhsa.gov.uk/en/publications/low-dose-daylight-exposure-induces-nitric-oxide-release-and-maint"> Low-dose daylight exposure induces nitric oxide release and maintains cell viability in vitro Authors Hazell, Khazova & O'Mahoney (2023)</a></p>
 <p><a href="https://www.nature.com/articles/s41598-022-13399-4"Post-exposure persistence of nitric oxide up regulation in skin cells irradiated by UV-A, Authors- Hazell, Khazova Cohen, Felton and Raj (2022)></a><p>
 <p><a href="https://www.nature.com/articles/s41598-017-11567-5">Ultraviolet Radiation - Induced Production of Nitric Oxide: A multi-cell and multi-donor analysis, Authors - Holliman, Lowe, Cohen, Felton and Raj (2017)</a><p>
