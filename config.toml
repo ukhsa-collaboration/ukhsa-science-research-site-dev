@@ -27,15 +27,19 @@ theme = "phe"
     url = "/opportunities/"
     weight = 5
   [[menu.main]]
+    name = "Awerb"
+    url = "/awerb/"
+    weight = 6    
+  [[menu.main]]
     name = "Research Integrity"
     url = "/research-integrity/"
-    weight = 6
+    weight = 7
   [[menu.main]]
     name = "Contact Us"
     url = "/contact/"
-    weight = 7
+    weight = 8
 #  [[menu.main]]
 #    name = "Divisions"
 #    url = "/divisions/"
 #    parent = "our-research"
-#    weight = 8
+#    weight = 9
