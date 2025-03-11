@@ -8,10 +8,10 @@ alt: "Blood pressure monitoring."
 description: "High blood pressure affects around 25&#37; of UK adults and is a leading risk factor for cardiovascular disease. Research by UKHSA shows that small exposures to  sunlight may be beneficial for our cardiovascular health. This may offer a simple and accessible way of reducing the risk of cardiovascular disease."
 excerpt: "High blood pressure affects around 25&#37; of UK adults and is a leading risk factor for cardiovascular disease. Research by UKHSA shows that small exposures to sunlight may be beneficial for our cardiovascular health. This may offer a simple and accessible way of reducing the risk of cardiovascular disease"
 
-buttonText: "Learn more on Sunlight and Cardiovascular Disease"
+buttonText: "Learn more Airborne Particles and Brain Health"
 ---
 
-{{< spotlight-feature title="Sunlight and Cardiovascular Disease"image="sunlight.jpg" alt="sunlight" caption="(Image source: Lukas-Pexels.com)" >}}
+{{< spotlight-feature title="Airborne.Particles.and.Brain.Health"image="sunlight.jpg" alt="sunlight" caption="(Image source: Lukas-Pexels.com)" >}}
 
 <p>Increasing evidence suggests a link between air pollution and brain diseases, like Alzheimer's and Parkinson's.  Our research explores how airborne particles may impact the brain by affecting the blood brain barrier (BBB), through an interdisciplinary approach, in collaboration with scientists on the <a style="color:white" href="https://www.harwellcampus.com/" target="_blank"> (Harwell Science and Innovation Campus).</a></p>
 
