@@ -1,5 +1,5 @@
 ---
-title: "Airborne-particulates-brain-health."
+title: "airborne-particulates-brain-health."
 date: 2025-04-01T13:30:00Z
 draft: false
 type: "spotlight"
