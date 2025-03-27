@@ -4,15 +4,14 @@ date: 2025-03-27T13:30:00Z
 draft: false
 type: "spotlight"
 thumbnail: "fib-sem.jpg"
-alt: "Reconstruction of Plasm Membrane"
+alt: "Reconstruction of Plasma Membrane"
 description: "Researching the link between air pollution and brain diseases."
-excerpt: "Increasing evidence suggests a link between air pollution and brain diseases including Alzheimer&#39s and Parkinson&#39s."
+excerpt: "Increasing evidence suggests a link between air pollution and brain diseases including Alzheimer&#39;s and Parkinson&#39;s."
 buttonText: "Learn more on Airborne Particulates and Brain Health"
 ---
 
-{{< spotlight-feature title="Airborne Particulates and Brain Health" image="Inhaled-particles-banner1.png" alt="inhaled particles" caption="Pathways of inhaled particulate matter impacting brain health(Image: created with BioRender.com)" >}}
+{{< spotlight-feature title="Airborne Particulates and Brain Health" image="Inhaled-particles-banner1.png" alt="inhaled particles" caption="Pathways of inhaled particulate matter impacting brain health Image created with BioRender.com" >}}
 <p><a style="color:white;" href="https://researchportal.ukhsa.gov.uk/en/persons/chang-guo"> Author: Chang Guo; UKHSA Research Profile</a></p>
-
 {{< /spotlight-feature >}}
 
 {{< spotlight-content title="Interdisciplinary investigation of particulate matter and the impact on the blood brain barrier (BBB)" image="fib.sem.stfc.jpg" alt="Fib-Sem" caption="Exposed blood vessel cells (as a BBB model) to diesel exhaust particles at Octopus Central Laser Facility.  Source: STFC www.isis.stfc.ac.uk" >}}
@@ -21,5 +20,4 @@ buttonText: "Learn more on Airborne Particulates and Brain Health"
 <p><a href="https://www.thelancet.com/article/S0140-6736(20)30367-6/fulltext#:~:text=New%20evidence%20supports%20adding%20three,%2C%20smoking%2C%20obesity%2C%20depression%2C" target="_blank">Dementia Prevention, Intervention and Care. Authors: Livingston, Gill et al. The Lancet Volume 396, Issue 10248, 413-446 (2020)</a></p>
 <p><a href="https://www.gov.uk/government/publications/air-pollution-cognitive-decline-and-dementia" target="_blank">Air Pollution: cognitive decline and dementia: A report by the Committee on the Medical Effects of Air Pollutants (COMEAP)  Author- UKHSA (2022).</a></p>
 <p><a href="https://www.harwellcampus.com/neutrons-help-explain-the-relationship-between-air-pollution-and-neurological-disease/" target="_blank">"Neutrons help explain the relationship between air pollution and neurological disease.  Authors- Harwell Science and Innovation (2024)."</a></p>
-
 {{< /spotlight-content >}}
