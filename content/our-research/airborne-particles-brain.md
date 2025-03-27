@@ -1,12 +1,12 @@
 ---
-title: "airborne-particulates-brain-health."
-date: 2025-04-01T13:30:00Z
+title: "Airborne Particulates and Brain Health"
+date: 2025-03-27T13:30:00Z
 draft: false
 type: "spotlight"
 thumbnail: "fib-sem.jpg"
 alt: "Reconstruction of Plasma Membrane"
 description: "Researching the link between air pollution and brain diseases."
-excerpt: "Increasing evidence suggests a ling between air pollution and brain diseases including Alzheimer's and Parkinson's."
+excerpt: "Increasing evidence suggests a link between air pollution and brain diseases including Alzheimer&#39s and Parkinson&#39s."
 buttonText: "Learn more on Airborne Particulates and Brain Health"
 ---
 
