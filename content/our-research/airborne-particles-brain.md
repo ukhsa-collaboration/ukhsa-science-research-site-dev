@@ -10,12 +10,11 @@ excerpt: "Increasing evidence suggests a link between air pollution and brain di
 buttonText: "Learn more on Airborne Particulates and Brain Health"
 ---
 
-{{< spotlight-feature title="Airborne Particulates 
-and Brain Health" image="fib.sem.stfc-banner.jpg" alt="inhaled particles" caption="Exposed blood vessel cells (as a BBB model) to diesel exhaust particles at Octopus Central Laser Facility.  Source: STFC www.isis.stfc.ac.uk" >}}
-<p>Increasing evidence suggests a link between air pollution and brain diseases like Alzheimer&#39's and Parkinson&#39's. </p>
-<p>Our Research explores how airborne particles may impact the brain by affecting the blood brain barrier (BBB), through an interdisciplinary approach in collaboration with scientists at national facilities on the <a style="color:white;"href="https://www.harwellcampus.com"> target="_blank">Harwell Science and Innovation Campus.</a></p>
+{{< spotlight-feature title="Airborne Particulates and Brain Health" image="fib.sem.stfc-banner.jpg" alt="inhaled particles" caption="Exposed blood vessel cells (as a BBB model) to diesel exhaust particles at Octopus Central Laser Facility.  Source: STFC www.isis.stfc.ac.uk" >}}
+<p>Increasing evidence suggests a link between air pollution and brain diseases like Alzheimer&#39's and Parkinson&#39's.</p>
+<p>Our Research explores how airborne particles may impact the brain by affecting the blood brain barrier (BBB), through an interdisciplinary approach in collaboration with scientists at national facilities on the <a style="color:white;" href="https://www.harwellcampus.com" target="_blank">Harwell Science and Innovation Campus.</a></p>
 
-<p><a style="color:white;" href="https://researchportal.ukhsa.gov.uk/en/persons/chang-guo"> Author: Chang Guo; UKHSA Research Profile</a></p>
+<p><a style="color:white;" href="https://researchportal.ukhsa.gov.uk/en/persons/chang-guo" target="_blank">Author: Chang Guo; UKHSA Research Profile</a></p>
 {{< /spotlight-feature >}}
 
 {{< spotlight-content title="Interdisciplinary investigation of particulate matter and the impact on the blood brain barrier (BBB)" image="Inhaled-particles.png" alt="Fib-Sem" caption="Pathways of inhaled particulate matter impacting brain health. Source:<i>Image created with BioRender.com"</i> >}} 
