@@ -31,5 +31,5 @@ buttonText: "Learn more on Airborne Particulates and Brain Health"
 <h3 class="red d-none d-lg-block">Further Reading:</h3>
 <p><a href="https://www.thelancet.com/article/S0140-6736(20)30367-6/fulltext#:~:text=New%20evidence%20supports%20adding%20three,%2C%20smoking%2C%20obesity%2C%20depression%2C" target="_blank">Dementia Prevention, Intervention and Care. Authors: Livingston, Gill et al. The Lancet Volume 396, Issue 10248, 413-446 (2020)</a></p>
 <p><a href="https://www.gov.uk/government/publications/air-pollution-cognitive-decline-and-dementia" target="_blank">Air Pollution: cognitive decline and dementia: A report by the Committee on the Medical Effects of Air Pollutants (COMEAP)  Author- UKHSA (2022).</a></p>
-<p><a href="https://www.harwellcampus.com/neutrons-help-explain-the-relationship-between-air-pollution-and-neurological-disease/" target="_blank">"Neutrons help explain the relationship between air pollution and neurological disease.  Authors- Harwell Science and Innovation (2024)."</a></p>
+<p><a href="https://www.harwellcampus.com/neutrons-help-explain-the-relationship-between-air-pollution-and-neurological-disease/" target="_blank">Neutrons help explain the relationship between air pollution and neurological disease.  Authors- Harwell Science and Innovation (2024).</a></p>
 {{< /spotlight-content >}}
