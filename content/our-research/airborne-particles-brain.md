@@ -49,9 +49,9 @@ buttonText: "Learn more on Sunlight and Cardiovascular Disease"
 <p>Recently published work by researchers at UKHSA has shown that low exposures to natural sunlight (around 10 minutes on a clear summer day) can expand blood vessels <i>in vitro</i>. Importantly, these doses of sunlight produced no detrimental effects to the cells. It may be possible to be protected against the harmful effects of sunlight while taking advantage of the benefits to our health that sunlight has to offer, though further work is needed to study these effects in humans. Research on this area continues under the <a href="https://crth.hpru.nihr.ac.uk/" target="_blank">NIHR Health Protection Research Unit in Chemical and Radiation Threats and Hazards</a> and in collaboration with partner universities.</a></p>
 
 <h3 class="red d-none d-lg-block">Further Reading:</h3>
-<p><a href="https://researchportal.ukhsa.gov.uk/en/publications/low-dose-daylight-exposure-induces-nitric-oxide-release-and-maint" target="_blank">Low-dose daylight exposure induces nitric oxide release and maintains cell viability <i>in vitro</i> Authors- Hazell, Khazova and O'Mahoney (2023).</a></p>
-<p><a href="https://www.nature.com/articles/s41598-022-13399-4" target="_blank">Post-exposure persistence of nitric oxide up regulation in skin cells irradiated by UV-A, Authors- Hazell, Khazova Cohen, Felton and Raj (2022).</a><p>
-<p><a href="https://www.nature.com/articles/s41598-017-11567-5" target="_blank" >Ultraviolet radiation - induced production of nitric oxide: a multi-cell and multi-donor analysis, Authors - Holliman, Lowe, Cohen, Felton and Raj (2017).</a><p>
-<p><a href=">https://crth.hpru.nihr.ac.uk/" target="_blank"></a></p>
+<p>End</p>
+<p><a href="https://www.thelancet.com/article/S0140-6736(20)30367-6/fulltext#:~:text=New%20evidence%20supports%20adding%20three,%2C%20smoking%2C%20obesity%2C%20depression%2C" target="_blank">Dementia Prevention, Intervention and Care. Authors: Livingston, Gill et al. The Lancet Volume 396, Issue 10248, 413-446 (2020)</a></p>
+<p><a href="https://www.gov.uk/government/publications/air-pollution-cognitive-decline-and-dementia" target="_blank">Air Pollution: cognitive decline and dementia: A report by the Committee on the Medical Effects of Air Pollutants (COMEAP)  Author- UKHSA (2022).</a></p>
+<p><a href="https://www.harwellcampus.com/neutrons-help-explain-the-relationship-between-air-pollution-and-neurological-disease/" target="_blank">"Neutrons help explain the relationship between air pollution and neurological disease.  Authors- Harwell Science and Innovation (2024)."</a></p>
 {{< /spotlight-content >}}
 
