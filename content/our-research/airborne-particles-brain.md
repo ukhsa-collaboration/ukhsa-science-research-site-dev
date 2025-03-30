@@ -29,5 +29,5 @@ buttonText: "Learn more on Airborne Particulates and Brain Health"
 <p>Analysis of three dimensional ultrastructural images revealed interactions between nano-sized particles and plasma membrane.</p>
 <p>The aim of this study was to gain deeper insights into how inhaled changesparticulate matter interacts with and affects BBB function, with a specific focus on impact to the plasma membrane.</p>
 <h3 class="red d-none d-lg-block">Further Reading:</h3>
-<p><a href="https://www.harwellcampus.com/neutrons-help-explain-the-relationship-between-air-pollution-and-neurological-disease/" target="_blank">Neutrons help explain the relationship between air pollution and neurological disease.  Authors- Harwell Science and Innovation (2024).</a></p>
+<p><a href="https://www.harwellcampus.com/neutrons-help-explain-the-relationship-between-air-pollution-and-neurological-disease/" target="_blank">Neutrons help explain the relationship between air pollution and neurological disease.  Authors: Harwell Science and Innovation (2024).</a></p>
 {{< /spotlight-content >}}
