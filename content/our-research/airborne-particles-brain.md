@@ -11,7 +11,7 @@ buttonText: "Learn more on Airborne Particulates and Brain Health"
 ---
 
 {{< spotlight-feature title="Airborne Particulates and Brain Health" image="fib.sem.stfc-banner.jpg" alt="inhaled particles" caption="Exposed blood vessel cells (as a BBB model) to diesel exhaust particles at Octopus Central Laser Facility.  Source: STFC www.isis.stfc.ac.uk" >}}
-<p>Increasing evidence suggests a link between air pollution and brain diseases like Alzheimers and Parkinsons.</p>
+<p>Increasing evidence suggests a link between air pollution and brain diseases like Alzheimer's and Parkinson's.</p>
 <p>Our research explores how airborne particles may impact the brain by affecting the blood brain barrier (BBB), through an interdisciplinary approach in collaboration with scientists at national facilities on the <a style="color:white;" href="https://www.harwellcampus.com" target="_blank">Harwell Science and Innovation Campus.</a></p>
 
 <p><a style="color:white;" href="https://researchportal.ukhsa.gov.uk/en/persons/chang-guo" target="_blank">Author: Chang Guo; UKHSA Research Profile</a></p>
