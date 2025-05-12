@@ -3,240 +3,225 @@
 
 <div class="page-title">
   <div class="container">
-    <h1>Science and Research</h1>
+    <h1>Research Opportunities</h1>
     <div class="row mb-4">
-      <div class="col-md-6">
+      <div class="col-md-5">
         <p>
-          Science is at the core of our work to identify and control health
-          hazards. Research answers key questions that inform policy and action.
-          Innovation is needed to identify and implement solutions to complex
-          public health challenges.
+          We are committed to the development of and investment in a public
+          health career pathway that embeds research into service roles and
+          opens opportunities to individuals.
         </p>
       </div>
     </div>
-
-    <a
-      class="button button--external"
-      href="https://researchportal.phe.gov.uk/"
-      target="_blank"
-      >Explore UKHSA research</a
-    >
   </div>
 </div>
 
 <section class="pt-9 pb-12">
   <div class="container pb-6">
     <div class="row">
-      <h2>Research Areas & Capability</h2>
-      <div class="col-lg-8">
+      <div class="col-lg-12">
+        <h2 class="pb-4 red">Types of Opportunities</h2>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-lg-6 pt-8 pt-lg-0 pb-5 pb-lg-0">
+        <h4 class="d-lg-none d-print-none pb-4 red">PhD Studentship Scheme</h4>
+        <img
+          src="/images/Porton-Photoshoot-2023-DSC06150.jpg"
+          alt="Scientists working in a lab."
+        />
+      </div>
+      <div class="col-lg-6">
+        <h3 class="red d-none d-lg-block">PhD Studentship Scheme</h3>
         <p>
-          We conduct research and employ evidence-based practice throughout all
-          parts of the organisation, particularly within the Science and Public
-          Health and Clinical Groups.
+          We run an annual PhD studentship project scheme where we award funding
+          to project plans put together by our researchers and academic
+          partners. The scheme supports both our own staff to undertake PhDs and
+          the recruitment of new students. We are not able to fund employees of
+          other organisations to undertake PhDs.
+        </p>
+
+        <p>
+          New students normally start around the beginning of each academic
+          year. Recruitment of students generally takes place between March and
+          July each year. Projects are advertised through specific academic
+          partners and sometimes via FindaPhD.com. Links to any projects open
+          for applications will be regularly updated on this page.
         </p>
       </div>
     </div>
-  </div>
+    <!-- /.row -->
 
-  <div class="container">
-    <!-- Tabs Begin -->
-    <div class="nav-tabs-container">
-      <button class="js-tabs-dropdown">Select specialist area</button>
-      <ul class="nav nav-tabs nav-tabs--research" id="myTab" role="tablist">
-        <li class="nav-item" role="presentation">
-          <button
-            class="nav-link active"
-            id="tab-1"
-            data-bs-toggle="tab"
-            data-bs-target="#tab-content-1"
-            type="button"
-            role="tab"
-            aria-controls="tab-content-1"
-            aria-selected="true"
-          >
-            Infectious Diseases
-          </button>
-        </li>
-        <li class="nav-item" role="presentation">
-          <button
-            class="nav-link"
-            id="tab-2"
-            data-bs-toggle="tab"
-            data-bs-target="#tab-content-2"
-            type="button"
-            role="tab"
-            aria-controls="tab-content-2"
-            aria-selected="false"
-          >
-            Environment and Health
-          </button>
-        </li>
-        <li class="nav-item" role="presentation">
-          <button
-            class="nav-link"
-            id="tab-3"
-            data-bs-toggle="tab"
-            data-bs-target="#tab-content-3"
-            type="button"
-            role="tab"
-            aria-controls="tab-content-3"
-            aria-selected="false"
-          >
-            Emergency Response
-          </button>
-        </li>
-        <li class="nav-item" role="presentation">
-          <button
-            class="nav-link"
-            id="tab-4"
-            data-bs-toggle="tab"
-            data-bs-target="#tab-content-4"
-            type="button"
-            role="tab"
-            aria-controls="tab-content-4"
-            aria-selected="false"
-          >
-            Behavioural Sciences
-          </button>
-        </li>
-        <li class="nav-item" role="presentation">
-          <button
-            class="nav-link"
-            id="tab-5"
-            data-bs-toggle="tab"
-            data-bs-target="#tab-content-5"
-            type="button"
-            role="tab"
-            aria-controls="tab-content-5"
-            aria-selected="false"
-          >
-            Statistics and Modelling
-          </button>
-        </li>
-      </ul>
-    </div>
-
-    <div class="tab-content pt-10" id="pheTabContent">
-      <!-- Tab 1 -->
-      <div
-        class="tab-pane fade show active"
-        id="tab-content-1"
-        role="tabpanel"
-        aria-labelledby="tab-1"
-      >
-        {{ partial "research-areas/infectious-diseases" . }}
+    <div class="row pt-12">
+      <div class="col-lg-6 pb-5 pb-lg-0 order-lg-2 text-start text-lg-end">
+        <h4 class="d-lg-none d-print-none pb-4 red">
+          Affiliated Research Centre of the Open University
+        </h4>
+        <img
+          src="/images/affiliated-research-centre-of-the-open-university.jpg"
+          alt="Scientist demonstrating to a prospective student."
+        />
       </div>
-
-      <!-- Tab 2 -->
-      <div
-        class="tab-pane fade"
-        id="tab-content-2"
-        role="tabpanel"
-        aria-labelledby="tab-2"
-      >
-        {{ partial "research-areas/environment-and-health" . }}
-      </div>
-
-      <!-- Tab 3 -->
-      <div
-        class="tab-pane fade"
-        id="tab-content-3"
-        role="tabpanel"
-        aria-labelledby="tab-3"
-      >
-        {{ partial "research-areas/emergency-response" . }}
-      </div>
-
-      <!-- Tab 4 -->
-      <div
-        class="tab-pane fade"
-        id="tab-content-4"
-        role="tabpanel"
-        aria-labelledby="tab-4"
-      >
-        {{ partial "research-areas/behavioural-sciences" . }}
-      </div>
-
-      <!-- Tab 5 -->
-      <div
-        class="tab-pane fade"
-        id="tab-content-5"
-        role="tabpanel"
-        aria-labelledby="tab-5"
-      >
-        {{ partial "research-areas/statistics-and-modelling" . }}
-      </div>
-    </div>
-    <!-- /.tab-content -->
-  </div>
-  <!-- /.container -->
-</section>
-
-{{ range first 1 .Pages }}
-
-<section
-  class="spotlight"
-  style="background-image: url('/images/amr.jpg')"
->
-  <div class="container">
-    <h3 class="h2">Spotlight On: {{ .Title }}</h3>
-    <div class="row">
-      <div class="col-lg-6">
-        <p class="mb-5">{{ .Description }}</p>
-        <a href="{{ .Permalink }}" class="button button--arrow"
-          >{{ .Params.buttonText }}</a
+      <div class="col-lg-6 order-lg-1">
+        <h3 class="red d-none d-lg-block">
+          Affiliated Research Centre of the Open University
+        </h3>
+        <p>
+          UKHSA has a long and successful tradition of providing support to
+          staff to study part-time for higher research degrees. UKHSA has
+          Affiliated Research Centre (ARC) status with the Open University which
+          supports the provision of high-quality and flexible doctoral training
+          in our three main sites. The degrees supported by the UKHSA ARC
+          programme are part and full-time research degrees and a PhD by
+          published works.
+        </p>
+        <a
+          class="button button--alt button--external mt-5"
+          href="https://www.open.ac.uk/postgraduate/research-degrees/being-an-ou-research-student/affiliated-research-centres"
+          target="_blank"
+          rel="noopener"
+          >Learn about ARCs</a
         >
       </div>
     </div>
-  </div>
-</section>
 
-{{ end }}
-
-<section class="pt-12 pb-12">
-  <div class="container">
-    <h2 class="pb-5">Research facilities and data</h2>
-
-    <div class="row">
+    <div class="row pt-12">
+      <div class="col-lg-6 pb-5 pb-lg-0">
+        <h4 class="d-lg-none d-print-none pb-4 red">
+          Scientific Career Opportunities
+        </h4>
+        <img
+          src="/images/scientific-career-opportunities.jpg"
+          alt="Scientist using a pipette."
+        />
+      </div>
       <div class="col-lg-6">
-        <h5>Research Facilities</h5>
+        <h3 class="red d-none d-lg-block">Scientific career opportunities</h3>
+        <ul>
+          <li>
+            Our staff are encouraged to develop portfolios as independent
+            researchers working towards improvements across the public health
+            portfolio.
+          </li>
+          <li>
+            We host post-doctoral research workers working to develop improved
+            public health
+          </li>
+          <li>
+            We offer honorary contracts to academics to improve the public
+            health science base. We are also eligible to host joint academic
+            posts with partner organisations.
+          </li>
+        </ul>
+
         <p>
-          UKHSA hosts specialist facilities and services in the following
-          areas:<br />
-          Microbiology, molecular biology, diagnostics, medical science,
-          forensics, chemical, radiation & environmental hazards, production
-          facilities, collections, animal sciences, bio-maths,
-          ecotoxicology/environmental fate and quality systems and
-          accreditation.
+          If you would like to establish stronger academic links or have a
+          post-doctoral project you would like to support, please contact
+          <a class="bold-link" href="mailto:Research.Support@ukhsa.gov.uk"
+            >Research.Support@ukhsa.gov.uk</a
+          >. Other opportunities are published in NHS jobs, or through
+          jobs.ac.uk and via our partners.
         </p>
       </div>
+    </div>
+    <!-- /.row -->
 
-      <div class="col-lg-6 pt-5 pt-lg-0">
-        <h5>Digital, data and technology</h5>
+    <div class="row pt-12">
+      <div class="col-lg-6 pb-5 pb-lg-0 order-lg-2 text-start text-lg-end">
+        <h4 class="d-lg-none d-print-none pb-4 red">
+          Research and Collaboration Opportunities
+        </h4>
+        <img
+          src="/images/research-and-collaboration-opportunities.jpg"
+          alt="Research and collaboration."
+        />
+      </div>
+      <div class="col-lg-6 order-lg-1">
+        <h3 class="red d-none d-lg-block">
+          Research and Collaboration Opportunities
+        </h3>
         <p>
-          The strengthening and application of our digital, data and technology
-          (DDaT) capability is key to maximising the opportunities afforded to
-          us through research. This could be through the greater use of
-          data-driven technologies such as artificial intelligence (AI) to
-          improve diagnoses, or through improved use of data to generate new
-          evidence on the effectiveness of interventions.
+          Our experts work in partnership with university-based researchers
+          nationally and internationally, research funders, the NHS, local
+          authorities, the third sector and the public to maximise research
+          capabilities across the system.
+        </p>
+
+        <p>
+          The Research Support and Governance Office is the central point of
+          contact for enquires regarding research and collaboration
+          opportunities and offers from academia and other research-active
+          organisations
+          <a class="bold-link" href="mailto:ResearchSupport@ukhsa.gov.uk"
+            >ResearchSupport@ukhsa.gov.uk</a
+          >
         </p>
       </div>
     </div>
 
-    <div class="row pt-5">
+    <div class="row pt-12">
+      <div class="col-lg-6 pb-5 pb-lg-0">
+        <h4 class="d-lg-none d-print-none pb-4 red">
+          Opportunities for Industry
+        </h4>
+        <img
+          src="/images/opportunities-for-industry.jpg"
+          alt="Opportunities for industry."
+        />
+      </div>
       <div class="col-lg-6">
-        <h5>Research Facilities</h5>
+        <h3 class="red d-none d-lg-block">Opportunities for Industry</h3>
         <p>
-          UKHSA is also a member of the National Laboratory Alliance (NLA), one
-          of 10 Public Sector Research Establishments (PSRE) forming part of the
-          Government’s wider science capability. Some our facilities are also
-          open to research scientists and engineers working in the public and
-          commercial sectors in the UK and internationally.
+          UKHSA can provide your organisation with access to world-leading
+          expertise in research and development across a broad range of
+          activities that prevent and reduce of the effect of diseases and
+          chemical and radiation hazards.
+        </p>
+
+        <p>
+          We offer opportunities for research collaboration and partnership,
+          consultancy, technology licensing and training and development for
+          industry.
+        </p>
+
+        <p>
+          Please contact our Business Development Team (<a
+            class="bold-link"
+            href="mailto:Business@ukhsa.gov.uk"
+            >Business@ukhsa.gov.uk</a
+          >) who have in depth knowledge of our organisation’s research
+          activities and will be able to direct your enquiry to the appropriate
+          experts.
         </p>
       </div>
     </div>
+    <!-- /.row -->
+
+    <div class="row pt-12">
+      <div class="col-lg-9 order-lg-1">
+        <h3 class="red d-none d-lg-block">
+          Research and Collaboration Opportunities
+        </h3>
+        <p class="mb-4">
+          <strong>OPEN CALL:</strong> Apply to undertake an ‘Innovation in AMR’
+          study with UKHSA, working with our scientific experts.
+        </p>
+        <a
+          class="button button--alt button--external"
+          href="/documents/UKHSA-AMR-Open-Innovation-Factsheets-Nov-2024.pdf"
+          target="_blank"
+          rel="nopener"
+          >Click here for more information</a
+        >
+      </div>
+    </div>
+    <!-- /. row -->
   </div>
+  <!-- /.container -->
+
+  <div class="container"></div>
+  <!-- /.container -->
 </section>
 
 {{ end }}
