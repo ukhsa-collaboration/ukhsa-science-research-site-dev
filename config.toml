@@ -2,7 +2,6 @@ baseURL = "https://research.ukhsa.gov.uk/"
 languageCode = "en-us"
 title = "UK Health Security Agency"
 theme = "phe"
-
 [menu]
   [[menu.main]]
     name = "About Research"
@@ -35,11 +34,16 @@ theme = "phe"
     url = "/research-integrity/"
     weight = 7
   [[menu.main]]
+    name = "Impact"
+    url = "/impact/"
+    identifier = "our-research"
+    weight = 8
+  [[menu.main]]
     name = "Contact Us"
     url = "/contact/"
-    weight = 8
+    weight = 9
 #  [[menu.main]]
 #    name = "Divisions"
 #    url = "/divisions/"
 #    parent = "our-research"
-#    weight = 9
+#    weight = 10
