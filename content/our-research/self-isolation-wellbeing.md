@@ -12,7 +12,7 @@ buttonText: "Learn more on social isolation and wellbeing"
 
 {{< spotlight-feature title="Airborne Particulates and Brain Health" image="fib-sem-banner.jpg" alt="inhaled particles" caption="Exposed blood vessel cells (as a BBB model) to diesel exhaust particles at Octopus Central Laser Facility.  Source: Science and Technology Facilities Council  (STFC)" >}}
 <p>Increasing evidence suggests a link between air pollution and brain diseases like Alzheimer's and Parkinson's.</p>
-<p>Our research explores how airborne particles may impact the brain by affecting the blood brain barrier (BBB), through an interdisciplinary approach in collaboration with scientists at national facilities on the <a style="color:white;" href="https://www.harwellcampus.com" target="_blank">Harwell Science and Innovation Campus.</a></p>
+<p>During the COVID-19 pandemic, everyone was asked to carry out protective behaviours that would prevent the spread of illness.  While people had been asked to isolate in previous outbreaks, the impact of quarantining on psychological wellbeing was unclear.  a <a style="color:white;" href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30460-8/fulltext#:~:text=Most%20reviewed%20studies%20reported%20negative,%2C%20financial%20loss%2C%20and%20stigma." target="_blank">Rapid Review</a></p>was carreid out to inform the public health response to the COVID-19 pandemic.</a></p>
 
 <p><a style="color:white;" href="https://researchportal.ukhsa.gov.uk/en/persons/chang-guo" target="_blank">Author: Chang Guo; UKHSA Research Profile</a></p>
 {{< /spotlight-feature >}}
