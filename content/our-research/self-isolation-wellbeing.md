@@ -5,16 +5,15 @@ draft: false
 type: "spotlight"
 thumbnail: "fib-sem.jpg"
 alt: "A person experiencing social isolation"
-description: "Researching the link between self-isolation and health."
-excerpt: "Increasing evidence suggests a link between qurarantine and a negative impact on psychological wellbeing during the COVID-19 pandemic"
+description: "Researching the link between self-isolation and wellbeing."
 buttonText: "Learn more on social isolation and wellbeing"
 ---
 
-{{< spotlight-feature title="Airborne Particulates and Brain Health" image="fib-sem-banner.jpg" alt="inhaled particles" caption="Exposed blood vessel cells (as a BBB model) to diesel exhaust particles at Octopus Central Laser Facility.  Source: Science and Technology Facilities Council  (STFC)" >}}
-<p>Increasing evidence suggests a link between air pollution and brain diseases like Alzheimer's and Parkinson's.</p>
-<p>During the COVID-19 pandemic, everyone was asked to carry out protective behaviours that would prevent the spread of illness.  While people had been asked to isolate in previous outbreaks, the impact of quarantining on psychological wellbeing was unclear.  a <a style="color:white;" href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30460-8/fulltext#:~:text=Most%20reviewed%20studies%20reported%20negative,%2C%20financial%20loss%2C%20and%20stigma." target="_blank">Rapid Review</a></p>was carreid out to inform the public health response to the COVID-19 pandemic.</a></p>
+{{< spotlight-feature title="The Impact of Self-Isolation on Psychological Wellbeing" image="fib-sem-banner.jpg" alt="inhaled particles" caption="Exposed blood vessel cells (as a BBB model) to diesel exhaust particles at Octopus Central Laser Facility.  Source: Science and Technology Facilities Council  (STFC)" >}}
+<p>Increasing evidence suggests a link between self-isolation and wellbeing</p>
+<p>During the COVID-19 pandemic, everyone was asked to carry out protective behaviours that would prevent the spread of illness.  While people had been asked to isolate in previous outbreaks, the impact of quarantining on psychological wellbeing was unclear.  A <a style="color:white;" href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30460-8/fulltext#:~:text=Most%20reviewed%20studies%20reported%20negative,%2C%20financial%20loss%2C%20and%20stigma." target="_blank">Rapid Review</a></p>was carreid out to inform the public health response to the COVID-19 pandemic.</a></p>
 
-<p><a style="color:white;" href="https://researchportal.ukhsa.gov.uk/en/persons/chang-guo" target="_blank">Author: Chang Guo; UKHSA Research Profile</a></p>
+<p><a style="color:white;" href="https://researchportal.ukhsa.gov.uk/en/persons/louise-smith-2/publications/" target="_blank">Author: Louise Smith- Research Output, UKHSA Research Profile</a></p>
 {{< /spotlight-feature >}}
 
 {{< spotlight-content title="Interdisciplinary investigation of particulate matter and the impact on the blood brain barrier (BBB)" image="inhaled-particles.png" alt="Fib-Sem" caption="Pathways of inhaled particulate matter impacting brain health.(Image Source: created with BioRender.com)" >}} 
