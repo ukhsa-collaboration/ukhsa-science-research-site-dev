@@ -11,6 +11,9 @@ buttonText: "Learn more about the impact of self-isolation on psychological well
 ---
 
 {{< spotlight-feature title="The impact of self-isolation on psychological wellbeing" image="featurebanner-self-isolation-wellbeing.png" alt="The impact of self-isolation on psychological wellbeing" caption="The impact of self-isolation on psychological wellbeing (Image source: free)" >}}
+<p>During the COVID-19 pandemic, everyone was asked to carry out protective behaviours that would prevent the spread of illness. While people had been asked to isolate in previous outbreaks, the impact of quarantining on psychological wellbeing was unclear. A 
+<a style="color:white;" href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30460-8/fulltext#:~:text=Most%20reviewed%20studies%20reported%20negative,%2C%20financial%20loss%2C%20and%20stigma." target="_blank">rapid review</a> was carried out to inform the public health response to the COVID-19 pandemic.</p>
+<p>The rapid review systematically searched scientific articles and found 24 studies that investigated the effect of quarantine on psychological wellbeing. Most studies included in the review found that quarantining had a significant negative impact on wellbeing.</p>
 <p><a style="color:white;" href="https://researchportal.ukhsa.gov.uk/en/persons/louise-smith-2/publications/" target ="_blank"> Author: Louise Smith; UKHSA Research Profile</a></p>
 
 {{< /spotlight-feature >}}
