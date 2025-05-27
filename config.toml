@@ -26,7 +26,7 @@ theme = "phe"
     url = "/opportunities/"
     weight = 5
   [[menu.main]]
-    name = "Awerb"
+    name = "Animal Research"
     url = "/awerb/"
     weight = 6    
   [[menu.main]]
