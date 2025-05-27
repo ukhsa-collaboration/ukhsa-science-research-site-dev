@@ -6,7 +6,7 @@ type: "spotlight"
 thumbnail: "fibsemthumb.jpg"
 alt: "Reconstruction of Plasma Membrane"
 description: "Researching the link between air pollution and brain diseases."
-excerpt: "Increasing evidence suggests a link between air pollution and brain diseases including Alzheimer&#39;s and Parkinson&#39;s."
+excerpt: "Increasing evidence suggests a link between air pollution and brain diseases including Alzheimer's and Parkinson's."
 buttonText: "Learn more on Airborne Particulates and Brain Health"
 ---
 
