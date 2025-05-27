@@ -3,7 +3,7 @@ title: "Sunlight and Cardiovascular Disease"
 date: 2024-07-01T14:00:00Z
 draft: false
 type: "spotlight"
-thumbnail: "sunlight-text.jpg"
+thumbnail: "thumbnail-sunlight.jpg"
 alt: "Blood pressure monitoring."
 description: "High blood pressure affects around 25&#37; of UK adults and is a leading risk factor for cardiovascular disease. Research by UKHSA shows that small exposures to  sunlight may be beneficial for our cardiovascular health. This may offer a simple and accessible way of reducing the risk of cardiovascular disease."
 excerpt: "High blood pressure affects around 25% of UK adults and is a leading risk factor for cardiovascular disease. Research by UKHSA shows that small exposures to sunlight may be beneficial for our cardiovascular health. This may offer a simple and accessible way of reducing the risk of cardiovascular disease"
