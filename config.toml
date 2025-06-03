@@ -27,7 +27,7 @@ theme = "phe"
     weight = 5
   [[menu.main]]
     name = "Animal Research"
-    url = "/animal-research"
+    url = "/animal-research/"
     weight = 6    
   [[menu.main]]
     name = "Research Integrity"
