@@ -147,7 +147,7 @@
         role="tabpanel"
         aria-labelledby="tab-3"
       >
-        {{ partial "ukhsa-animal-research/regulations-animals" . }}
+        {{ partial "ukhsa-animal-research/where-animal-research" . }}
       </div>
 
       <!-- Tab 4 -->
@@ -157,7 +157,7 @@
         role="tabpanel"
         aria-labelledby="tab-4"
       >
-        {{ partial  "ukhsa-animal-research/where-animal-research . }}
+        {{ partial "ukhsa-animal-research/regulations-animals" . }}
       </div>
 
       <!-- Tab 5 -->
@@ -167,7 +167,7 @@
         role="tabpanel"
         aria-labelledby="tab-5"
       >
-        {{ partial " "ukhsa-animal-research/why-animal-research" . }}
+        {{ partial "ukhsa-animal-research/why-animal-research" . }}
       </div>
     </div>
     <!-- /.tab-content -->
@@ -175,6 +175,6 @@
   <!-- /.container -->
 </section>
 
-{{ range first 1 .Pages }}
+{{ end }}
 
      
