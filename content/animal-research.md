@@ -6,3 +6,4 @@ type: "awerb"
 menu: "footer"
 weight: 4
 ---
+[Go to AWERB tab](/animal-research/#tab-content-2)
