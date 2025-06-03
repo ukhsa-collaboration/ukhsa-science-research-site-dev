@@ -11,7 +11,7 @@ weight: 4
 <div class="page-title">
   <div class="container">
     <h1>UKHSA Research Involving Animals</h1>
-   <div class="row mb-4">
+    <div class="row mb-4">
       <div class="col-md-5">
         <p>
          <a style="color:white" href="https://concordatopenness.org.uk/about-the-concordat-on-openness/" target="_blank">Concordat on Openness</a>
@@ -23,55 +23,56 @@ weight: 4
         </p>
       </div>
     </div>
-<section class="pt-9 pb-12">
-  <div class="container pb-6">
-    <div class="row">
-      <h2>Using Animal Testing in UKHSA Research </h2>
-      <div class="col-lg-8">
-        <p>
-        The UKHSA recognises that the use of animals in research is a sensitive and complex issue, and we
-        are committed to being transparent about our use of animals in research. We believe that
-        it is important to communicate openly with the public about the role of animal research in
-        advancing scientific knowledge and improving human health <b>(Fig.1)</b>.</p>
-        <p>The biological similarities between humans and other species means that they can, on some 
-        occasions, be the only effective model for research where responses to agents 
-        is too complex to be modelled in any other way.  Such animal models provide key 
-        scientific evidence that informs interventions, policies and responses to local,
-        national and international health security.</p>
-
-      <p>The UK Health Security Agency (UKHSA) uses animal testing in specific and carefully
-          considered circumstances to support our public health research and protection responses
-          to infectious diseases, vaccines and environmental hazards. Within our vaccine and therapy
-          development, animals are used to assess the safety and efficacy of new treatments for 
-          diseases like influenza, HIV/AIDS, tuberculosis, hepatitis C, meningococcal disease, neonatal
-          sepsis and other infectious diseases.</p>
-          <br>
-    </div>
   </div>
 </div>
-
- <div class="row">  
-      <div class="col-lg-6 pt-8 pt-lg-0 pb-1g-0">
-        <figure>
-          <img src="/images/awerb-diagram-480.png" alt="Diagram illustrating UKHSA research involving animals">
-          <figcaption>
-            <b><i><br>Fig 1. UKHSA Research</i></b>
-            <p style="font-size:small; text-align:justify;">
-              Alongside epidemiological and cell studies, 
-              animal research plays an essential role 
-              in understanding how infectious, radiological, chemical and other 
-              environmental agents impact human health
-            </p>
-          </figcaption>
-        </figure>
-        <a
-          class="button button--alt button--external mt-5"
-          href="https://www.open.ac.uk/postgraduate/research-degrees/being-an-ou-research-student/affiliated-research-centres"
-          target="_blank"
-          rel="noopener"
-        >consider link here</a>
-      </div>
+<section class="pt-9 pb-12">
+    <h2>Using Animal Testing in UKHSA Research </h2>
+    <div class="col-lg-8">
+      <p>
+      The UKHSA recognises that the use of animals in research is a sensitive and complex issue, and we
+      are committed to being transparent about our use of animals in research. We believe that
+      it is important to communicate openly with the public about the role of animal research in
+      advancing scientific knowledge and improving human health <b>(Fig.1)</b>.
+      </p>
+      <p>
+      The biological similarities between humans and other species means that they can, on some 
+      occasions, be the only effective model for research where responses to agents 
+      is too complex to be modelled in any other way.  Such animal models provide key 
+      scientific evidence that informs interventions, policies and responses to local,
+      national and international health security.
+      </p>
+      <p>
+      The UK Health Security Agency (UKHSA) uses animal testing in specific and carefully
+        considered circumstances to support our public health research and protection responses
+        to infectious diseases, vaccines and environmental hazards. Within our vaccine and therapy
+        development, animals are used to assess the safety and efficacy of new treatments for 
+        diseases like influenza, HIV/AIDS, tuberculosis, hepatitis C, meningococcal disease, neonatal
+        sepsis and other infectious diseases.
+      </p>
+      <br>
+<div class="row">  
+  <div class="col-lg-6 pt-8 pt-lg-0 pb-1g-0">
+    <figure>
+      <img src="/images/awerb-diagram-480.png" alt="Diagram illustrating UKHSA research involving animals">
+      <figcaption>
+        <b><i><br>Fig 1. UKHSA Research</i></b>
+        <p style="font-size:small; text-align:justify;">
+          Alongside epidemiological and cell studies, 
+          animal research plays an essential role 
+          in understanding how infectious, radiological, chemical and other 
+          environmental agents impact human health
+        </p>
+      </figcaption>
+    </figure>
+    <a
+      class="button button--alt button--external mt-5"
+      href="https://www.open.ac.uk/postgraduate/research-degrees/being-an-ou-research-student/affiliated-research-centres"
+      target="_blank"
+      rel="noopener"
+    >consider link here</a>
   </div>
+</div>
+<!-- Removed duplicate/erroneous container and link markup -->
   <div class="container pb-6">
     <div class="row">
       <div class="col-lg-12">
@@ -225,12 +226,6 @@ weight: 4
           responses to environmental hazards or pathogens are not currently available, UKHSA is working 
           on multiple new approach methodologies (NAMs). This includes <a href="https://research.ukhsa.gov.uk/our-research/microphysiological-systems/" target="_blank">Organ on a Chip.</a> ‘organ on a chip’ systems to 
           help develop vaccines, drug and therapeutics against a broad range of other dangerous infectious 
-          diseases including MERS and Influenza virus. In the long term, we anticipate that this research 
-          will accelerate the rate of development of novel medicines. In addition, we are developing and 
-          validating new cell-based tests to support animal-free chemical safety regulation.
-        </p>
-        <p class="mb-4"></p>
-        <h3 class="pb-4 red"><b>Reduction</b></h3>
         <p>
           Reduction involves minimising the number of animals used in research while maintaining the validity
           of the data collected, ensuring that no animals are used unnecessarily. Throughout the lifetime of our 
@@ -239,18 +234,19 @@ weight: 4
           and results with internal and external collaborators to maximise the data generated from animals and allow 
           new technologies to add value to existing samples, thereby preventing duplication of experiments.
         </p>
+        <p>
         At UKHSA we use in vitro screening of potential countermeasures wherever possible and we have established
         a comprehensive archive of animal blood and tissues that can be shared across the organisation to develop new 
         technologies or apply new analysis that will enhance our interpretation of previously conducted studies, 
         removing the need for additional animals.
         </p>
-        <h3 class="pb-4 red"><b>Refinement</b></h3>
         <p>
           At UKHSA the care and conditions for animals in research are continually refined to minimise harm and distress 
           as much as possible. Practices are regularly assessed and updated to enhance animal well-being at every opportunity. 
           This has involved ensuring group housing for social animals and developing novel and exciting enrichment activities for 
           the wide variety of species we use. For example, providing species-appropriate toys, nesting materials, and opportunities for natural behaviours.
         </p>
+        <p>
           Examples of refinement include housing animals in socially compatible groups wherever possible, provision of enrichment 
           appropriate to the species to encourage natural behaviours and adopting sampling techniques in line with advice from bodies 
           such as the <i>National Centre for the Replacement, Refinement and Reduction of Animals in Research</i> <a href="https://nc3rs.org.uk/who-we-are/3rs" target="_blank">NC3Rs</a> through regular liaison.  
@@ -268,4 +264,9 @@ weight: 4
   </div>
   <!-- /.container -->
 </section>
+{{ end }}
+      </div>
+    </div>
+    <!-- /. row -->
+  </div>
 {{ end }}
