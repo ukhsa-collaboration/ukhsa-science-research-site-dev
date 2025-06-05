@@ -11,8 +11,6 @@ buttonText: "Learn more about the impact of self-isolation on psychological well
 ---
 
 {{< spotlight-feature title="The impact of self-isolation" image="banner-isolation.png" alt="The impact of self-isolation on psychological wellbeing" caption="The impact of self-isolation on psychological wellbeing (Image source: free)" >}}
-on psychological wellbeing</p>
-<p><a style="color:white;" href="https://researchportal.ukhsa.gov.uk/en/persons/louise-smith-2/publications/"> Author: Louise Smith; UKHSA Research Profile</a></p>
 
 {{< /spotlight-feature >}}
 
@@ -21,6 +19,7 @@ on psychological wellbeing</p>
 <p>The results of this study were published as a scientific research paper (which has now been cited over 10,000 times, making it one of the most highly cited articles in the history of King's College London) and shared with policy makers to support and inform the response to the COVID-19 pandemic.</p>
 <p>The review was delivered by the National Institute for Health and Care Research (NIHR) <a href="https://epr.hpru.nihr.ac.uk/" target="_blank">Health Protection Research Unit in Emergency Preparedness and Response at King's College London</a>, a collaboration between the UK Health Security Agency (previously Public Health England), King's College London and the University of East Anglia. A further rapid review investigated <a href="https://pubmed.ncbi.nlm.nih.gov/32334182/" target="_blank">how to improve adherence to quarantine</a>.</p>
 <p>These reviews were subsequently updated to investigate adherence to self-isolation during the COVID-19 pandemic and whether self-isolation during the COVID-19 pandemic affected wellbeing (see Further Reading).</p>
+<p><a style="color:white;" href="https://researchportal.ukhsa.gov.uk/en/persons/louise-smith-2/publications/"> Author: Louise Smith; UKHSA Research Profile</a></p>
 <h3 class="red d-none d-lg-block">Further Reading:</h3>
 <p><a href="https://www.sciencedirect.com/science/article/pii/S0033350624002269" target="_blank">Measuring and increasing rates of self-isolation in the context of COVID-19: a systematic review with narrative synthesis - ScienceDirect</a></p>
 <p><a href="https://osf.io/24rz3/" target="_blank">OSF | Self-isolation: a series of systematic reviews</a></p>
