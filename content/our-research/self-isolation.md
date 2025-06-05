@@ -11,7 +11,8 @@ excerpt: "During the COVID-19 pandemic, everyone was asked to carry out protecti
 buttonText: "Learn more about the impact of self-isolation on psychological wellbeing"
 ---
 
-{{< spotlight-feature title="The impact of self-isolation<br>on psychological wellbeing" image="banner-isolation.png" alt="The impact of self-isolation on psychological wellbeing" caption="The impact of self-isolation on psychological wellbeing (Image source: free)" >}}
+{{< spotlight-feature title="The impact of self-isolation on 
+psychological wellbeing" image="banner-isolation.png" alt="The impact of self-isolation on psychological wellbeing" caption="The impact of self-isolation on psychological wellbeing (Image source: free)" >}}
 
 {{< /spotlight-feature >}}
 
