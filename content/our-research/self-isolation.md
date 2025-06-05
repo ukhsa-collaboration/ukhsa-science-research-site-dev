@@ -10,7 +10,8 @@ excerpt: "During the COVID-19 pandemic, everyone was asked to carry out protecti
 buttonText: "Learn more about the impact of self-isolation on psychological wellbeing"
 ---
 
-{{< spotlight-feature title="The impact of self-isolation on<br>psychological wellbeing" image="banner-isolation.png" alt="The impact of self-isolation on psychological wellbeing" caption="The impact of self-isolation on psychological wellbeing (Image source: free)" >}}
+{{< spotlight-feature title="The impact of self-isolation" image="banner-isolation.png" alt="The impact of self-isolation on psychological wellbeing" caption="The impact of self-isolation on psychological wellbeing (Image source: free)" >}}
+<p style="font-size:1.5rem; font-weight:bold; margin-top:0.5em;">Psychological wellbeing</p>
 <p><a style="color:white;" href="https://researchportal.ukhsa.gov.uk/en/persons/louise-smith-2/publications/"> Author: Louise Smith; UKHSA Research Profile</a></p>
 
 {{< /spotlight-feature >}}
