@@ -1,6 +1,6 @@
 ---
 title: "The impact of self-isolation on psychological wellbeing"
-date: 2025-05-26T13:30:00Z
+date: 2025-06-05T08:00:00Z
 draft: false
 type: "spotlight"
 thumbnail: "thumbnail-self-isolation.png"
