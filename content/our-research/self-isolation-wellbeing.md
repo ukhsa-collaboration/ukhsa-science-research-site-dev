@@ -1,26 +1,23 @@
 ---
-title: "The impact of self-isolation on psychological wellbeing."
-date: 2025-06-05T08:00:00Z
+title: "Microphysiological Systems for Infectious Disease Modelling"
+date: 2023-11-21T09:09:00Z
 draft: false
 type: "spotlight"
-thumbnail: "thumbnail-self-isolation.png"
-alt: "The impact of self-isolation on psychological wellbeing - COVID"
-description: "The impact of self-isolation on psychological wellbeing"
-excerpt: "During the COVID-19 pandemic, everyone was asked to carry out protective behaviours that would prevent the spread of illness. While people had been asked to isolate in previous outbreaks, the impact of quarantining on psychological wellbeing was unclear. A rapid review was carried out to inform the public health response to the COVID-19 pandemic."
-buttonText: "Learn more about the impact of self-isolation on psychological wellbeing"
+thumbnail: "microphysiologicalsystems.jpg"
+alt: "microphysiological systems."
+description: "Microphysiological systems (MPS) are experimental platforms that utilise human or animal cells grown in three-dimensions in specific microenvironments that aim to mimic the structure and function of tissues and organs in the laboratory. We are developing models of infection using MPS to help reduce our reliance on animal models."
+excerpt: "Microphysiological systems (MPS) are experimental platforms that utilise human or animal cells grown in three-dimensions in specific microenvironments that aim to mimic the structure and function..."
+buttonText: "Learn more on Microphysiological Systems"
 ---
 
-{{< spotlight-feature title="The impact of self-isolation on psychological wellbeing" image="banner-self-isolation.png" alt="The impact of self-isolation on psychological wellbeing" caption="The impact of self-isolation on psychological wellbeing (Image source: free)" >}}
-<p><a style="color:white;" href="https://researchportal.ukhsa.gov.uk/en/persons/louise-smith-2/publications/"> Author: Louise Smith; UKHSA Research Profile</a></p>
-
+{{< spotlight-feature title="Microphysiological Systems" image="microphysiologicalsystems.jpg" >}}
+<p>UKHSA Scientists at the UKHSA Vaccine Development Evaluation Centre are using advanced cell culture techniques to grow human organ systems in the laboratory. These organ systems will allow vaccine, drug, and therapeutic developers to evaluate how well their products can protect humans from infectious disease before embarking on clinical trials, whilst also addressing the ethical requirement to replace or reduce the use of animals wherever possible.</p>
+<p>This is a step change from more traditional techniques and supports meeting UKHSA's requirements as signatory to the Concordat on Openness on Animal Research in the UK Microphysiological systems development that has been running alongside traditional screening techniques at UKHSA for several years. UKHSA is now using several advanced platforms ranging from “off the shelf” solutions to “3D printed designer" systems with academic partners.</p>
 {{< /spotlight-feature >}}
 
-{{< spotlight-content title="The impact of self-isolation on psychological wellbeing." image="content-self-isolation.png" alt="Self Isolation and Wellbeing" caption="Self Isolation and Wellbeing.  (Image source: free)" >}}
-<p>The rapid review systematically searched scientific articles and found 24 studies that investigated the effect of quarantine on psychological wellbeing.  Most studies included in the review found that quarantining had a significant negative impact on wellbeing. Factors that negatively impacted wellbeing included having a lack of supplies, resources, income, inadequate information, and higher health anxiety, boredom, and stigma of having the virus. There was an increased  impact on psychological wellbeing for those quarantining for a longer time. Findings led to a series of recommendations on how to implement quarantine during the COVID-19 pandemic. This included giving a clear explanation of how long and why people would need to self-isolate, ensuring people had basic supplies, and trying to minimise the impact on people’s income and employment.</p>
-<p>The results of this study were published as a scientific research paper (which has now been cited over 10,000 times, making it one of the most highly cited articles in the history of King’s College London) and shared with policy makers to support and inform the response to the COVID-19 pandemic.</p>
-<p>The review was delivered by the National Institute for Health and Care Research (NIHR) <a href="https://epr.hpru.nihr.ac.uk/" target="_blank">Health Protection Research Unit in Emergency Preparedness and Response at King&#39;s College London</a>, a collaboration between the UK Health Security Agency (previously Public Health England), King&#39;s College London and the University of East Anglia. A further rapid review investigated <a href="https://pubmed.ncbi.nlm.nih.gov/32334182/" target="_blank">how to improve adherence to quarantine</a>.</p>
-<p>These reviews were subsequently updated to investigate adherence to self-isolation during the COVID-19 pandemic and whether self-isolation during the COVID-19 pandemic affected wellbeing (see Further Reading).</p>
-<h3 class="red d-none d-lg-block">Further Reading:</h3>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S0033350624002269" target="_blank">Measuring and increasing rates of self-isolation in the context of COVID-19: a systematic review with narrative synthesis - ScienceDirect</a></p>
-<p><a href="https://osf.io/24rz3/" target="_blank">OSF | Self-isolation: a series of systematic reviews</a></p>
+{{< spotlight-content title="Microphysiological Systems" image="microphysiologicalsystems-lab.jpg" alt="microphysiological systems lab" caption="Shows part of the commercial Emulate Organ-on-Chip platform in situ in a standard laboratory incubator and a UKHSA Scientist working with human alveolus chips that have been infected with SARS-CoV-2 in our bespoke high-containment isolator system." >}}
+<p>As can be seen in the image, the complexity of the ciliated epithelium (which looks like layers of cells with hairlike projections) can now be simulated using our microsphysiological systems to model the human respiratory tract more accurately.  In collaboration with academic partners, UKHSA is now infecting microphysiological organ systems simulating the lung, gut and other organs with specific microorganisms.</p>
+<p>UKHSA's studies are currently focused on protecting the public from SARS-CoV-2, but we will be further developing these microphysiological systems to help develop vaccines, drug and therapeutics against a broad range of other dangerous infectious diseases including MERS and Influenza virus. In the long term, we anticipate that this research will accelerate the rate of development of novel medicines.</p>
+<p><a href="https://www.gov.uk/government/publications/ukhsa-board-meeting-papers-september-2023/ukhsa-advisory-board-science-and-research-committee-minutes#animal-research-governance-and-oversight">Animal Research Governance and Oversight</a></p>
+{{< button text="Find out more" icon="external" url="https://www.gov.uk/guidance/ukhsas-vaccine-development-and-evaluation-centre-vdec" external="true">}}
 {{< /spotlight-content >}}
