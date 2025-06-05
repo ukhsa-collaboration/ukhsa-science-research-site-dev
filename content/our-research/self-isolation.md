@@ -1,5 +1,5 @@
 ---
-title: "The impact of self-isolation on psychological wellbeing."
+title: "The impact of self-isolation on<br>psychological wellbeing."
 date: 2025-06-05T08:00:00Z
 draft: false
 type: "spotlight"
