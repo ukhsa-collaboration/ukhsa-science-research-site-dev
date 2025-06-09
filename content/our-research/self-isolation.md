@@ -46,15 +46,18 @@ buttonText: "Learn more about the impact of self-isolation on psychological well
 
 <p>
   <a href="https://link.springer.com/article/10.1186/s12889-025-21385-4" target="_blank">
-    "We're all in the same storm, but not all of us are in the same boat": qualitative exploration of UK response-focused civil servants’ experiences of working from home
+    "We're all in the same storm, but not all of us are in the same boat": qualitative exploration of UK response-focused civil servants’ experiences of working from home during COVID-19
   </a>
   <br>
   <i>Authors: Hall, C.E; Brooks, S.K.; Greenberg, N; Weston, D.</i>
 </p>
-
+<p>
+ <a href="https://academic.oup.com/joh/article/66/1/uiad013/7473692"target="_blank">Experiences of working from home: umbrella review</a>
+ <br>
+ <i>Authors: Hall, C.E; Brooks, S.K; Mills, F; Greenberg, N; Weston, D.</i>
 <p>
   <a href="https://link.springer.com/article/10.1186/s40359-023-01221-3" target="_blank">
-    The relationship between homeworking during the COVID-19 and both, mental health and productivity: a systematic review - BMC Psychology
+    The relationship between homeworking during the COVID-19 and both, mental health and productivity: a systematic review
   </a>
   <br>
   <i>Authors: Hall, C.E; Davidson, L; Brooks, S.K; Greenberg, N; Weston, D.</i>
