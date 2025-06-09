@@ -29,7 +29,7 @@ buttonText: "Learn more about the impact of self-isolation on psychological well
     Measuring and increasing rates of self-isolation in the context of COVID-19: a systematic review with narrative synthesis
   </a>
   <br>
-  <i>Authors:Smith, L.E; Martin, A.F.; Brooks, S.K., Davies, R; Stein, M.V.; D; Amlöt, R; Marteau, T.M; Rubin, G.J, H.</i>
+  <i>Authors:Smith, L.E; Martin, A.F; Brooks, S.K; Davies, R; Stein, M.V; D; Amlöt, R; Marteau, T.M; Rubin, G.J.</i>
 </p>
 
 <p>
@@ -57,7 +57,7 @@ buttonText: "Learn more about the impact of self-isolation on psychological well
     The relationship between homeworking during the COVID-19 and both, mental health and productivity: a systematic review - BMC Psychology
   </a>
   <br>
-  <i>Authors: Hall, C.E; Davidson, L; Brooks, S.K.; Greenberg, N; Weston, D.</i>
+  <i>Authors: Hall, C.E; Davidson, L; Brooks, S.K; Greenberg, N; Weston, D.</i>
 </p>
 
 <p>
@@ -65,7 +65,7 @@ buttonText: "Learn more about the impact of self-isolation on psychological well
     UK Government COVID-19 Response Employees' Perceptions of Working from Home
   </a>
   <br>
-  <i>Authors: Hall, C.E; Brooks, S.K.; Greenberg, N; Weston, D.</i>
+  <i>Authors: Hall, C.E; Brooks, S.K; Greenberg, N; Weston, D.</i>
 </p>
 
 <p><i>Experiences of Using Online Support Groups for Long Covid:</i></p>
