@@ -99,6 +99,6 @@ buttonText: "Learn more about the impact of self-isolation on psychological well
     Applying the Social Identity Approach to Leadership of Online Support Groups for Long Covid
   </a>
   <br>
-  <i>Authors: Mills, F; Drury, J; Symons, C; Weston, D; Amlöt, R; Carter, H.</i>
+  <i>Authors: Mills, F; Drury, J; Weston, D; Symons, D; Amlöt, R; Carter, H.</i>
 </p>
 {{< /spotlight-content >}}
