@@ -24,10 +24,16 @@ buttonText: "Learn more about the impact of self-isolation on psychological well
 <p>A further rapid review investigated a href="https://pubmed.ncbi.nlm.nih.gov/32334182/"target="_blank">how to improve adherence to quarantine.
 These reviews were subsequently updated to address adherence to self-isolation during the COVID-19 pandemic and whether self-isolation  affected wellbeing (see further reading).</p>
 
-<p><a style="color:white;" href="https://researchportal.ukhsa.gov.uk/en/persons/louise-smith-2/publications/"> Author: Louise Smith; UKHSA Research Profile</a></p>
 <h3 class="red d-none d-lg-block">Further Reading:</h3>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S0033350624002269" target="_blank">Measuring and increasing rates of self-isolation in the context of COVID-19: a systematic review with narrative synthesis - ScienceDirect</a></p>
+<p><a href="https://www.sciencedirect.com/science/article/pii/S0033350624002269" target="_blank">Adherence to self-isolation during the COVID-19 pandemic:Measuring and increasing rates of self-isolation in the context of COVID-19: a systematic review with narrative synthesis - ScienceDirect</a></p>
+<p>Other reviews planned to investigate the impact of self-isolation during the COVID-19 pandemic on wellbeing in other groups:</p>
 <p><a href="https://osf.io/24rz3/" target="_blank">OSF | Self-isolation: a series of systematic reviews</a></p>
+<p>Additional reserach conducted by the Behavioural Science and Insights Unit on the impact of the COVID-19 pandemic on health and wellbeing incudes exploring experiences of homeworking amongst response-focussed UK civil servants and the use of online suport groups for Long Covid.</p>
+<p><stor"ng>Experiences of homeworking:<strong></p>
+a href="https://link.springer.com/article/10.1186/s12889-025-21385-4" target="blank>We're all in the same storm, but not all of us are in the same boat": qualitative exploration of UK response-focused civil servants experiences of working from home<a>
+
+
+
 
 {{< /spotlight-content >}}
 
