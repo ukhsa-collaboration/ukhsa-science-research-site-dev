@@ -29,7 +29,7 @@ buttonText: "Learn more about the impact of self-isolation on psychological well
     Measuring and increasing rates of self-isolation in the context of COVID-19: a systematic review with narrative synthesis
   </a>
   <br>
-  <i>Authors: Mills, F; Drury, J; Symons, C; Weston, D; Amlöt, R; Carter, H.</i>
+  <i>Authors:Smith, L.E; Martin, A.F.; Brooks, S.K., Davies, R; Stein, M.V.; D; Amlöt, R; Marteau, T.M; Rubin, G.J, H.</i>
 </p>
 
 <p>
@@ -37,7 +37,7 @@ buttonText: "Learn more about the impact of self-isolation on psychological well
     OSF | Self-isolation: a series of systematic reviews
   </a>
   <br>
-  <i>Authors: Mills, F; Drury, J; Symons, C; Weston, D; Amlöt, R; Carter, H.</i>
+  <i>Authors: Martin, A.F; Smith, L; Rubin, J; Stein, M.V; Brooks, S.K; Davies, R; Marteau, T.M; Greenberg, N; Amlöt, R.</i>
 </p>
 
 <p>Additional research conducted by the Behavioural Science and Insights Unit on the impact of the COVID-19 pandemic on health and wellbeing includes exploring experiences of homeworking amongst response-focused UK civil servants and the use of online support groups for Long Covid.</p>
