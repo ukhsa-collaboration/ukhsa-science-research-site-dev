@@ -15,7 +15,6 @@ buttonText: "Learn more about the impact of self-isolation on psychological well
 <p>These findings led to a series of recommendations for how to implement quarantine, including  clear explanations for how long and why people would have to quarantine, ensuring people had basic supplies, and  trying to minimise the impact on people’s income and employment."</p>
 <p><a style="color:white;" href="https://researchportal.ukhsa.gov.uk/en/persons/louise-smith-2/publications/" target="_blank">Author: Louise Smith; UKHSA Research Profile</a></p>
 {{< /spotlight-feature >}}
-
 {{< spotlight-content title="Rapid Review of Existing Evidence" image="content-isolation.png" alt="Self Isolation and Wellbeing (Image source:free)" >}}
 <p>The results of this study were published as a scientific research paper (which has now been cited over 10,000 times, making it one of the most highly cited articles in the history of King’s College London) and shared with policy makers to support and inform the response to the COVID-19 pandemic.</p>
 
