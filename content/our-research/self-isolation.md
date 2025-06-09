@@ -29,11 +29,16 @@ These reviews were subsequently updated to address adherence to self-isolation d
 <p>Other reviews planned to investigate the impact of self-isolation during the COVID-19 pandemic on wellbeing in other groups:</p>
 <p><a href="https://osf.io/24rz3/" target="_blank">OSF | Self-isolation: a series of systematic reviews</a></p>
 <p>Additional reserach conducted by the Behavioural Science and Insights Unit on the impact of the COVID-19 pandemic on health and wellbeing incudes exploring experiences of homeworking amongst response-focussed UK civil servants and the use of online suport groups for Long Covid.</p>
-<p><stor"ng>Experiences of homeworking:<strong></p>
-a href="https://link.springer.com/article/10.1186/s12889-025-21385-4" target="blank>We're all in the same storm, but not all of us are in the same boat": qualitative exploration of UK response-focused civil servants experiences of working from home<a>
-
-
-
+<p><strong">Experiences of Homeworking:<strong></p>
+<p>a href="https://link.springer.com/article/10.1186/s12889-025-21385-4" target="blank>We're all in the same storm, but not all of us are in the same boat": qualitative exploration of UK response-focused civil servants experiences of working from home<a></p>
+<p>a href= "https://academic.oup.com/joh/article/66/1/uiad013/7473692" target="_blank> Experiences of working from home: umbrella view<a></p>
+<p>a href= "https://link.springer.com/article/10.1186/s40359-023-01221-3" target="_blank>The relationship between homeworking during the COVID-19  and both, mental health and productivity: a systematic review - BMC Psychology<a></p>
+<p>a href= "https://journals.lww.com/joem/fulltext/2024/12000/uk_government_covid_19_response_employees_.25.aspx" target="_blank>UK Government COVID-19 Response Employees' Perceptions of Working from Home<a></p>
+<p><strong">Experiences of Using Online Support Groups for Long Covid:<strong></p>
+<p>a href="https://www.nature.com/articles/s44271-025-00217-6"target="_A mixed studies systematic review on the health and wellbeing effects, and underlying mechanisms, of online support groups for chronic conditions"<a></p>
+<p>a href= "https://onlinelibrary.wiley.com/doi/full/10.1002/casp.28492" target="_blank> Online support grups, social identity and teh health and wellbeing of adults with Long Covid<a></p>
+<p>a href= "https://www.qeios.com/read/BYF1FU" target="_blank>Social Identity Processes within Online Support Groups for People with Long Covid: A Longitudinal Survey<a></p>
+<p>a href= "https://osf.io/preprints/psyarxiv/pz5hn_v12" target="_blank>Applying the Social Identity Approach to Leadership of Online Support Groups for Long Covid<a></p>
 
 {{< /spotlight-content >}}
 
