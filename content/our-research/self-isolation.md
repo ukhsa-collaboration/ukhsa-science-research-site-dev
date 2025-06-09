@@ -15,9 +15,7 @@ buttonText: "Learn more about the impact of self-isolation on psychological well
 
 <p>The rapid review systematically searched scientific articles and found 24 studies that investigated the effect of quarantine on psychological wellbeing particularly for those quarantining for longer periods of time. Factors that negatively impacted wellbeing included having a lack of supplies, resources, income, inadequate information, higher health anxiety, boredom and stigma of having the virus.</p>
 <p>These findings led to a series of recommendations for how to implement quarantine, including  clear explanations for how long and why people would have to quarantine, ensuring people had basic supplies, and  trying to minimise the impact on people’s income and employment."</p>
-
 <p><a style="color:white;" href="https://researchportal.ukhsa.gov.uk/en/persons/louise-smith-2/publications/" target="_blank">Author: Louise Smith; UKHSA Research Profile</a></p>
-
 {{</spotlight-feature>}}
 
 {{<spotlight-content title>"Rapid Review of Existing Evidence" image="content-isolation.png"alt=Self Isolation and Wellbeing (Image source:free)>}}
