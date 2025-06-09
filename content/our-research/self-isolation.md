@@ -29,7 +29,7 @@ buttonText: "Learn more about the impact of self-isolation on psychological well
     Measuring and increasing rates of self-isolation in the context of COVID-19: a systematic review with narrative synthesis
   </a>
   <br>
-  <i>Authors:Smith, L.E; Martin, A.F; Brooks, S.K; Davies, R; Stein, M.V; D; Amlöt, R; Marteau, T.M; Rubin, G.J.</i>
+  <i>Authors: Smith, L.E; Martin, A.F; Brooks, S.K; Davies, R; Stein, M.V; D; Amlöt, R; Marteau, T.M; Rubin, G.J.</i>
 </p>
 
 <p>
