@@ -24,19 +24,132 @@ buttonText: "Learn more about the impact of self-isolation on psychological well
 These reviews were subsequently updated to address adherence to self-isolation during the COVID-19 pandemic and whether self-isolation affected wellbeing (see further reading).</p>
 
 <h3 class="red d-none d-lg-block">Further Reading:</h3>
-<p><a href="https://www.sciencedirect.com/science/article/pii/S0033350624002269" target="_blank">Measuring and increasing rates of self-isolation in the context of COVID-19: a systematic review with narrative synthesis - ScienceDirect - Authors: Smith L.E. et.al</a></p>
+<p>
+  <a href="https://www.sciencedirect.com/science/article/pii/S0033350624002269" target="_blank">
+    Measuring and increasing rates of self-isolation in the context of COVID-19: a systematic review with narrative synthesis
+  </a>
+  <br>
+  <i>Authors:
+    <a href="https://www.researchgate.net/profile/Felicity-Mills" target="_blank">Mills, F</a>;
+    <a href="https://www.sussex.ac.uk/profiles/124634" target="_blank">Drury, J</a>;
+    <a href="https://www.kcl.ac.uk/people/charlotte-symons" target="_blank">Symons, C</a>;
+    <a href="https://www.kcl.ac.uk/people/dale-weston" target="_blank">Weston, D</a>;
+    <a href="https://www.gov.uk/government/people/matthew-amlot" target="_blank">Amlöt, R</a>;
+    <a href="https://www.kcl.ac.uk/people/helen-carter" target="_blank">Carter, H</a>.
+  </i>
+</p>
 <p><i>Other reviews planned to investigate the impact of self-isolation during the COVID-19 pandemic on wellbeing in other groups:</p>
-<p><a href="https://osf.io/24rz3/" target="_blank">OSF | Self-isolation: a series of systematic reviews - Authors: </a></p>
+<p>
+  <a href="https://osf.io/24rz3/" target="_blank">
+    OSF | Self-isolation: a series of systematic reviews
+  </a>
+  <br>
+  <i>Authors:
+    <a href="https://www.researchgate.net/profile/Felicity-Mills" target="_blank">Mills, F</a>;
+    <a href="https://www.sussex.ac.uk/profiles/124634" target="_blank">Drury, J</a>;
+    <a href="https://www.kcl.ac.uk/people/charlotte-symons" target="_blank">Symons, C</a>;
+    <a href="https://www.kcl.ac.uk/people/dale-weston" target="_blank">Weston, D</a>;
+    <a href="https://www.gov.uk/government/people/matthew-amlot" target="_blank">Amlöt, R</a>;
+    <a href="https://www.kcl.ac.uk/people/helen-carter" target="_blank">Carter, H</a>.
+  </i>
+</p>
 <p>Additional research conducted by the Behavioural Science and Insights Unit on the impact of the COVID-19 pandemic on health and wellbeing includes exploring experiences of homeworking amongst response-focused UK civil servants and the use of online support groups for Long Covid.</i></p>
 <p><i>Experiences of Homeworking:</i></p>
-<p><a href="https://link.springer.com/article/10.1186/s12889-025-21385-4" target="_blank">"We're all in the same storm, but not all of us are in the same boat": qualitative exploration of UK response-focused civil servants experiences of working from home - Authors: Hall, C.E; Brooks, S.K.; Greenberg, N; Weston, D.</a></p>
-<p><a href="https://link.springer.com/article/10.1186/s40359-023-01221-3" target="_blank">The relationship between homeworking during the COVID-19 and both, mental health and productivity: a systematic review - BMC Psychology- Authors: Hall, C.E; Davidson, L; Brooks, S.K; Greenberg, N; Weston, D.</a></p>
-<p><a href="https://journals.lww.com/joem/fulltext/2024/12000/uk_government_covid_19_response_employees_.25.aspx" target="_blank">UK Government COVID-19 Response Employees' Perceptions of Working from Home <i> Authors: Hall, C.E; Brooks, S.K; Greenberg, N; Weston, D.<i></a></p>
+<p>
+  <a href="https://link.springer.com/article/10.1186/s12889-025-21385-4" target="_blank">
+    "We're all in the same storm, but not all of us are in the same boat": qualitative exploration of UK response-focused civil servants experiences of working from home
+  </a>
+  <br>
+  <i>Authors:
+    <a href="https://www.kcl.ac.uk/people/christine-hall" target="_blank">Hall, C.E</a>;
+    <a href="https://www.kcl.ac.uk/people/samuel-brooks" target="_blank">Brooks, S.K.</a>;
+    <a href="https://www.kcl.ac.uk/people/neil-greenberg" target="_blank">Greenberg, N</a>;
+    <a href="https://www.kcl.ac.uk/people/dale-weston" target="_blank">Weston, D</a>.
+  </i>
+</p>
+<p>
+  <a href="https://link.springer.com/article/10.1186/s40359-023-01221-3" target="_blank">
+    The relationship between homeworking during the COVID-19 and both, mental health and productivity: a systematic review - BMC Psychology
+  </a>
+  <br>
+  <i>Authors:
+    <a href="https://www.kcl.ac.uk/people/christine-hall" target="_blank">Hall, C.E</a>;
+    <a href="https://www.kcl.ac.uk/people/louise-davidson" target="_blank">Davidson, L</a>;
+    <a href="https://www.kcl.ac.uk/people/samuel-brooks" target="_blank">Brooks, S.K.</a>;
+    <a href="https://www.kcl.ac.uk/people/neil-greenberg" target="_blank">Greenberg, N</a>;
+    <a href="https://www.kcl.ac.uk/people/dale-weston" target="_blank">Weston, D</a>.
+  </i>
+</p>
+<p>
+  <a href="https://journals.lww.com/joem/fulltext/2024/12000/uk_government_covid_19_response_employees_.25.aspx" target="_blank">
+    UK Government COVID-19 Response Employees' Perceptions of Working from Home
+  </a>
+  <br>
+  <i>Authors:
+    <a href="https://www.kcl.ac.uk/people/christine-hall" target="_blank">Hall, C.E</a>;
+    <a href="https://www.kcl.ac.uk/people/samuel-brooks" target="_blank">Brooks, S.K.</a>;
+    <a href="https://www.kcl.ac.uk/people/neil-greenberg" target="_blank">Greenberg, N</a>;
+    <a href="https://www.kcl.ac.uk/people/dale-weston" target="_blank">Weston, D</a>.
+  </i>
+</p>
 <p><i>Experiences of Using Online Support Groups for Long Covid:<i></p>
-<p><a href="https://www.nature.com/articles/s44271-025-00217-6" target="_blank">A mixed studies systematic review on the health and wellbeing effects, and underlying mechanisms, of online support groups for chronic conditions <i>Authors: Mills, F; Dury, J; Hall, C.E; Weston, D; Symons, C; Aml&ouml;,R; Carter, H.<i></a></p>
-<p><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/casp.2849" target="_blank">Online support groups, social identity and the health and wellbeing of adults with Long Covid <i> Authors Mills, F; Drury, J; Symons, C; Weston, D; Aml&Oml;,R; Carter, H.</a> <i></p>
-<p><a href="https://www.qeios.com/read/BYF1FU" target="_blank">Social Identity Processes within Online Support Groups for People with Long Covid: A Longitudinal Survey<i>Authors Mills, F; Drury, J; Symons, C; Weston, D; Aml&oml;t, R; Carter, H.<i></a></p>
-<p><a href="https://osf.io/preprints/psyarxiv/pz5hn_v1" target="_blank">Applying the Social Identity Approach to Leadership of Online Support Groups for Long Covid Authors Mills, F; Drury; C; Weston, J; Symons, D; Aml&oml;t, R; Carter, H.</a> <i></p></a></p>
+<p>
+  <a href="https://www.nature.com/articles/s44271-025-00217-6" target="_blank">
+    A mixed studies systematic review on the health and wellbeing effects, and underlying mechanisms, of online support groups for chronic conditions
+  </a>
+  <br>
+  <i>Authors:
+    <a href="https://www.researchgate.net/profile/Felicity-Mills" target="_blank">Mills, F</a>;
+    <a href="https://www.sussex.ac.uk/profiles/124634" target="_blank">Drury, J</a>;
+    <a href="https://www.kcl.ac.uk/people/christine-hall" target="_blank">Hall, C.E</a>;
+    <a href="https://www.kcl.ac.uk/people/dale-weston" target="_blank">Weston, D</a>;
+    <a href="https://www.kcl.ac.uk/people/charlotte-symons" target="_blank">Symons, C</a>;
+    <a href="https://www.gov.uk/government/people/matthew-amlot" target="_blank">Amlöt, R</a>;
+    <a href="https://www.kcl.ac.uk/people/helen-carter" target="_blank">Carter, H</a>.
+  </i>
+</p>
+<p>
+  <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/casp.2849" target="_blank">
+    Online support groups, social identity and the health and wellbeing of adults with Long Covid
+  </a>
+  <br>
+  <i>Authors:
+    <a href="https://www.researchgate.net/profile/Felicity-Mills" target="_blank">Mills, F</a>;
+    <a href="https://www.sussex.ac.uk/profiles/124634" target="_blank">Drury, J</a>;
+    <a href="https://www.kcl.ac.uk/people/charlotte-symons" target="_blank">Symons, C</a>;
+    <a href="https://www.kcl.ac.uk/people/dale-weston" target="_blank">Weston, D</a>;
+    <a href="https://www.gov.uk/government/people/matthew-amlot" target="_blank">Amlöt, R</a>;
+    <a href="https://www.kcl.ac.uk/people/helen-carter" target="_blank">Carter, H</a>.
+  </i>
+</p>
+<p>
+  <a href="https://www.qeios.com/read/BYF1FU" target="_blank">
+    Social Identity Processes within Online Support Groups for People with Long Covid: A Longitudinal Survey
+  </a>
+  <br>
+  <i>Authors:
+    <a href="https://www.researchgate.net/profile/Felicity-Mills" target="_blank">Mills, F</a>;
+    <a href="https://www.sussex.ac.uk/profiles/124634" target="_blank">Drury, J</a>;
+    <a href="https://www.kcl.ac.uk/people/charlotte-symons" target="_blank">Symons, C</a>;
+    <a href="https://www.kcl.ac.uk/people/dale-weston" target="_blank">Weston, D</a>;
+    <a href="https://www.gov.uk/government/people/matthew-amlot" target="_blank">Amlöt, R</a>;
+    <a href="https://www.kcl.ac.uk/people/helen-carter" target="_blank">Carter, H</a>.
+  </i>
+</p>
+<p>
+  <a href="https://osf.io/preprints/psyarxiv/pz5hn_v1" target="_blank">
+    Applying the Social Identity Approach to Leadership of Online Support Groups for Long Covid
+  </a>
+  <br>
+  <i>Authors:
+    <a href="https://www.researchgate.net/profile/Felicity-Mills" target="_blank">Mills, F</a>;
+    <a href="https://www.sussex.ac.uk/profiles/124634" target="_blank">Drury, J</a>;
+    <a href="https://www.kcl.ac.uk/people/charlotte-symons" target="_blank">Symons, C</a>;
+    <a href="https://www.kcl.ac.uk/people/dale-weston" target="_blank">Weston, D</a>;
+    <a href="https://www.gov.uk/government/people/matthew-amlot" target="_blank">Amlöt, R</a>;
+    <a href="https://www.kcl.ac.uk/people/helen-carter" target="_blank">Carter, H</a>.
+  </i>
+</p>
 <p>
   <a href="https://www.nature.com/articles/s44271-025-00217-6" target="_blank">
     A mixed studies systematic review on the health and wellbeing effects, and underlying mechanisms, of online support groups for chronic conditions
