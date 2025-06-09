@@ -50,5 +50,61 @@ These reviews were subsequently updated to address adherence to self-isolation d
     </i>
   </a>
 </p>
+<p>
+  <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/casp.2849" target="_blank">
+    Online support groups, social identity and the health and wellbeing of adults with Long Covid
+  </a>
+  <br>
+  <i>Authors:
+    <a href="https://www.researchgate.net/profile/Felicity-Mills" target="_blank">Mills, F</a>;
+    <a href="https://www.sussex.ac.uk/profiles/124634" target="_blank">Drury, J</a>;
+    <a href="https://www.kcl.ac.uk/people/charlotte-symons" target="_blank">Symons, C</a>;
+    <a href="https://www.kcl.ac.uk/people/dale-weston" target="_blank">Weston, D</a>;
+    <a href="https://www.gov.uk/government/people/matthew-amlot" target="_blank">Amlöt, R</a>;
+    <a href="https://www.kcl.ac.uk/people/helen-carter" target="_blank">Carter, H</a>.
+  </i>
+</p>
+<p>
+  <a href="https://www.qeios.com/read/BYF1FU" target="_blank">
+    Social Identity Processes within Online Support Groups for People with Long Covid: A Longitudinal Survey
+  </a>
+  <br>
+  <i>Authors:
+    <a href="https://www.researchgate.net/profile/Felicity-Mills" target="_blank">Mills, F</a>;
+    <a href="https://www.sussex.ac.uk/profiles/124634" target="_blank">Drury, J</a>;
+    <a href="https://www.kcl.ac.uk/people/charlotte-symons" target="_blank">Symons, C</a>;
+    <a href="https://www.kcl.ac.uk/people/dale-weston" target="_blank">Weston, D</a>;
+    <a href="https://www.gov.uk/government/people/matthew-amlot" target="_blank">Amlöt, R</a>;
+    <a href="https://www.kcl.ac.uk/people/helen-carter" target="_blank">Carter, H</a>.
+  </i>
+</p>
+<p>
+  <a href="https://osf.io/preprints/psyarxiv/pz5hn_v1" target="_blank">
+    Applying the Social Identity Approach to Leadership of Online Support Groups for Long Covid
+  </a>
+  <br>
+  <i>Authors:
+    <a href="https://www.researchgate.net/profile/Felicity-Mills" target="_blank">Mills, F</a>;
+    <a href="https://www.sussex.ac.uk/profiles/124634" target="_blank">Drury, J</a>;
+    <a href="https://www.kcl.ac.uk/people/charlotte-symons" target="_blank">Symons, C</a>;
+    <a href="https://www.kcl.ac.uk/people/dale-weston" target="_blank">Weston, D</a>;
+    <a href="https://www.gov.uk/government/people/matthew-amlot" target="_blank">Amlöt, R</a>;
+    <a href="https://www.kcl.ac.uk/people/helen-carter" target="_blank">Carter, H</a>.
+  </i>
+</p>
+p>
+  <a href="https://www.nature.com/articles/s44271-025-00217-6" target="_blank">
+    A mixed studies systematic review on the health and wellbeing effects, and underlying mechanisms, of online support groups for chronic conditions
+  </a>
+  <br>
+  <i>Authors:
+    <a href="https://www.researchgate.net/profile/Felicity-Mills" target="_blank">Mills, F</a>;
+    <a href="https://www.sussex.ac.uk/profiles/124634" target="_blank">Drury, J</a>;
+    <a href="https://www.kcl.ac.uk/people/charlotte-symons" target="_blank">Symons, C</a>;
+    <a href="https://www.kcl.ac.uk/people/dale-weston" target="_blank">Weston, D</a>;
+    <a href="https://www.gov.uk/government/people/matthew-amlot" target="_blank">Amlöt, R</a>;
+    <a href="https://www.kcl.ac.uk/people/helen-carter" target="_blank">Carter, H</a>.
+  </i>
+</p>
 {{< /spotlight-content >}}
 
