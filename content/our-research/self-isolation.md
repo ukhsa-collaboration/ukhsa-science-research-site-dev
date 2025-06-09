@@ -40,7 +40,7 @@ These reviews were subsequently updated to address adherence to self-isolation d
 <p>
   <a href="https://www.nature.com/articles/s44271-025-00217-6" target="_blank">
     A mixed studies systematic review on the health and wellbeing effects, and underlying mechanisms, of online support groups for chronic conditions
-    <i>Authors: 
+    <i>-Authors: 
       <a href="https://www.researchgate.net/profile/Felicity-Mills" target="_blank">Mills, F</a>; 
       <a href="https://www.sussex.ac.uk/profiles/124634" target="_blank">Drury, J</a>; 
       <a href="https://www.kcl.ac.uk/people/charlotte-symons" target="_blank">Symons, C</a>; 
