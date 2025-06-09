@@ -29,14 +29,7 @@ buttonText: "Learn more about the impact of self-isolation on psychological well
     Measuring and increasing rates of self-isolation in the context of COVID-19: a systematic review with narrative synthesis
   </a>
   <br>
-  <i>Authors:
-    <a href="https://www.researchgate.net/profile/Felicity-Mills" target="_blank">Mills, F</a>;
-    <a href="https://www.sussex.ac.uk/profiles/124634" target="_blank">Drury, J</a>;
-    <a href="https://www.kcl.ac.uk/people/charlotte-symons" target="_blank">Symons, C</a>;
-    <a href="https://www.kcl.ac.uk/people/dale-weston" target="_blank">Weston, D</a>;
-    <a href="https://www.gov.uk/government/people/matthew-amlot" target="_blank">Amlöt, R</a>;
-    <a href="https://www.kcl.ac.uk/people/helen-carter" target="_blank">Carter, H</a>.
-  </i>
+  <i>Authors: Mills, F; Drury, J; Symons, C; Weston, D; Amlöt, R; Carter, H.</i>
 </p>
 
 <p>
@@ -44,14 +37,7 @@ buttonText: "Learn more about the impact of self-isolation on psychological well
     OSF | Self-isolation: a series of systematic reviews
   </a>
   <br>
-  <i>Authors:
-    <a href="https://www.researchgate.net/profile/Felicity-Mills" target="_blank">Mills, F</a>;
-    <a href="https://www.sussex.ac.uk/profiles/124634" target="_blank">Drury, J</a>;
-    <a href="https://www.kcl.ac.uk/people/charlotte-symons" target="_blank">Symons, C</a>;
-    <a href="https://www.kcl.ac.uk/people/dale-weston" target="_blank">Weston, D</a>;
-    <a href="https://www.gov.uk/government/people/matthew-amlot" target="_blank">Amlöt, R</a>;
-    <a href="https://www.kcl.ac.uk/people/helen-carter" target="_blank">Carter, H</a>.
-  </i>
+  <i>Authors: Mills, F; Drury, J; Symons, C; Weston, D; Amlöt, R; Carter, H.</i>
 </p>
 
 <p>Additional research conducted by the Behavioural Science and Insights Unit on the impact of the COVID-19 pandemic on health and wellbeing includes exploring experiences of homeworking amongst response-focused UK civil servants and the use of online support groups for Long Covid.</p>
@@ -63,12 +49,7 @@ buttonText: "Learn more about the impact of self-isolation on psychological well
     "We're all in the same storm, but not all of us are in the same boat": qualitative exploration of UK response-focused civil servants’ experiences of working from home
   </a>
   <br>
-  <i>Authors:
-    <a href="https://www.kcl.ac.uk/people/christine-hall" target="_blank">Hall, C.E</a>;
-    <a href="https://www.kcl.ac.uk/people/samuel-brooks" target="_blank">Brooks, S.K.</a>;
-    <a href="https://www.kcl.ac.uk/people/neil-greenberg" target="_blank">Greenberg, N</a>;
-    <a href="https://www.kcl.ac.uk/people/dale-weston" target="_blank">Weston, D</a>.
-  </i>
+  <i>Authors: Hall, C.E; Brooks, S.K.; Greenberg, N; Weston, D.</i>
 </p>
 
 <p>
@@ -76,13 +57,7 @@ buttonText: "Learn more about the impact of self-isolation on psychological well
     The relationship between homeworking during the COVID-19 and both, mental health and productivity: a systematic review - BMC Psychology
   </a>
   <br>
-  <i>Authors:
-    <a href="https://www.kcl.ac.uk/people/christine-hall" target="_blank">Hall, C.E</a>;
-    <a href="https://www.kcl.ac.uk/people/louise-davidson" target="_blank">Davidson, L</a>;
-    <a href="https://www.kcl.ac.uk/people/samuel-brooks" target="_blank">Brooks, S.K.</a>;
-    <a href="https://www.kcl.ac.uk/people/neil-greenberg" target="_blank">Greenberg, N</a>;
-    <a href="https://www.kcl.ac.uk/people/dale-weston" target="_blank">Weston, D</a>.
-  </i>
+  <i>Authors: Hall, C.E; Davidson, L; Brooks, S.K.; Greenberg, N; Weston, D.</i>
 </p>
 
 <p>
@@ -90,12 +65,7 @@ buttonText: "Learn more about the impact of self-isolation on psychological well
     UK Government COVID-19 Response Employees' Perceptions of Working from Home
   </a>
   <br>
-  <i>Authors:
-    <a href="https://www.kcl.ac.uk/people/christine-hall" target="_blank">Hall, C.E</a>;
-    <a href="https://www.kcl.ac.uk/people/samuel-brooks" target="_blank">Brooks, S.K.</a>;
-    <a href="https://www.kcl.ac.uk/people/neil-greenberg" target="_blank">Greenberg, N</a>;
-    <a href="https://www.kcl.ac.uk/people/dale-weston" target="_blank">Weston, D</a>.
-  </i>
+  <i>Authors: Hall, C.E; Brooks, S.K.; Greenberg, N; Weston, D.</i>
 </p>
 
 <p><i>Experiences of Using Online Support Groups for Long Covid:</i></p>
@@ -105,15 +75,7 @@ buttonText: "Learn more about the impact of self-isolation on psychological well
     A mixed studies systematic review on the health and wellbeing effects, and underlying mechanisms, of online support groups for chronic conditions
   </a>
   <br>
-  <i>Authors:
-    <a href="https://www.researchgate.net/profile/Felicity-Mills" target="_blank">Mills, F</a>;
-    <a href="https://www.sussex.ac.uk/profiles/124634" target="_blank">Drury, J</a>;
-    <a href="https://www.kcl.ac.uk/people/christine-hall" target="_blank">Hall, C.E</a>;
-    <a href="https://www.kcl.ac.uk/people/dale-weston" target="_blank">Weston, D</a>;
-    <a href="https://www.kcl.ac.uk/people/charlotte-symons" target="_blank">Symons, C</a>;
-    <a href="https://www.gov.uk/government/people/matthew-amlot" target="_blank">Amlöt, R</a>;
-    <a href="https://www.kcl.ac.uk/people/helen-carter" target="_blank">Carter, H</a>.
-  </i>
+  <i>Authors: Mills, F; Drury, J; Hall, C.E; Weston, D; Symons, C; Amlöt, R; Carter, H.</i>
 </p>
 
 <p>
@@ -121,14 +83,7 @@ buttonText: "Learn more about the impact of self-isolation on psychological well
     Online support groups, social identity and the health and wellbeing of adults with Long Covid
   </a>
   <br>
-  <i>Authors:
-    <a href="https://www.researchgate.net/profile/Felicity-Mills" target="_blank">Mills, F</a>;
-    <a href="https://www.sussex.ac.uk/profiles/124634" target="_blank">Drury, J</a>;
-    <a href="https://www.kcl.ac.uk/people/charlotte-symons" target="_blank">Symons, C</a>;
-    <a href="https://www.kcl.ac.uk/people/dale-weston" target="_blank">Weston, D</a>;
-    <a href="https://www.gov.uk/government/people/matthew-amlot" target="_blank">Amlöt, R</a>;
-    <a href="https://www.kcl.ac.uk/people/helen-carter" target="_blank">Carter, H</a>.
-  </i>
+  <i>Authors: Mills, F; Drury, J; Symons, C; Weston, D; Amlöt, R; Carter, H.</i>
 </p>
 
 <p>
@@ -136,14 +91,7 @@ buttonText: "Learn more about the impact of self-isolation on psychological well
     Social Identity Processes within Online Support Groups for People with Long Covid: A Longitudinal Survey
   </a>
   <br>
-  <i>Authors:
-    <a href="https://www.researchgate.net/profile/Felicity-Mills" target="_blank">Mills, F</a>;
-    <a href="https://www.sussex.ac.uk/profiles/124634" target="_blank">Drury, J</a>;
-    <a href="https://www.kcl.ac.uk/people/charlotte-symons" target="_blank">Symons, C</a>;
-    <a href="https://www.kcl.ac.uk/people/dale-weston" target="_blank">Weston, D</a>;
-    <a href="https://www.gov.uk/government/people/matthew-amlot" target="_blank">Amlöt, R</a>;
-    <a href="https://www.kcl.ac.uk/people/helen-carter" target="_blank">Carter, H</a>.
-  </i>
+  <i>Authors: Mills, F; Drury, J; Symons, C; Weston, D; Amlöt, R; Carter, H.</i>
 </p>
 
 <p>
@@ -151,13 +99,6 @@ buttonText: "Learn more about the impact of self-isolation on psychological well
     Applying the Social Identity Approach to Leadership of Online Support Groups for Long Covid
   </a>
   <br>
-  <i>Authors:
-    <a href="https://www.researchgate.net/profile/Felicity-Mills" target="_blank">Mills, F</a>;
-    <a href="https://www.sussex.ac.uk/profiles/124634" target="_blank">Drury, J</a>;
-    <a href="https://www.kcl.ac.uk/people/charlotte-symons" target="_blank">Symons, C</a>;
-    <a href="https://www.kcl.ac.uk/people/dale-weston" target="_blank">Weston, D</a>;
-    <a href="https://www.gov.uk/government/people/matthew-amlot" target="_blank">Amlöt, R</a>;
-    <a href="https://www.kcl.ac.uk/people/helen-carter" target="_blank">Carter, H</a>.
-  </i>
+  <i>Authors: Mills, F; Drury, J; Symons, C; Weston, D; Amlöt, R; Carter, H.</i>
 </p>
 {{< /spotlight-content >}}
