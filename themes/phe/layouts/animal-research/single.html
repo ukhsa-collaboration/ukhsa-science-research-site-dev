@@ -1,11 +1,8 @@
-
 {{ define "main" }}
 
 <div class="page-title">
   <div class="container">
-  {{  .Content}}
-    <h1>UKHSA Animal Research: 
-      Promoting Transparency</h1>
+    <h1>UKHSA Animal Research: Promoting Transparency</h1>
     <div class="row mb-4">
       <div class="col-md-6">
         <p>
@@ -20,10 +17,137 @@
       class="button button--external"
       href="https://concordatopenness.org.uk"
       target="_blank"
-      >Concordat on Openness on Animal Research in the UK</a
-    >
+      >Concordat on Openness on Animal Research in the UK</a>
   </div>
 </div>
+
+####
+<section class="pt-9 pb-12">
+  <div class="container pb-6">
+    <div class="row">
+      <h2>Animal research</h2>
+      <div class="col-lg-8">
+        <p>
+         At UKHSA, we are committed to openness and accountability 
+         in our use of animals in research—ensuring ethical standards, 
+         advancing public health, and fostering trust through transparency.
+        </p>
+      </div>
+    </div>
+  </div>
+  
+  <div class="container">
+    <!-- Tabs Begin -->
+    <div class="nav-tabs-container">
+      <button class="js-tabs-dropdown">Select specialist area</button>
+      <ul class="nav nav-tabs nav-tabs--research" id="myTab" role="tablist">
+        <li class="nav-item" role="presentation">
+          <button
+            class="nav-link active"
+            id="tab-1"
+            data-bs-toggle="tab"
+            data-bs-target="#tab-content-1"
+            type="button"
+            role="tab"
+            aria-controls="tab-content-1"
+            aria-selected="true"
+          >
+            Why Animal Research is Important
+          </button>
+        </li>
+        <li class="nav-item" role="presentation">
+          <button
+            class="nav-link"
+            id="tab-2"
+            data-bs-toggle="tab"
+            data-bs-target="#tab-content-2"
+            type="button"
+            role="tab"
+            aria-controls="tab-content-2"
+            aria-selected="false"
+          >
+            Locations and Animal Research
+          </button>
+        </li>
+        <li class="nav-item" role="presentation">
+          <button
+            class="nav-link"
+            id="tab-3"
+            data-bs-toggle="tab"
+            data-bs-target="#tab-content-3"
+            type="button"
+            role="tab"
+            aria-controls="tab-content-3"
+            aria-selected="false"
+          >
+            Animal Usage Statistics
+          </button>
+        </li>
+        <li class="nav-item" role="presentation">
+          <button
+            class="nav-link"
+            id="tab-4"
+            data-bs-toggle="tab"
+            data-bs-target="#tab-content-4"
+            type="button"
+            role="tab"
+            aria-controls="tab-content-4"
+            aria-selected="false"
+          >
+            Regulation
+          </button>
+        </li>
+      </ul>
+    </div>        
+
+    <div class="tab-content pt-10" id="pheTabContent">
+      <!-- Tab 1 -->
+      <div
+        class="tab-pane fade show active"
+        id="tab-content-1"
+        role="tabpanel"
+        aria-labelledby="tab-1"
+      >
+        {{ partial "animal-research/why" . }}
+      </div>
+
+      <!-- Tab 2 -->
+      <div
+        class="tab-pane fade"
+        id="tab-content-2"
+        role="tabpanel"
+        aria-labelledby="tab-2"
+      >
+        {{ partial "animal-research/locations" . }}
+      </div>
+
+      <!-- Tab 3 -->
+      <div
+        class="tab-pane fade"
+        id="tab-content-3"
+        role="tabpanel"
+        aria-labelledby="tab-3"
+      >
+        {{ partial "animal-research/statistics" . }}
+      </div>
+
+      <!-- Tab 4 -->
+      <div
+        class="tab-pane fade"
+        id="tab-content-4"
+        role="tabpanel"
+        aria-labelledby="tab-4"
+      >
+        {{ partial "animal-research/regulation" . }}
+      </div>
+      
+    </div>
+    <!-- /.tab-content -->
+  </div>
+  <!-- /.container -->
+</section>
+
+####
 
 <section class="pt-9 pb-12">
   <div class="container pb-6">
