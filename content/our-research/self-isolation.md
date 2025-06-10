@@ -29,21 +29,25 @@ buttonText: "Learn more about the impact of self-isolation on psychological well
     Measuring and increasing rates of self-isolation in the context of COVID-19: a systematic review with narrative synthesis
   </a>
   <br>
-  <i>Authors: Smith, L.E; Martin, A.F; Brooks, S.K; Davies, R; Stein, M.V; D; Amlöt, R; Marteau, T.M; Rubin, G.J.</i>
+  <i>Authors: Smith, L.E; Martin, A.F; Brooks, S.K; Davies, R; Stein, M.V; Amlöt, R; Marteau, T.M; Rubin, G.J.</i>
 </p>
-
 <p>
-  <a href="https://osf.io/24rz3/" target="_blank">
-    OSF | Self-isolation: a series of systematic reviews
+
+  <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0310851" target="_blank">
+    The impact of self-isolation on psychological wellbeing in adults and how to reduce it: a systematic review
   </a>
   <br>
-  <i>Authors: Martin, A.F; Smith, L; Rubin, J; Stein, M.V; Brooks, S.K; Davies, R; Marteau, T.M; Greenberg, N; Amlöt, R.</i>
+  <i>Authors: Martin, A.F; Smith, L.E; Brooks, S.K; Stein, M.V; Davies, R; Amlöt, R; Greenberg, N.</i>
 </p>
-
+<p>  <a href="https://osf.io/24rz3/" target="_blank">
+    OSF/self-isolation: a series of systematic reviews
+  </a>
+  <br>
+  <i>Authors: Martin, A.F; Smith, L; Rubin, J; Stein, M.V; Brooks, S.K; Davies, R; Marteau, T.M; Greenberg, N; Amlöt, R.<i>
+   </p>
 <p>Additional research conducted by the Behavioural Science and Insights Unit on the impact of the COVID-19 pandemic on health and wellbeing includes exploring experiences of homeworking amongst response-focused UK civil servants and the use of online support groups for Long Covid.</p>
 
 <p><i>Experiences of Homeworking:</i></p>
-
 <p>
   <a href="https://link.springer.com/article/10.1186/s12889-025-21385-4" target="_blank">
     "We're all in the same storm, but not all of us are in the same boat": qualitative exploration of UK response-focused civil servants’ experiences of working from home during COVID-19
