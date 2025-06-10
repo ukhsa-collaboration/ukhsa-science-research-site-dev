@@ -2,39 +2,41 @@
 
 <div class="page-title">
   <div class="container">
-    <h1>UKHSA Animal Research: Promoting Transparency</h1>
+    <h1>Animal Research at UKHSA</h1>
     <div class="row mb-4">
       <div class="col-md-6">
         <p>
-         At UKHSA, we are committed to openness and accountability 
-         in our use of animals in research—ensuring ethical standards, 
-         advancing public health, and fostering trust through transparency.
+          Science is at the core of our work to identify and control health
+          hazards. Research answers key questions that inform policy and action.
+          Innovation is needed to identify and implement solutions to complex
+          public health challenges.
         </p>
       </div>
     </div>
 
     <a
       class="button button--external"
-      href="https://concordatopenness.org.uk"
+      href="https://researchportal.phe.gov.uk/"
       target="_blank"
-      >Concordat on Openness on Animal Research in the UK</a>
+      >Explore UKHSA research</a
+    >
   </div>
 </div>
 
 <section class="pt-9 pb-12">
   <div class="container pb-6">
     <div class="row">
-      <h2>Animal research</h2>
+      <h2>Research Areas & Capability</h2>
       <div class="col-lg-8">
         <p>
-         At UKHSA, we are committed to openness and accountability 
-         in our use of animals in research—ensuring ethical standards, 
-         advancing public health, and fostering trust through transparency.
+          We conduct research and employ evidence-based practice throughout all
+          parts of the organisation, particularly within the Science and Public
+          Health and Clinical Groups.
         </p>
       </div>
     </div>
   </div>
-  
+
   <div class="container">
     <!-- Tabs Begin -->
     <div class="nav-tabs-container">
@@ -49,29 +51,15 @@
             type="button"
             role="tab"
             aria-controls="tab-content-1"
-            aria-selected="true"
-          >
-            Why Animal Research is Important
-          </button>
-        </li>
-        <li class="nav-item" role="presentation">
-          <button
-            class="nav-link"
-            id="tab-"
-            data-bs-toggle="tab"
-            data-bs-target="#tab-content-1"
-            type="button"
-            role="tab"
-            aria-controls="tab-content-1"
             aria-selected="false"
           >
-            Locations and Animal Research
+            Why do we use animals in research?
           </button>
         </li>
         <li class="nav-item" role="presentation">
           <button
             class="nav-link"
-            id="tab-3"
+            id="tab-2"
             data-bs-toggle="tab"
             data-bs-target="#tab-content-2"
             type="button"
@@ -79,13 +67,13 @@
             aria-controls="tab-content-2"
             aria-selected="false"
           >
-            Animal Usage Statistics
+            Locations of our animal research facilities
           </button>
         </li>
         <li class="nav-item" role="presentation">
           <button
             class="nav-link"
-            id="tab-content-3"
+            id="tab-3"
             data-bs-toggle="tab"
             data-bs-target="#tab-content-3"
             type="button"
@@ -93,8 +81,8 @@
             aria-controls="tab-content-3"
             aria-selected="false"
           >
-            Regulations
-           </button>
+            Statistics and Reporting
+          </button>
         </li>
         <li class="nav-item" role="presentation">
           <button
@@ -104,21 +92,48 @@
             data-bs-target="#tab-content-4"
             type="button"
             role="tab"
-          aria-controls="tab-content-4"
-          aria-selected="false"
+            aria-controls="tab-content-4"
+            aria-selected="false"
           >
-           
-        {{ partial "animal-research/why" . }}
+            Regulations and Guidelines
+          </button>
+        </li>
+        <li class="nav-item" role="presentation">
+          <button
+            class="nav-link"
+            id="tab-5"
+            data-bs-toggle="tab"
+            data-bs-target="#tab-content-5"
+            type="button"
+            role="tab"
+            aria-controls="tab-content-5"
+            aria-selected="false"
+          >
+            Statistics and Modelling
+          </button>
+        </li>
+      </ul>
+    </div>
+
+    <div class="tab-content pt-10" id="pheTabContent">
+      <!-- Tab 1 -->
+      <div
+        class="tab-pane fade show active"
+        id="tab-content-1"
+        role="tabpanel"
+        aria-labelledby="tab-1"
+      >
+        {{ partial "research-areas/infectious-diseases" . }}
       </div>
 
       <!-- Tab 2 -->
       <div
         class="tab-pane fade"
-        id="tab-content-1"
+        id="tab-content-2"
         role="tabpanel"
-        aria-labelledby="tab-content-1"
+        aria-labelledby="tab-2"
       >
-        {{ partial "animal-research/locations" . }}
+        {{ partial "research-areas/environment-and-health" . }}
       </div>
 
       <!-- Tab 3 -->
@@ -128,7 +143,7 @@
         role="tabpanel"
         aria-labelledby="tab-3"
       >
-        {{ partial "animal-research/statistics" . }}
+        {{ partial "research-areas/emergency-response" . }}
       </div>
 
       <!-- Tab 4 -->
@@ -138,13 +153,23 @@
         role="tabpanel"
         aria-labelledby="tab-4"
       >
-        {{ partial "animal-research/regulations" . }}
+        {{ partial "research-areas/behavioural-sciences" . }}
       </div>
-      
+
+      <!-- Tab 5 -->
+      <div
+        class="tab-pane fade"
+        id="tab-content-5"
+        role="tabpanel"
+        aria-labelledby="tab-5"
+      >
+        {{ partial "research-areas/statistics-and-modelling" . }}
+      </div>
     </div>
     <!-- /.tab-content -->
   </div>
   <!-- /.container -->
+</section>
 </section>
 <section class="pt-12 pb-12">
   <div class="container">
