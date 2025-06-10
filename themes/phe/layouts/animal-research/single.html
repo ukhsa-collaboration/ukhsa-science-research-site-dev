@@ -6,19 +6,17 @@
     <div class="row mb-4">
       <div class="col-md-6">
         <p>
-          Science is at the core of our work to identify and control health
-          hazards. Research answers key questions that inform policy and action.
-          Innovation is needed to identify and implement solutions to complex
-          public health challenges.
+          We conduct research and employ evidence-based practice throughout all parts of the organisation, particularly within the Science and Public Health and Clinical Groups.
+
         </p>
       </div>
-    </div>
+    </div> O
 
     <a
       class="button button--external"
       href="https://researchportal.phe.gov.uk/"
       target="_blank"
-      >Explore UKHSA research</a
+      >Concordat on Openness</a
     >
   </div>
 </div>
@@ -26,7 +24,7 @@
 <section class="pt-9 pb-12">
   <div class="container pb-6">
     <div class="row">
-      <h2>Research Areas & Capability</h2>
+      <h2>Animal Research in UKHSA</h2>
       <div class="col-lg-8">
         <p>
           We conduct research and employ evidence-based practice throughout all
@@ -109,12 +107,7 @@
             aria-controls="tab-content-5"
             aria-selected="false"
           >
-            Statistics and Modelling
-          </button>
-        </li>
-      </ul>
-    </div>
-
+   
     <div class="tab-content pt-10" id="pheTabContent">
       <!-- Tab 1 -->
       <div
@@ -123,7 +116,7 @@
         role="tabpanel"
         aria-labelledby="tab-1"
       >
-        {{ partial "research-areas/infectious-diseases" . }}
+        {{ partial "why" . }}
       </div>
 
       <!-- Tab 2 -->
@@ -133,7 +126,7 @@
         role="tabpanel"
         aria-labelledby="tab-2"
       >
-        {{ partial "research-areas/environment-and-health" . }}
+        {{ partial "locations" . }}
       </div>
 
       <!-- Tab 3 -->
@@ -143,7 +136,7 @@
         role="tabpanel"
         aria-labelledby="tab-3"
       >
-        {{ partial "research-areas/emergency-response" . }}
+        {{ partial "regulations" . }}
       </div>
 
       <!-- Tab 4 -->
@@ -153,19 +146,10 @@
         role="tabpanel"
         aria-labelledby="tab-4"
       >
-        {{ partial "research-areas/behavioural-sciences" . }}
+        {{ partial "statistics" . }}
       </div>
 
-      <!-- Tab 5 -->
-      <div
-        class="tab-pane fade"
-        id="tab-content-5"
-        role="tabpanel"
-        aria-labelledby="tab-5"
-      >
-        {{ partial "research-areas/statistics-and-modelling" . }}
-      </div>
-    </div>
+  
     <!-- /.tab-content -->
   </div>
   <!-- /.container -->
