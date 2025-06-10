@@ -107,7 +107,16 @@
             aria-controls="tab-content-5"
             aria-selected="false"
           >
-           
+          <div class="tab-content pt-10" id="pheTabContent">
+      <!-- Tab 1 -->
+      <div
+        class="tab-pane fade show active"
+        id="tab-content-1"
+        role="tabpanel"
+        aria-labelledby="tab-1"
+        >
+          {{ partial "why" . }}
+        </div>  
         <!-- Tab 2 -->
         <div
           class="tab-pane fade"
