@@ -85,7 +85,7 @@
         <li class="nav-item" role="presentation">
           <button
             class="nav-link"
-            id="tab-4"
+            id="tab-content-3"
             data-bs-toggle="tab"
             data-bs-target="#tab-content-3"
             type="button"
@@ -107,27 +107,16 @@
           aria-controls="tab-content-4"
           aria-selected="false"
           >
-            The 3Rs
-          </button>
-        </li>
-      </ul>
-    <div class="tab-content pt-10" id="pheTabContent">
-      <!-- Tab 1 -->
-      <div
-        class="tab-pane fade show active"
-        id="tab-content-1"
-        role="tabpanel"
-        aria-labelledby="tab-1"
-      >
+           
         {{ partial "animal-research/why" . }}
       </div>
 
       <!-- Tab 2 -->
       <div
         class="tab-pane fade"
-        id="tab-content-2"
+        id="tab-content-1"
         role="tabpanel"
-        aria-labelledby="tab-2"
+        aria-labelledby="tab-content-1"
       >
         {{ partial "animal-research/locations" . }}
       </div>
