@@ -107,7 +107,13 @@
             aria-controls="tab-content-5"
             aria-selected="false"
           >
-          <div class="tab-content pt-10" id="pheTabContent">
+            TBC
+          </button>
+        </li>
+      </ul>
+    </div>                 
+
+    <div class="tab-content pt-10" id="pheTabContent">
       <!-- Tab 1 -->
       <div
         class="tab-pane fade show active"
@@ -115,7 +121,7 @@
         role="tabpanel"
         aria-labelledby="tab-1"
         >
-          {{ partial "why" . }}
+          {{ partial "animal-research/why" . }}
         </div>  
         <!-- Tab 2 -->
         <div
@@ -124,7 +130,7 @@
           role="tabpanel"
           aria-labelledby="tab-2"
         >
-          {{ partial "locations" . }}
+          {{ partial "animal-research/locations" . }}
         </div>
 
         <!-- Tab 3 -->
@@ -134,7 +140,7 @@
           role="tabpanel"
           aria-labelledby="tab-3"
         >
-          {{ partial "statistics" . }}
+          {{ partial "animal-research/statistics" . }}
         </div>
 
         <!-- Tab 4 -->
@@ -144,10 +150,13 @@
           role="tabpanel"
           aria-labelledby="tab-4"
         >
-          {{ partial "regulations" . }}
+          {{ partial "animal-research/tbc" . }}
         </div>
-
-  
+      
+    </div>
+    <!-- /.tab-content -->
+  </div>
+  <!-- /.container -->
 </section>
 <section class="pt-12 pb-12">
   <div class="container">
