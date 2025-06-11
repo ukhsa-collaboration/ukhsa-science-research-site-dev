@@ -43,7 +43,7 @@ buttonText: "Learn more about the impact of self-isolation on psychological well
     OSF/self-isolation: a series of systematic reviews
   </a>
   <br>
-  <i>Authors: Martin, A.F; Smith, L; Rubin, J; Stein, M.V; Brooks, S.K; Davies, R; Marteau, T.M; Greenberg, N; Amlöt, R.<i>
+  <i>Authors: Martin, A.F; Smith, L; Rubin, J; Stein, M.V; Brooks, S.K; Davies, R; Marteau, T.M; Greenberg, N; Amlöt, R.</i>i>
    </p>
 <p>Additional research conducted by the UKHSA Behavioural Science and Insights Unit on the impact of the COVID-19 pandemic on health and wellbeing includes exploring experiences of homeworking amongst response-focused UK civil servants and the use of online support groups for Long Covid.</p>
 
