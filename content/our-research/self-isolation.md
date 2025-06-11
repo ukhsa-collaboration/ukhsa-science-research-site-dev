@@ -9,8 +9,8 @@ description: "The impact of self-isolation on psychological wellbeing"
 excerpt: "During the COVID-19 pandemic, everyone was asked to carry out protective behaviours that would prevent the spread of illness. While people had been asked to isolate in previous outbreaks, the impact of quarantining on psychological wellbeing was unclear."
 buttonText: "Learn more about the impact of self-isolation on psychological wellbeing"
 ---
-{{< spotlight-feature title="The impact of self-isolation on psychological wellbeing" image="banner-isolation.png" alt="The impact of self-isolation on psychological wellbeing" caption="The impact of self-isolation on psychological wellbeing (Image source: free)" >}}
-<p>During the COVID-19 pandemic, everyone was asked to carry out protective behaviours that would prevent the spread of illness. While people had been asked to isolate in previous outbreaks, the impact of quarantining on psychological wellbeing was unclear. A <a style="color:white;" href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30460-8/fulltext#:~:text=Most%20reviewed%20studies%20reported%20negative,%2C%20financial%20loss%2C%20and%20stigma" target="_blank">rapid review</a> was carried out to inform the public health response to the COVID-19 pandemic.</p>
+{{< spotlight-feature title="The impact of self-isolation on psychological wellbeing" image="banner-isolation.png" alt="The impact of self-isolation on psychological wellbeing" caption=<i>"The impact of self-isolation on psychological wellbeing (Image source: free)" <i>>}}
+<p>During the COVID-19 pandemic, everyone was asked to carry out protective behaviours that would prevent the spread of illness. While people had been asked to isolate in previous outbreaks, the impact of quarantining on psychological wellbeing was unclear. A <a style="color:white;" href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30460-8/fulltext" target="_blank">rapid review</a> was carried out to inform the public health response to the COVID-19 pandemic.</p>
 <p>The rapid review systematically searched scientific articles and found 24 studies that investigated the effect of quarantine on psychological wellbeing. Studies included in the review found that isolation had a significant negative impact on wellbeing, particularly for those quarantining for longer periods of time. Factors that negatively impacted wellbeing included: having a lack of supplies, resources, income, inadequate information, higher health anxiety, boredom, and stigma of having the virus.</p>
 <p>These findings led to a series of recommendations for how to implement quarantine, including clear explanations for how long and why people would have to quarantine, ensuring people had basic supplies, and trying to minimise the impact on people’s income and employment.</p>
 <p><a style="color:white;" href="https://researchportal.ukhsa.gov.uk/en/persons/louise-smith-2/publications/" target="_blank">Author: Louise Smith; UKHSA Research Profile</a></p>
@@ -45,9 +45,9 @@ buttonText: "Learn more about the impact of self-isolation on psychological well
   <br>
   <i>Authors: Martin, A.F; Smith, L; Rubin, J; Stein, M.V; Brooks, S.K; Davies, R; Marteau, T.M; Greenberg, N; Amlöt, R.<i>
    </p>
-<p>Additional research conducted by the Behavioural Science and Insights Unit on the impact of the COVID-19 pandemic on health and wellbeing includes exploring experiences of homeworking amongst response-focused UK civil servants and the use of online support groups for Long Covid.</p>
+<p>Additional research conducted by the UKHSA Behavioural Science and Insights Unit on the impact of the COVID-19 pandemic on health and wellbeing includes exploring experiences of homeworking amongst response-focused UK civil servants and the use of online support groups for Long Covid.</p>
 
-<p><i>Experiences of Homeworking:</i></p>
+<p><i>Experiences of Homeworking (part of Charlotte Hall's UKHSA PhD:):</i></p>
 <p>
   <a href="https://link.springer.com/article/10.1186/s12889-025-21385-4" target="_blank">
     "We're all in the same storm, but not all of us are in the same boat": qualitative exploration of UK response-focused civil servants’ experiences of working from home during COVID-19
@@ -75,7 +75,7 @@ buttonText: "Learn more about the impact of self-isolation on psychological well
   <i>Authors: Hall, C.E; Brooks, S.K; Greenberg, N; Weston, D.</i>
 </p>
 
-<p><i>Experiences of Using Online Support Groups for Long Covid:</i></p>
+<p><i>Experiences of Using Online Support Groups for Long Covid (part of Freya Mills' UKHSA PhD):</i></p>
 
 <p>
   <a href="https://www.nature.com/articles/s44271-025-00217-6" target="_blank">
