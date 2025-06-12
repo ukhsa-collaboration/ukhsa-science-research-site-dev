@@ -29,7 +29,7 @@ buttonText: "Learn more about the impact of self-isolation on psychological well
     Measuring and increasing rates of self-isolation in the context of COVID-19: a systematic review with narrative synthesis
   </a>
   <br>
-  <i>Authors: Smith, L.E; Martin, A.F; Brooks, S.K; Davies, R; Stein, M.V; Amlöt, R; Marteau, T.M; Rubin, G.J.</i>
+  <i>Authors: Smith, L.E; Martin, A.F; Brooks, S.K; Davies, R; Stein, M.V; Amlôt, R; Marteau, T.M; Rubin, G.J.</i>
 </p>
 <p>
 
@@ -37,13 +37,13 @@ buttonText: "Learn more about the impact of self-isolation on psychological well
     The impact of self-isolation on psychological wellbeing in adults and how to reduce it: a systematic review
   </a>
   <br>
-  <i>Authors: Martin, A.F; Smith, L.E; Brooks, S.K; Stein, M.V; Davies, R; Amlöt, R; Greenberg, N.</i>
+  <i>Authors: Martin, A.F; Smith, L.E; Brooks, S.K; Stein, M.V; Davies, R; Amlôt, R; Greenberg, N.</i>
 </p>
 <p>  <a href="https://osf.io/24rz3/" target="_blank">
     OSF/self-isolation: a series of systematic reviews
   </a>
   <br>
-  <i>Authors: Martin, A.F; Smith, L; Rubin, J; Stein, M.V; Brooks, S.K; Davies, R; Marteau, T.M; Greenberg, N; Amlöt, R.</i>i>
+  <i>Authors: Martin, A.F; Smith, L; Rubin, J; Stein, M.V; Brooks, S.K; Davies, R; Marteau, T.M; Greenberg, N; Amlôt, R.</i>i>
    </p>
 <p>Additional research conducted by the UKHSA Behavioural Science and Insights Unit on the impact of the COVID-19 pandemic on health and wellbeing includes exploring experiences of homeworking amongst response-focused UK civil servants and the use of online support groups for Long Covid.</p>
 
@@ -82,7 +82,7 @@ buttonText: "Learn more about the impact of self-isolation on psychological well
     A mixed studies systematic review on the health and wellbeing effects, and underlying mechanisms, of online support groups for chronic conditions
   </a>
   <br>
-  <i>Authors: Mills, F; Drury, J; Hall, C.E; Weston, D; Symons, C; Amlöt, R; Carter, H.</i>
+  <i>Authors: Mills, F; Drury, J; Hall, C.E; Weston, D; Symons, C; Amlôt, R; Carter, H.</i>
 </p>
 
 <p>
@@ -90,7 +90,7 @@ buttonText: "Learn more about the impact of self-isolation on psychological well
     Online support groups, social identity and the health and wellbeing of adults with Long Covid
   </a>
   <br>
-  <i>Authors: Mills, F; Drury, J; Symons, C; Weston, D; Amlöt, R; Carter, H.</i>
+  <i>Authors: Mills, F; Drury, J; Symons, C; Weston, D; Amlôt, R; Carter, H.</i>
 </p>
 
 <p>
@@ -98,7 +98,7 @@ buttonText: "Learn more about the impact of self-isolation on psychological well
     Social Identity Processes within Online Support Groups for People with Long Covid: A Longitudinal Survey
   </a>
   <br>
-  <i>Authors: Mills, F; Drury, J; Symons, C; Weston, D; Amlöt, R; Carter, H.</i>
+  <i>Authors: Mills, F; Drury, J; Symons, C; Weston, D; Amlôt, R; Carter, H.</i>
 </p>
 
 <p>
@@ -106,6 +106,6 @@ buttonText: "Learn more about the impact of self-isolation on psychological well
     Applying the Social Identity Approach to Leadership of Online Support Groups for Long Covid
   </a>
   <br>
-  <i>Authors: Mills, F; Drury, J; Weston, D; Symons, D; Amlöt, R; Carter, H.</i>
+  <i>Authors: Mills, F; Drury, J; Weston, D; Symons, D; Amlôt, R; Carter, H.</i>
 </p>
 {{< /spotlight-content >}}
