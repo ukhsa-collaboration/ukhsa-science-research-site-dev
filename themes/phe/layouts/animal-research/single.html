@@ -11,20 +11,20 @@
         </p>
       </div>
     </div>
-
     <a
       class="button button--external"
       href="https://www.bing.com/search?qs=HS&pq=concorda&sk=CSYN1AS10LS3&sc=17-8&q=concordat+on+openness+in+animal+research&cvid=3ec7fb95a76c4369921be3eb7fced707&gs_lcrp=EgRlZGdlKgkIABBFGDsY-QcyCQgAEEUYOxj5BzIGCAEQRRg5MgYIAhAuGEAyBggDEAAYQDIGCAQQLhhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBBFGDwyCAgJEOkHGPxV0gEIMTc3NWowajGoAgCwAgA&FORM=ANAB01&PC=U531"
       target="_blank"
-      >Concordat on Openness on Animal Research in the UK </a
-    >
+    >Concordat on Openness on Animal Research in the UK</a>
   </div>
 </div>
 
 <section class="pt-9 pb-12">
   <div class="container pb-6">
     <div class="row">
-      <h2>Animal Research at UKHSA</h2>
+      <div class="col-12">
+        <h2>Animal Research at UKHSA</h2>
+      </div>
       <div class="col-lg-8">
         <p>
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem aut voluptas esse magni 
@@ -48,7 +48,7 @@
             type="button"
             role="tab"
             aria-controls="tab-content-1"
-            aria-selected="false"
+            aria-selected="true"
           >
             Why do we use animals in research?
           </button>
@@ -78,7 +78,7 @@
             aria-controls="tab-content-3"
             aria-selected="false"
           >
-            Statisics and Reporting
+            Statistics and Reporting
           </button>
         </li>
         <li class="nav-item" role="presentation">
@@ -120,7 +120,7 @@
         role="tabpanel"
         aria-labelledby="tab-1"
       >
-        {{ partial "research-areas/locations.html }}
+        {{ partial "research-areas/why.html" . }}
       </div>
 
       <!-- Tab 2 -->
@@ -130,7 +130,7 @@
         role="tabpanel"
         aria-labelledby="tab-2"
       >
-        {{ partial "research-areas/regulations.html" . }}
+        {{ partial "research-areas/locations.html" . }}
       </div>
 
       <!-- Tab 3 -->
@@ -150,7 +150,7 @@
         role="tabpanel"
         aria-labelledby="tab-4"
       >
-        {{ partial "research-areas/why.html" . }}
+        {{ partial "research-areas/regulations.html" . }}
       </div>
 
       <!-- Tab 5 -->
@@ -166,6 +166,7 @@
     <!-- /.tab-content -->
   </div>
   <!-- /.container -->
+
   <div class="container">
     <div class="row mb-5">
       <div class="col-lg-9">
