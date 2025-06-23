@@ -48,7 +48,6 @@ buttonText: "Learn more about the impact of self-isolation on psychological well
 <p>Additional research conducted by the UKHSA Behavioural Science and Insights Unit on the impact of the COVID-19 pandemic on health and wellbeing includes exploring experiences of homeworking amongst response-focused UK civil servants and the use of online support groups for Long Covid.</p>
 
 <p><i>Experiences of Homeworking (part of Charlotte Hall's UKHSA PhD):</i></p>
-<p>
   <a href="https://link.springer.com/article/10.1186/s12889-025-21385-4" target="_blank">
     "We're all in the same storm, but not all of us are in the same boat": qualitative exploration of UK response-focused civil servants’ experiences of working from home during COVID-19
   </a>
