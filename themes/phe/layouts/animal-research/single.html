@@ -69,7 +69,7 @@
             aria-controls="tab-content-2"
             aria-selected="false"
           >
-            Locations of Animal Research
+            Regulation of Animal Research
           </button>
         </li>
         <li class="nav-item" role="presentation">
@@ -83,7 +83,7 @@
             aria-controls="tab-content-3"
             aria-selected="false"
           >
-            UKHSA Animal Usage Statistics
+            Animal Welfare
           </button>
         </li>
         <li class="nav-item" role="presentation">
@@ -97,7 +97,7 @@
             aria-controls="tab-content-4"
             aria-selected="false"
           >
-            Regulation of Animal Research
+            Animal usage statistics
           </button>
         </li>
       </ul>
@@ -120,7 +120,7 @@
         role="tabpanel"
         aria-labelledby="tab-2"
       >
-        {{ partial "animal-research/locations" . }}
+        {{ partial "animal-research/regulation" . }}
       </div>
 
       <!-- Tab 3 -->
@@ -130,7 +130,7 @@
         role="tabpanel"
         aria-labelledby="tab-3"
       >
-        {{ partial "animal-research/statistics" . }}
+        {{ partial "animal-research/welfare" . }}
       </div>
 
       <!-- Tab 4 -->
@@ -140,7 +140,7 @@
         role="tabpanel"
         aria-labelledby="tab-4"
       >
-        {{ partial "animal-research/regulations" . }}
+        {{ partial "animal-research/statistics" . }}
       </div>
 
     </div>
