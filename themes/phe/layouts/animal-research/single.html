@@ -33,8 +33,8 @@
       <div class="col-lg-12">
         <p style="text-align: justify;">
           The UK continually faces a wide range of health security threats.  The mission of the UK Health Security Agency (UKHSA) is to protect our communities from infectious diseases and the impact of chemical, 
-          radiological and other environmental health hazards.  Scientific research is fundamental to achieving these goals.  Currently, and in response to technological advancements, this research requires the use 
-          of animals to reproduce the complexities of the immune system and other important physiological functions that are similar to those of humans, when reacting to infections and other challenges to wellbeing.
+          radiological and other environmental health haSzards.  Scientific research is fundamental to achieving these goals. Currently, some of this research requires the use of animals to model the complexities 
+          of the human immune system and other important physiological functions to investigate how we respond to infections and other challenges to our wellbeing. 
         </p>
       </div>
     </div>
@@ -56,7 +56,7 @@
             aria-controls="tab-content-1"
             aria-selected="false"
           >
-            Why Animal Research
+            Why Animal Research?
           </button>
         </li>
         <li class="nav-item" role="presentation">
@@ -70,7 +70,7 @@
             aria-controls="tab-content-2"
             aria-selected="false"
           >
-            Regulation of Animal Research
+            Locations of Animal Research
           </button>
         </li>
         <li class="nav-item" role="presentation">
@@ -84,7 +84,7 @@
             aria-controls="tab-content-3"
             aria-selected="false"
           >
-            Animal Welfare
+            UKHSA Animal Usage Statistics
           </button>
         </li>
         <li class="nav-item" role="presentation">
@@ -98,7 +98,7 @@
             aria-controls="tab-content-4"
             aria-selected="false"
           >
-            Animal Usage statistics
+            Regulation of Animal Research
           </button>
         </li>
       </ul>
@@ -122,7 +122,7 @@
         role="tabpanel"
         aria-labelledby="tab-2"
       >
-        {{ partial "animal-research/regulation" . }}
+        {{ partial "animal-research/locations" . }}
       </div>
 
       <!-- Tab 3 -->
@@ -132,7 +132,7 @@
         role="tabpanel"
         aria-labelledby="tab-3"
       >
-        {{ partial "animal-research/welfare" . }}
+        {{ partial "animal-research/statistics" . }}
       </div>
 
       <!-- Tab 4 -->
@@ -142,7 +142,7 @@
         role="tabpanel"
         aria-labelledby="tab-4"
       >
-        {{ partial "animal-research/statistics" . }}
+        {{ partial "animal-research/regulations" . }}
       </div>
 
     </div>
@@ -154,9 +154,9 @@
 <section class="pt-9 pb-12">
   <div class="container pb-6">
     <div class="row">
-      <h2 class="red mb-3">The 3 R's - Replacement, Reduction and Refinement</h2>
+      <h2 class="red mb-3">The 3Rs - Replacement, Reduction and Refinement</h2>
       <div class="col-lg-12">
-        <p style="text-align: justify;">
+        <p style="text-align: justify; font-weight:normal;"> 
           The guiding principles underpinning the humane use of animals in scientific research are called the 3 R's, Replacement, Reduction and Refinement.  These principles aim to minimize harm
           to animals while maximising the scientific value of research.  This guidance is designed to ensure that animal research is conducted ethically and responsibly, while still allowing 
           for the advancement of scientific knowledge and public health.
@@ -166,7 +166,7 @@
              href="https://www.understandinganimalresearch.org.uk/using-animals-in-scientific-research/three-rs#:~:text=The%20guiding%20principles%20underpinning%20the,large%20numbers%20of%20potential%20medicines."
              target="_blank"
              rel="noopener"
-          >Read more about the 3R's</a>
+          >Read more about the 3Rs</a>
         </div>
       </div>
     </div>
@@ -179,11 +179,11 @@
 <figure style="display: inline-block;">
   <img
     src="/images/3Rs.jpg"
-    alt="The 3 R's - Replacement, Reduction and Refinement."
+    alt="The 3Rs - Replacement, Reduction and Refinement."
     class="img-fluid mt-4"
   style="width: 100%; max-width: 1100px; height:auto; object-fit: cover;"/>
   <figcaption class="mt-2 text-start" style="font-size: 1rem; color: #555;">
-    The 3 R's - Replacement, Reduction and Refinement - <i>source: EPFL </i>
+    The 3Rs - Replacement, Reduction and Refinement - <i>source: EPFL </i>
   </figcaption>
 </figure>
 
@@ -208,11 +208,11 @@
       <div class="col-lg-6 pb-8 pb-lg-0 order-1 order-lg-2">
         <h4 class="red h3">Replacement</h4>
         <p style="text-align: justify;">
-          Replacement is the use of non-animal alternatives in place of using animals.  While suitable non-animal alterntives that completely model the complex
-          human health responses to environmental hazards or pathogens are currently unavailable, UKHSA is working on multiple new approach methodologies (NAMs)
+          Replacement is the use of non-animal alternatives in place of animals.  While suitable non-animal alternatives that completely model the complex
+          human health responses to environmental hazards or pathogens are currently unavailable, UKHSA is working on multiple new approach methodologies (NAMs).
           This includes <a href="https://www.gov.uk/government/case-studies/vdec-pre-clinical-team-helps-to-develop-organ-on-a-chip-to-protect-human-health" target="_blank" rel="noopener">Organ 
-          on a Chip</a>, systems to help develop vaccines, drugs and theraputics agains a broad range of dangerous infectious diseases including Mers and Influenza viruses.</p>
-          <p>In the long term, we anticipate that this research will acceleerate the rate of development of nevel medicines.  In addition, we are developing and validating new cell-based
+          on a Chip</a>, systems to help develop vaccines, drugs and therapeutics against a broad range of dangerous infectious diseases including Mers and Influenza viruses.</p>
+          <p>In the long term, we anticipate that this research will accelerate the rate of development of novel medicines.  In addition, we are developing and validating new cell-based
           tests to support animal-free chemical safety regulations.
         </p>
   
@@ -270,10 +270,9 @@
         <h4 class="red h3">Refinement</h4>
         <p style="text-align: justify;">
         Refinement is centred around improving the experience of the research animal by minimising pain, suffering, distress and harm.
-        At UKHSA the care and conditions for animals in research are continually being refined to minimise harm and distress as much as 
-        possible. Practices are regularly assessed and updated to enhance animal well being at every opportunity. Examples of refinement 
+        At UKHSA practices are regularly assessed and updated to enhance animal wellbeing at every opportunity. Examples of refinement 
         include housing animals in socially compatible groups wherever possible, provision of enrichment appropriate to the species <a href="https://nc3rs.org.uk/" target="_blank" rel="noopener"></a> and the use of <a href="https://www.nc3rs.org.uk/animal-welfare-and-refinement" target="_blank" rel="noopener">NC3Rs</a>
-        guidelines to ensure that the highest standards of animal welfare are maintained. In addition, we have refined studies through the use of advanced medical imaging that provides critical data whilst being non-invasive.
+        guidelines to ensure that the highest standards of animal welfare are maintained. In addition, we have refined studies through the use of advanced medical imaging that provides critical data via a non-invasive procedure.
         </p>
       </div>
     </div>
