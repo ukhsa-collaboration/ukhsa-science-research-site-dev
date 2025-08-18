@@ -1,10 +1,9 @@
 ---
 title: "Research Impact"
-date: 2021-03-26T12:15:53Z
+date: 2025-08-18T12:00:00Z
 draft: false
-type: "Research Impact"
+type: "research-impact"
 menu: "footer"
 weight: 2
 ---
-
 
