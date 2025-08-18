@@ -34,7 +34,7 @@ theme = "phe"
     url = "/research-integrity/"
     weight = 7
   [[menu.main]]
-    name = "Impact"
+    name = "Research Impact"
     url = "/impact/"
     weight = 8
   [[menu.main]]
