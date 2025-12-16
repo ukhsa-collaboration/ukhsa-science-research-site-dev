@@ -4,7 +4,7 @@ title = "UK Health Security Agency"
 theme = "phe"
 [menu]
   [[menu.main]]
-    name = "About Research"
+    name = "About Us"
     url = "/about/"
     weight = 1
   [[menu.main]]
