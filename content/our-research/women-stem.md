@@ -5,30 +5,49 @@ draft: false
 type: "spotlight"
 thumbnail: "thumbnail-stem.jpg"
 alt: "Women in science."
-description: "High blood pressure affects around 25&#37; of UK adults and is a leading risk factor for cardiovascular disease. Research by UKHSA shows that small exposures to  sunlight may be beneficial for our cardiovascular health. This may offer a simple and accessible way of reducing the risk of cardiovascular disease."
-excerpt: "High blood pressure affects around 25% of UK adults and is a leading risk factor for cardiovascular disease. Research by UKHSA shows that small exposures to sunlight may be beneficial for our cardiovascular health. This may offer a simple and accessible way of reducing the risk of cardiovascular disease"
+description: "To celebrate Women in Science, Technology, Mathematics and Engineering (STEM) Day, UKHSA is highlighting key impactful pieces of research led by our women scientists and engineers."
+excerpt: "Research into radiation, chemical threats and other environmental hazards is key to support UKHSA’s remit."
 
-buttonText: "Learn more on Sunlight and Cardiovascular Disease"
+buttonText: "Learn more on Women in Science at UKHSA"
 ---
 
 {{< spotlight-feature title="Women in Science, Technology, Engineering and Mathematics (STEM) at UKHSA "image="banner-stem" alt="lab" caption="(Image source: UKHSA)" >}}
 
 <p>To celebrate Women in Science, Technology, Mathematics and Engineering (STEM) Day, UKHSA is highlighting key impactful pieces of research led by our women scientists and engineers.</p>
 
+<p>This Spotlight highlights UKHSA’s role in advancing health security through innovative research in advancing health security and taking the opportunity to celebrate the contribution of women in science and engineering.</p>
+
 <p>Research into radiation, chemical threats and other environmental hazards is key to support UKHSA’s remit. It provides the evidence we require to conduct surveillance, understand the effects from chemical, radiation and other environmental hazards into health and inform our guidance and advice to the public and other stakeholders.</P>
 
-<p>Nitric oxide is a small molecule that is released in the skin after exposure to ultraviolet light (present in sunlight) and acts to expand the blood vessels in the body. This lowers blood pressure, thus reducing the risk of developing cardiovascular disease. The exact size of effect sunlight could have on cardiovascular health by this mechanism is unknown, however early clinical trials, epidemiological and laboratory data are supportive of this protective mechanism <i>(Liu 2014, Pelegrino 2020, Weller 2020, Weller 2022).</i></p>
+<p><a style="color:white;" href="https://researchportal.ukhsa.gov.uk/en/persons/liz-ainsbury/"> Authors:Dr Liz Ainsbury</a></p>
+<p><a style="color:white;" href="https://researchportal.ukhsa.gov.uk/en/persons/karen-exley/">Dr Karen Exley</a></p>
+<p><a style="color:white;" href="https://researchportal.ukhsa.gov.uk/en/persons/kerry-broom/">Dr Kerry Broom</a></p>
+<p><a style="color:white;" href="https://researchportal.ukhsa.gov.uk/en/publications/enhancing-epidemiological-surveillance-of-the-emergence-of-the-sa/">Dr Eileen Gallagher</a></p>
+<p><a style="color:white;" href="https://researchportal.ukhsa.gov.uk/en/persons/katherine-turner//">Dr Katy Turner</a></p>
+<p><a style="color:white;" href="https://researchportal.ukhsa.gov.uk/en/persons/emma-bennett/">Dr Emma Bennetto</a></p>
+<p><a style="color:white;" href="https://researchportal.ukhsa.gov.uk/en/persons/ashveny-ashok/">Dr Ashveny Ashoko</a></p>
+<p><a style="color:white;">Laura Gerla</a></p>
 
-<p><a style="color:white;" href="https://researchportal.ukhsa.gov.uk/en/persons/paul-omahoney"> Author: Paul O&#39;Mahoney UKHSA Research Profile </a></p>
 {{< /spotlight-feature >}}
 
-{{< spotlight-content title="Chemical Threats and Hazards" image="stem-img2.jpg" alt="sunlight-cardio" caption="Blood pressure monitoring (Image source: UKHSA)" >}}
+{{< spotlight-content title="Chemical Threats and Hazards" image="stem-img2.jpg" alt="women in science" caption="scientists in lab (Image source: UKHSA)" >}}
 
-<p>Recently published work by researchers at UKHSA has shown that low exposures to natural sunlight (around 10 minutes on a clear summer day) can expand blood vessels <i>in vitro</i>. Importantly, these doses of sunlight produced no detrimental effects to the cells. It may be possible to be protected against the harmful effects of sunlight while taking advantage of the benefits to our health that sunlight has to offer, though further work is needed to study these effects in humans. Research on this area continues under the <a href="https://crth.hpru.nihr.ac.uk/" target="_blank">NIHR Health Protection Research Unit in Chemical and Radiation Threats and Hazards</a> and in collaboration with partner universities.</a></p>
+<p>Women scientists lead UKHSA's National Institute for Health and Care Research Protection Research Unit (HPRU) in <a style="color:white;" href="https://le.ac.uk/cehs/hpru/" target="_blank">Chemical Threats and Hazzards.> This HPRU aims to use new methods and collaborative working to provide a major improvement in our ability to detect exposures to chemicals, metal and air pollution in our daily lives and monitor and predict how they affect our health. Dr Karen Exley (HPRU Lead) and Dr Kerry Broom (Knowledge Mobilisation Lead) ensure the HPRU's aim – of creating lasting public health impact – is achieved through collective stakeholder mapping and knowledge exchange in the areas of air pollution and public health. The HPRU Deputy Lead, Dr Emma Marczylo, is exploring the use of cutting-edge artificial intelligence technology to monitor pollen and other biological airborne particles in real time to help those with allergies and asthma better manage their symptoms.</p>
+
+<p> Collaborative production a wide range of partners, including a cross –European strategic partnership of research and innovation, and under the  International Commission on Radiological Protection Continues to inform  vital research on radiation and environmental protection.</p>
+
+<p>Our women scientists also contribute to global innovation in radiation protection and regulation research.  Dr Ashveny Ashok, an early career Radiation Protection Scientist, has focussed her research on developing an assay to detect radiation exposure, enabling healthcare teams worldwide to respond quickly to emergencies (even in low-resource settings).Laura Gerla, an Environmental Survey Manager in Radiation Metrology, supports the work of the Office for Nuclear Regulation by assessing public doses through perimeter monitoring and contributing to the delicensing of nuclear sites.Laura’s work provides critical science-driven guidance to regulators and communities ensuring safety and trust in the nuclear landscape.</p>
+
+<p>Research at UKHSA drives innovation and strengthens preparedness against infectious diseases, environmental hazards and emerging threats. Central to this mission is tackling health disparities with evidence-based,equitable approaches in which women scientists at UKHSA play a vital role – not only advancing technical research but also shaping the future workforce and embedding equity in science.</p>  
+
+<p>  UKHSA has a strategic partnership with the Women into Science and Engineering network, which aims to support the Science, Technology, Engineering and Mathematics (STEM) sector by: (1) enabling and promoting the participation, contribution and success of women, (2) providing supportive communities, networking opportunities and platforms to celebrate achievements and (3) ensuring women in STEM are visible and valued.</p> 
+
 
 <h3 class="red d-none d-lg-block">Further Reading:</h3>
-<p><a href="https://researchportal.ukhsa.gov.uk/en/publications/low-dose-daylight-exposure-induces-nitric-oxide-release-and-maint" target="_blank">Low-dose daylight exposure induces nitric oxide release and maintains cell viability <i>in vitro</i> Authors- Hazell, Khazova and O'Mahoney (2023).</a></p>
-<p><a href="https://www.nature.com/articles/s41598-022-13399-4" target="_blank">Post-exposure persistence of nitric oxide up regulation in skin cells irradiated by UV-A, Authors- Hazell, Khazova Cohen, Felton and Raj (2022).</a><p>
-<p><a href="https://www.nature.com/articles/s41598-017-11567-5" target="_blank" >Ultraviolet radiation - induced production of nitric oxide: a multi-cell and multi-donor analysis, Authors - Holliman, Lowe, Cohen, Felton and Raj (2017).</a><p>
-<p><a href=">https://crth.hpru.nihr.ac.uk/" target="_blank"></a></p>
+<p><a href="https://ukhsa.blog.gov.uk/2024/09/11/how-cutting-edge-ai-technology-could-hold-the-key-to-forecasting-the-pollen-count/" target="_How cutting-edge AI technology could hold the key to forecasting the pollen count Author: UKHSA.</a></p>
+<h3 class="red d-none d-lg-block">Video Links:</h3>
+<p><a href="https://www.youtube.com/watch?v=lE5fikxlTmk" target="_blank">An Introduction to the HPRU</a></p>
+<p><a href="https://www.youtube.com/watch?v=EVhfpL5sJII" target="_blank">Bioaerosols and Health, Author: NIHR HPRU (2024).</a><p>
+<p><a href="https://www.youtube.com/watch?v=Y6K0IbVhQOA" target="_blank" >3D Printing and Health - Authors -NIHR HPRU(2024).</a><p>
+
 {{< /spotlight-content >}}
