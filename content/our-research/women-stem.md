@@ -3,7 +3,7 @@ title: "Women in Science, Technology, Engineering and Mathematics (STEM) at UKHS
 date: 2026-02-01T14:00:00Z
 draft: false
 type: "spotlight"
-thumbnail: "thumbnail-sunlight.jpg"
+thumbnail: "thumbnail-stem.jpg"
 alt: "Women in science."
 description: "High blood pressure affects around 25&#37; of UK adults and is a leading risk factor for cardiovascular disease. Research by UKHSA shows that small exposures to  sunlight may be beneficial for our cardiovascular health. This may offer a simple and accessible way of reducing the risk of cardiovascular disease."
 excerpt: "High blood pressure affects around 25% of UK adults and is a leading risk factor for cardiovascular disease. Research by UKHSA shows that small exposures to sunlight may be beneficial for our cardiovascular health. This may offer a simple and accessible way of reducing the risk of cardiovascular disease"
@@ -11,7 +11,7 @@ excerpt: "High blood pressure affects around 25% of UK adults and is a leading r
 buttonText: "Learn more on Sunlight and Cardiovascular Disease"
 ---
 
-{{< spotlight-feature title="Women in Science, Technology, Engineering and Mathematics (STEM) at UKHSA "image="sunlight.jpg" alt="sunlight" caption="(Image source: Lukas-Pexels.com)" >}}
+{{< spotlight-feature title="Women in Science, Technology, Engineering and Mathematics (STEM) at UKHSA "image="banner-stem" alt="lab" caption="(Image source: UKHSA)" >}}
 
 <p>To celebrate Women in Science, Technology, Mathematics and Engineering (STEM) Day, UKHSA is highlighting key impactful pieces of research led by our women scientists and engineers.</p>
 
@@ -22,7 +22,7 @@ buttonText: "Learn more on Sunlight and Cardiovascular Disease"
 <p><a style="color:white;" href="https://researchportal.ukhsa.gov.uk/en/persons/paul-omahoney"> Author: Paul O&#39;Mahoney UKHSA Research Profile </a></p>
 {{< /spotlight-feature >}}
 
-{{< spotlight-content title="Chemical Threats and Hazards" image="sunlight-bp.jpg" alt="sunlight-cardio" caption="Blood pressure monitoring (Image source: Thirdman-Pexels.com)" >}}
+{{< spotlight-content title="Chemical Threats and Hazards" image="stem-img2.jpg" alt="sunlight-cardio" caption="Blood pressure monitoring (Image source: UKHSA)" >}}
 
 <p>Recently published work by researchers at UKHSA has shown that low exposures to natural sunlight (around 10 minutes on a clear summer day) can expand blood vessels <i>in vitro</i>. Importantly, these doses of sunlight produced no detrimental effects to the cells. It may be possible to be protected against the harmful effects of sunlight while taking advantage of the benefits to our health that sunlight has to offer, though further work is needed to study these effects in humans. Research on this area continues under the <a href="https://crth.hpru.nihr.ac.uk/" target="_blank">NIHR Health Protection Research Unit in Chemical and Radiation Threats and Hazards</a> and in collaboration with partner universities.</a></p>
 
