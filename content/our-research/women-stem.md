@@ -6,8 +6,7 @@ type: "spotlight"
 thumbnail: "thumbnail-stem.jpg"
 alt: "Women in science."
 description: "To celebrate Women in Science, Technology, Mathematics and Engineering (STEM) Day, UKHSA is highlighting key impactful pieces of research led by our women scientists and engineers."
-excerpt: "Research into radiation, chemical threats and other environmental hazards is key to support UKHSA’s remit."
-
+excerpt: "Research into radiation, chemical threats and other environmental hazards is key to support UKHSA&#39;s remit."
 buttonText: "Learn more on Women in Science at UKHSA"
 ---
 
@@ -17,7 +16,7 @@ buttonText: "Learn more on Women in Science at UKHSA"
 
 <p>This Spotlight highlights UKHSA’s role in advancing health security through innovative research in advancing health security and taking the opportunity to celebrate the contribution of women in science and engineering.</p>
 
-<p>Research into radiation, chemical threats and other environmental hazards is key to support UKHSA’s remit. It provides the evidence we require to conduct surveillance, understand the effects from chemical, radiation and other environmental hazards into health and inform our guidance and advice to the public and other stakeholders.</P>
+<p>Research into radiation, chemical threats and other environmental hazards is key to support UKHSA&#39;s remit. It provides the evidence we require to conduct surveillance, understand the effects from chemical, radiation and other environmental hazards into health and inform our guidance and advice to the public and other stakeholders.</P>
 
 <p><a style="color:white;" href="https://researchportal.ukhsa.gov.uk/en/persons/liz-ainsbury/"> Authors:Dr Liz Ainsbury</a></p>
 <p><a style="color:white;" href="https://researchportal.ukhsa.gov.uk/en/persons/karen-exley/">Dr Karen Exley</a></p>
@@ -32,7 +31,7 @@ buttonText: "Learn more on Women in Science at UKHSA"
 
 {{< spotlight-content title="Chemical Threats and Hazards" image="stem-img2.jpg" alt="women in science" caption="scientists in lab (Image source: UKHSA)" >}}
 
-<p>Women scientists lead UKHSA's National Institute for Health and Care (NIHR) Research Protection Research Unit (HPRU) in <a style="color:white;" href="https://le.ac.uk/cehs/hpru/" target="_blank">Chemical Threats and Hazards</a>. This HPRU aims to use new methods and collaborative working to provide a major improvement in our ability to detect exposures to chemicals, metal and air pollution in our daily lives and monitor and predict how they affect our health. Dr Karen Exley (HPRU Lead) and Dr Kerry Broom (Knowledge Mobilisation Lead) ensure the HPRU's aim – of creating lasting public health impact – is achieved through collective <a style="color:white;" href="https://researchportal.ukhsa.gov.uk/en/publications/collaborative-stakeholder-mapping-through-knowledge-exchange-and-/" target="_blank">stakeholder mapping and knowledge exchange</a> in the areas of air pollution and public health. The HPRU Deputy Lead, Dr Emma Marczylo, is exploring the use of <a style="color:white;" href="https://ukhsa.blog.gov.uk/2024/09/11/how-cutting-edge-ai-technology-could-hold-the-key-to-forecasting-the-pollen-count/" target="_blank">cutting-edge artificial intelligence technology</a> to monitor pollen and other biological airborne particles in real time to help those with allergies and asthma better manage their symptoms.</p>
+<p>Women scientists lead UKHSA&#39;s National Institute for Health and Care (NIHR) Research Protection Research Unit (HPRU) in <a style="color:white;" href="https://le.ac.uk/cehs/hpru/" target="_blank">Chemical Threats and Hazards</a>. This HPRU aims to use new methods and collaborative working to provide a major improvement in our ability to detect exposures to chemicals, metal and air pollution in our daily lives and monitor and predict how they affect our health. Dr Karen Exley (HPRU Lead) and Dr Kerry Broom (Knowledge Mobilisation Lead) ensure the HPRU&#39;s aim – of creating lasting public health impact – is achieved through collective <a style="color:white;" href="https://researchportal.ukhsa.gov.uk/en/publications/collaborative-stakeholder-mapping-through-knowledge-exchange-and-/" target="_blank">stakeholder mapping and knowledge exchange</a> in the areas of air pollution and public health. The HPRU Deputy Lead, Dr Emma Marczylo, is exploring the use of <a style="color:white;" href="https://ukhsa.blog.gov.uk/2024/09/11/how-cutting-edge-ai-technology-could-hold-the-key-to-forecasting-the-pollen-count/" target="_blank">cutting-edge artificial intelligence technology</a> to monitor pollen and other biological airborne particles in real time to help those with allergies and asthma better manage their symptoms.</p>
 
 <p>Collaborative production with a wide range of partners, including a cross-European strategic partnership of research and innovation, and under the <a style="color:white;" href="https://www.icrp.org/" target="_blank">International Commission on Radiological Protection</a>, continues to inform <a style="color:white;" href="https://pianoforte-partnership.eu/" target="_blank">vital research</a> on radiation and environmental protection.</p>
 
