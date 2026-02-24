@@ -46,7 +46,7 @@ buttonText: "Learn more on Women in Science at UKHSA"
 <p><a href="https://ukhsa.blog.gov.uk/2024/09/11/how-cutting-edge-ai-technology-could-hold-the-key-to-forecasting-the-pollen-count/" target="_blank">How cutting-edge AI technology could hold the key to forecasting the pollen count. Author: UKHSA.</a></p>
 <h3 class="red d-none d-lg-block">Video Links:</h3>
 <p><a href="https://www.youtube.com/watch?v=lE5fikxlTmk" target="_blank">An Introduction to the HPRU</a></p>
-<p><a href="https://www.youtube.com/watch?v=EVhfpL5sJII" target="_blank">Bioaerosols and Health, Author: NIHR HPRU (2024).</a><p>
-<p><a href="https://www.youtube.com/watch?v=Y6K0IbVhQOA" target="_blank" >3D Printing and Health - Authors -NIHR HPRU(2024).</a><p>
+<p><a href="https://www.youtube.com/watch?v=EVhfpL5sJII" target="_blank">Bioaerosols and Health, Author: NIHR HPRU (2024).</a></p>
+<p><a href="https://www.youtube.com/watch?v=Y6K0IbVhQOA" target="_blank">3D Printing and Health - Authors - NIHR HPRU (2024).</a></p>
 
 {{< /spotlight-content >}}
