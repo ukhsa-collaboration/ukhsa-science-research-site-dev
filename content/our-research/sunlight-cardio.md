@@ -1,5 +1,5 @@
 ---
-title: "Sunlight and Cardiovascular Disease"
+title: "Sunlight. and Cardiovascular Disease"
 date: 2024-07-01T14:00:00Z
 draft: false
 type: "spotlight"
