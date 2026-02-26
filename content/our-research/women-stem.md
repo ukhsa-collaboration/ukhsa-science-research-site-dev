@@ -7,15 +7,14 @@ thumbnail: "thumbnail-stem.jpg"
 alt: "Women in science."
 description: "To celebrate Women in Science, Technology, Mathematics and Engineering (STEM) Day, UKHSA is highlighting key impactful pieces of research led by our women scientists and engineers."
 excerpt: "Research into radiation, chemical threats and other environmental hazards is key to support UKHSA&#39;s remit."
+
 buttonText: "Learn more on Women in Science at UKHSA"
 ---
 
 {{< spotlight-feature title="Women in Science, Technology, Engineering and Mathematics (STEM) at UKHSA "image="banner-stem" alt="lab" caption="(Image source: UKHSA)" >}}
 
 <p>To celebrate Women in Science, Technology, Mathematics and Engineering (STEM) Day, UKHSA is highlighting key impactful pieces of research led by our women scientists and engineers.</p>
-
 <p>This Spotlight highlights UKHSA’s role in advancing health security through innovative research in advancing health security and taking the opportunity to celebrate the contribution of women in science and engineering.</p>
-
 <p>Research into radiation, chemical threats and other environmental hazards is key to support UKHSA&#39;s remit. It provides the evidence we require to conduct surveillance, understand the effects from chemical, radiation and other environmental hazards into health and inform our guidance and advice to the public and other stakeholders.</p>
 
 <p><a style="color:white;" href="https://researchportal.ukhsa.gov.uk/en/persons/liz-ainsbury/">Authors: Dr Liz Ainsbury</a></p>
@@ -40,7 +39,6 @@ buttonText: "Learn more on Women in Science at UKHSA"
 <p>Research at UKHSA drives innovation and strengthens preparedness against infectious diseases, environmental hazards and emerging threats. Central to this mission is tackling health disparities with evidence-based, equitable approaches in which women scientists at UKHSA play a vital role – not only advancing technical research but also shaping the future workforce and embedding equity in science.</p>  
 
 <p>UKHSA has a strategic partnership with the <a style="color:white;" href="https://www.wisecampaign.org.uk/about-us/" target="_blank">Women into Science and Engineering Network</a>, which aims to support the Science, Technology, Engineering and Mathematics (STEM) sector by: (1) enabling and promoting the participation, contribution and success of women, (2) providing supportive communities, networking opportunities and platforms to celebrate achievements and (3) ensuring women in STEM are visible and valued.</p>
-
 
 <h3 class="red d-none d-lg-block">Further Reading:</h3>
 <p><a href="https://ukhsa.blog.gov.uk/2024/09/11/how-cutting-edge-ai-technology-could-hold-the-key-to-forecasting-the-pollen-count/" target="_blank">How cutting-edge AI technology could hold the key to forecasting the pollen count. Author: UKHSA.</a></p>
