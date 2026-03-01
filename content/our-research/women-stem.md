@@ -22,7 +22,7 @@ buttonText: "Learn more on Women in Science at UKHSA"
 <a style="color:white;" href="https://researchportal.ukhsa.gov.uk/en/persons/kerry-broom/">Dr Kerry Broom</a><br>
 <a style="color:white;" href="https://researchportal.ukhsa.gov.uk/en/publications/enhancing-epidemiological-surveillance-of-the-emergence-of-the-sa/">Dr Eileen Gallagher</a></p>
 <a style="color:white;" href="https://researchportal.ukhsa.gov.uk/en/persons/katherine-turner//">Dr Katy Turner</a><br>
-<a style="color:white;" href="https://researchportal.ukhsa.gov.uk/en/persons/emma-bennett/">Dr Emma Bennetto</a><br>
+<a style="color:white;" href="https://researchportal.ukhsa.gov.uk/en/persons/emma-bennett/">Dr Emma Bennett</a><br>
 <a style="color:white;" href="https://researchportal.ukhsa.gov.uk/en/persons/ashveny-ashok/">Dr Ashveny Ashok</a><br>
 <a style="color:white;">Laura Gerla</a></p>
 {{< /spotlight-feature >}}
