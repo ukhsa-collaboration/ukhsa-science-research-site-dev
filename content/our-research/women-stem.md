@@ -10,9 +10,9 @@ excerpt: "Research into radiation, chemical threats and other environmental haza
 buttonText: "Learn more on Women in Science at UKHSA"
 ---
 
-{{< spotlight-feature title="Women in Science, Technology, Engineering and Mathematics (STEM) at UKHSA" image="banner-stem.jpg" alt="lab" caption="Scientists at UKHSA (Image source: UKHSA)" >}}
+{{< spotlight-feature title="Women in Science, Technology, Engineering and Mathematics STEM at UKHSA" image="banner-stem.jpg" alt="lab" caption="Scientists at UKHSA (Image source: UKHSA)" >}}
 
-<p>To celebrate Women in (STEM) Day, UKHSA is highlighting key impactful pieces of research led by our women scientists and engineers.</p>
+<p>To celebrate Women in STEM Day, UKHSA is highlighting key impactful pieces of research led by our women scientists and engineers.</p>
 <p>This Spotlight highlights UKHSA&#39;s role in advancing health security through innovative research and taking the opportunity to celebrate the contribution of women in science and engineering.</p>
 <p>Research into radiation, chemical threats and other environmental hazards is key to support UKHSA&#39;s remit. It provides the evidence we require to conduct surveillance, understand the effects from chemical, radiation and other environmental hazards into health and inform our guidance and advice to the public and other stakeholders.</p>
 
@@ -33,7 +33,7 @@ buttonText: "Learn more on Women in Science at UKHSA"
 
 <p><a href="https://pianoforte-partnership.eu/" target="_blank">Vital research</a> on radiation and environmental protection is informed by the <a href="https://www.icrp.org/" target="_blank">International Commission on Radiological Protection</a>, and a cross-European strategic partnership of research and innovation, both of which include UKHSA scientists.</p>
 
-<p>Our women scientists also contribute to global innovation in radiation protection and regulation research. <a href="https://researchportal.ukhsa.gov.uk/en/publications/collaborative-stakeholder-mapping-through-knowledge-exchange-and-/" target="_blank">Dr Ashveny Ashok</a>, an early career Radiation Protection Scientist, has focussed her research on <a href="https://www.ukhsa-protectionservices.org.uk/radiationeffects/research/cmb/" target="_blank">developing an assay to detect radiation exposure</a>, enabling healthcare teams worldwide to respond quickly to emergencies (even in low-resource settings). Ashveny will also be representing the British Pharmacological Society at <a href="https://www.rsb.org.uk/voice-of-the-future.html" target="_blank">Voice of the Future 2026</a>. Laura Gerla, an Environmental Survey Manager in Radiation Metrology, supports the work of the <a href="https://www.onr.org.uk/" target="_blank">Office for Nuclear Regulation</a> by assessing public doses through perimeter monitoring and contributing to the delicensing of nuclear sites. Laura&#39;s work provides critical science-driven guidance to regulators and communities ensuring safety and trust in the nuclear landscape.</p>
+<p>Our women scientists also contribute to global innovation in radiation protection and regulation research. Dr Ashveny Ashok, an early career Radiation Protection Scientist, has focussed her research on <a href="https://www.ukhsa-protectionservices.org.uk/radiationeffects/research/cmb/" target="_blank">developing an assay to detect radiation exposure</a>, enabling healthcare teams worldwide to respond quickly to emergencies (even in low-resource settings). Ashveny will also be representing the British Pharmacological Society at <a href="https://www.rsb.org.uk/voice-of-the-future.html" target="_blank">Voice of the Future 2026</a>. Laura Gerla, an Environmental Survey Manager in Radiation Metrology, supports the work of the <a href="https://www.onr.org.uk/" target="_blank">Office for Nuclear Regulation</a> by assessing public doses through perimeter monitoring and contributing to the delicensing of nuclear sites. Laura&#39;s work provides critical science-driven guidance to regulators and communities ensuring safety and trust in the nuclear landscape.</p>
 
 <p>Research at UKHSA drives innovation and strengthens preparedness against infectious diseases, environmental hazards and emerging threats. Central to this mission is tackling health disparities with evidence-based, equitable approaches in which women scientists at UKHSA play a vital role - not only advancing technical research but also shaping the future workforce and embedding equity in science.</p> 
 
@@ -44,7 +44,7 @@ buttonText: "Learn more on Women in Science at UKHSA"
 
 <h3 class="red d-none d-lg-block">Video Links:</h3>
 <p><a href="https://www.youtube.com/watch?v=lE5fikxlTmk" target="_blank">An Introduction to the HPRU in Environmental Exposures and Health </a>Author: University of Leicester<br>
-<a href="https://www.youtube.com/watch?v=EVhfpL5sJII" target="_blank">Indoor Air Quality and 3 D Printing</a> Author: NIHR HPRU (2024).<br>
-<a href="https://www.youtube.com/watch?v=Y6K0IbVhQOA" target="_blank">3D Printing and Health</a> Author: - NIHR HPRU (2024).</p>
+<a href="https://www.youtube.com/watch?v=EVhfpL5sJII" target="_blank">Indoor Air Quality</a> Author: NIHR HPRU (2024).<br>
+<a href="https://www.youtube.com/watch?v=Y6K0IbVhQOA" target="_blank">3D Printing and Health</a> Author:NIHR HPRU (2024).</p>
 
 {{< /spotlight-content >}}
