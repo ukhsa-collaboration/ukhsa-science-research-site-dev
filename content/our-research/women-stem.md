@@ -40,11 +40,11 @@ buttonText: "Learn more on Women in Science at UKHSA"
 <p>UKHSA has a strategic partnership with the <a href="https://www.wisecampaign.org.uk" target="_blank">Women into Science and Engineering Network</a>, which aims to support the STEM sector by: (1) enabling and promoting the participation, contribution and success of women, (2) providing supportive communities, networking opportunities and platforms to celebrate achievements and (3) ensuring women in STEM are visible and valued.</p>
 
 <h3 class="red d-none d-lg-block">Further Reading:</h3>
-<p><a href="https://ukhsa.blog.gov.uk/2024/09/11/how-cutting-edge-ai-technology-could-hold-the-key-to-forecasting-the-pollen-count/" target="_blank">How cutting-edge AI technology could hold the key to forecasting the pollen count. Author: UKHSA.</a></p>
+<p><a href="https://ukhsa.blog.gov.uk/2024/09/11/how-cutting-edge-ai-technology-could-hold-the-key-to-forecasting-the-pollen-count/" target="_blank">How cutting-edge AI technology could hold the key to forecasting the pollen count.</a> Author: UKHSA.</p>
 
 <h3 class="red d-none d-lg-block">Video Links:</h3>
-<p><a href="https://www.youtube.com/watch?v=lE5fikxlTmk" target="_blank">An Introduction to the HPRU in Environmental Exposures and Health - Author: University of Leicester</a><br>
-<a href="https://www.youtube.com/watch?v=EVhfpL5sJII" target="_blank">Indoor Air Quality and 3 D Printing, Author: NIHR HPRU (2024).</a><br>
-<a href="https://www.youtube.com/watch?v=Y6K0IbVhQOA" target="_blank">3D Printing and Health - Author: - NIHR HPRU (2024).</a></p>
+<p><a href="https://www.youtube.com/watch?v=lE5fikxlTmk" target="_blank">An Introduction to the HPRU in Environmental Exposures and Health </a>Author: University of Leicester<br>
+<a href="https://www.youtube.com/watch?v=EVhfpL5sJII" target="_blank">Indoor Air Quality and 3 D Printing</a> Author: NIHR HPRU (2024).<br>
+<a href="https://www.youtube.com/watch?v=Y6K0IbVhQOA" target="_blank">3D Printing and Health</a> Author: - NIHR HPRU (2024).</p>
 
 {{< /spotlight-content >}}
