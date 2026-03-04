@@ -10,7 +10,7 @@ excerpt: "Research into radiation, chemical threats and other environmental haza
 buttonText: "Learn more on Women in Science at UKHSA"
 ---
 
-{{< spotlight-feature title="Women in Science, Technology, Engineering and Mathematics STEM at UKHSA" image="banner-stem.jpg" alt="lab" caption="Scientists at UKHSA (Image source: UKHSA)" >}}
+{{< spotlight-feature title="Women in Science, Technology, Engineering and Mathematics (STEM) at UKHSA" image="banner-stem.jpg" alt="lab" caption="Scientists at UKHSA (Image source: UKHSA)" >}}
 
 <p>To celebrate Women in STEM Day, UKHSA is highlighting key impactful pieces of research led by our women scientists and engineers.</p>
 <p>This Spotlight highlights UKHSA&#39;s role in advancing health security through innovative research and taking the opportunity to celebrate the contribution of women in science and engineering.</p>
