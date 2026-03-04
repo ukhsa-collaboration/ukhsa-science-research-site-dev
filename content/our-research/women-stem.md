@@ -44,7 +44,7 @@ buttonText: "Learn more on Women in Science at UKHSA"
 
 <h3 class="red d-none d-lg-block">Video Links:</h3>
 <p><a href="https://www.youtube.com/watch?v=lE5fikxlTmk" target="_blank">An Introduction to the HPRU in Environmental Exposures and Health </a>Author: University of Leicester<br>
-<a href="https://www.youtube.com/watch?v=EVhfpL5sJII" target="_blank">Indoor Air Quality</a> Author: NIHR HPRU (2024).<br>
-<a href="https://www.youtube.com/watch?v=Y6K0IbVhQOA" target="_blank">3D Printing and Health</a> Author:NIHR HPRU (2024).</p>
+<a href="https://www.youtube.com/watch?v=EVhfpL5sJII" target="_blank">Bioaerosols and Health</a> Author: NIHR HPRU (2024).<br>
+<a href="https://www.youtube.com/watch?v=Y6K0IbVhQOA" target="_blank">Indoor Air Quality and 3D Printing</a> Author:NIHR HPRU (2024).</p>
 
 {{< /spotlight-content >}}
