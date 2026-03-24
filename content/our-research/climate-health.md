@@ -30,14 +30,14 @@ buttonText: "Learn more about the Impact of Climate Change on Mental Health"
 <p>Each thematic chapter outlines key pathways and interventions, identifies current gaps in evidence and links to relevant case studies. An additional <a href="https://assets.publishing.service.gov.uk/media/6911c5b9cf24e9250d893e82/climate-change-and-mental-health-summary-for-policymakers.pdf"target="_blank">summary for policymakers</a> provides a high-level overview of findings and considerations for further research and practice.</p>
 
 <h3 class="red d-none d-lg-block">Further Reading:</h3>
-<p style="line-height: 1.5;"><a href="https://www.gov.uk/government/publications/climate-change-and-mental-health-report" target="_blank">Climate change and mental health report 2025</a></p>
+<p><a href="https://www.gov.uk/government/publications/climate-change-and-mental-health-report" target="_blank">Climate change and mental health report 2025</a></p>
 <p>Author: UKHSA</p>
-<p style="line-height: 1.5;"><a href="https://assets.publishing.service.gov.uk/media/6911c5b9cf24e9250d893e82/climate-change-and-mental-health-summary-for-policymakers.pdf" target="_blank">Summary for policymakers Author:UKHSA</a></p>
-<p><i>Author: UKHSA</p>
-<p style="line-height: 1.5;"><a href="https://assets.publishing.service.gov.uk/media/6911c5e9e9348ac8fb54f464/climate-change-and-mental-health-report-appendix-3.pdf" target="_blank">Case studies</a></p>
-<p><i>Author: UKHSA</p>
-<p style="line-height: 1.5;"><a href="https://researchportal.ukhsa.gov.uk/en/publications/investigating-the-health-impacts-of-climate-change-among-people-w-2/" target="_blank">Investigating the health impacts of climate change among people with pre-existing mental health problems: A scoping review</a></p>
+<p><a href="https://assets.publishing.service.gov.uk/media/6911c5b9cf24e9250d893e82/climate-change-and-mental-health-summary-for-policymakers.pdf" target="_blank">Summary for policymakers Author:UKHSA</a></p>
 <p>Author: UKHSA</p>
-<p style="line-height: 1.5;"><a href="https://www.gov.uk/government/publications/climate-change-health-effects-in-the-uk" target="_blank">Climate change: Health effects in the UK</a></p>
+<p><a href="https://assets.publishing.service.gov.uk/media/6911c5e9e9348ac8fb54f464/climate-change-and-mental-health-report-appendix-3.pdf" target="_blank">Case studies</a></p>
+<p><i>Author: UKHSA</p>
+<p><a href="https://researchportal.ukhsa.gov.uk/en/publications/investigating-the-health-impacts-of-climate-change-among-people-w-2/" target="_blank">Investigating the health impacts of climate change among people with pre-existing mental health problems: A scoping review</a></p>
+<p>Author: UKHSA</p>
+<p><a href="https://www.gov.uk/government/publications/climate-change-health-effects-in-the-uk" target="_blank">Climate change: Health effects in the UK</a></p>
 <p>Author: UKHSA</p>
 {{< /spotlight-content >}}
