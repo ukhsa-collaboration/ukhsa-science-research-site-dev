@@ -30,7 +30,7 @@ buttonText: "Learn more about the Impact of Climate Change on Mental Health"
 <p>Each thematic chapter outlines key pathways and interventions, identifies current gaps in evidence and links to relevant case studies. An additional <a href="https://assets.publishing.service.gov.uk/media/6911c5b9cf24e9250d893e82/climate-change-and-mental-health-summary-for-policymakers.pdf"target="_blank">summary for policymakers</a> provides a high-level overview of findings and considerations for further research and practice.</p>
 
 <h3 class="red d-none d-lg-block">Further Reading:</h3>
-<p style="margin: 0;"><a href="https://www.gov.uk/government/publications/climate-change-and-mental-health-report" target="_blank">Climate change and mental health report 2025</a></p>
+<p><a href="https://www.gov.uk/government/publications/climate-change-and-mental-health-report" target="_blank">Climate change and mental health report 2025</a></p>
 <p style="margin: 0;"><a href="https://www.gov.uk/government/publications/climate-change-and-mental-health-report" target="_blank">Climate change and mental health: thematic assessment report 2025</a></p>
 <p style="margin: 0;">Author: UKHSA</p>
 <p style="margin: 0;"><a href="https://assets.publishing.service.gov.uk/media/6911c5b9cf24e9250d893e82/climate-change-and-mental-health-summary-for-policymakers.pdf" target="_blank">Summary for policymakers Author:UKHSA</a></p>
