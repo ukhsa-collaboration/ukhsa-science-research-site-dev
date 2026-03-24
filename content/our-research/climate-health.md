@@ -37,7 +37,7 @@ buttonText: "Learn more about the Impact of Climate Change on Mental Health"
 <p style="margin: 0;"><a href="https://assets.publishing.service.gov.uk/media/6911c5b9cf24e9250d893e82/climate-change-and-mental-health-summary-for-policymakers.pdf" target="_blank">Summary for policymakers Author:UKHSA</a></p>
 <p style="margin: 0;">Author: UKHSA</p>
 <p style="margin: 0;"><a href="https://assets.publishing.service.gov.uk/media/6911c5e9e9348ac8fb54f464/climate-change-and-mental-health-report-appendix-3.pdf" target="_blank">Climate change and mental health: thematic assessment report: Appendix 3. UK Case Studies</a></p>
-<p style="margin: 0;"><i>Author: UKHSA</i></p>
+<p style="margin: 0;">Author: UKHS</p>
 <p style="margin: 0;"><a href="https://researchportal.ukhsa.gov.uk/en/publications/investigating-the-health-impacts-of-climate-change-among-people-w-2/" target="_blank">Investigating the health impacts of climate change among people with pre-existing mental health problems: A scoping review</a></p>
 <p style="margin: 0;">Author: UKHSA</p>
 <p style="margin: 0;"><a href="https://www.gov.uk/government/publications/climate-change-health-effects-in-the-uk" target="_blank">Health Effects of Climate Change (HECC) in the UK</a></p>
