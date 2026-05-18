@@ -2,52 +2,66 @@ baseURL = "https://research.ukhsa.gov.uk/"
 languageCode = "en-us"
 title = "UK Health Security Agency"
 theme = "phe"
+
 [menu]
+
   [[menu.main]]
-  name="Test Parent"
-  identifier = "test"
-    name = "About Us"
+    name="About Us"
     url = "/about/"
     weight = 1
-  [[menu.main]]
-  parent="test"
-  url="/test/"
+
+    # ✅ Parent item 
   [[menu.main]]
     name = "Our Research"
-    url = "/our-research/"
     identifier = "our-research"
-    weight = 2
-  [[menu.main]]
-    name = "Our Research"
     url = "/our-research/"
+    weight = 2
+
+     # ✅ Dropdown items 
+  [[menu.main]]
+  name= "Spotlight Research"
+  parent = "our-research"
+  url ="/spotlight/"
+  weight = 1
+
+  [[menu.main]]
+    name = "Research Portal"
     parent = "our-research"
-    weight = 3
-  [[menu.main]]
-    name = "Partnerships"
-    url = "/partnerships/"
-    weight = 4
-  [[menu.main]]
-    name = "Research Opportunities"
-    url = "/opportunities/"
-    weight = 5
+    url = "/research-portal/"
+    weight = 2
+
   [[menu.main]]
     name = "Animal Research"
     url = "/animal-research/"
-    weight = 6    
+    parent = "our-research"
+    weight = 3
+
   [[menu.main]]
     name = "Research Integrity"
+    parent = "our-research"
     url = "/research-integrity/"
-    weight = 7
+    weight = 4
+
+  # ✅ Top-level items
+  [[menu.main]]
+    name = "Partnerships"
+    url = "/partnerships/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Research Opportunities"
+    url = "/opportunities/"
+    weight = 4
+  [[menu.main]]
+     
   [[menu.main]]
     name = "Research Impact"
     url = "/research-impact/"
-    weight = 8
+    weight = 5
+    
   [[menu.main]]
     name = "Contact Us"
     url = "/contact/"
-    weight = 9
+    weight = 6
 #  [[menu.main]]
-#    name = "Divisions"
-#    url = "/divisions/"
-#    parent = "our-research"
-#    weight = 10
+
