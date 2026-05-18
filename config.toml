@@ -4,9 +4,14 @@ title = "UK Health Security Agency"
 theme = "phe"
 [menu]
   [[menu.main]]
+  name="Test Parent"
+  identifier = "test"
     name = "About Us"
     url = "/about/"
     weight = 1
+  [[menu.main]]
+  parent="test"
+  url="/test/"
   [[menu.main]]
     name = "Our Research"
     url = "/our-research/"
