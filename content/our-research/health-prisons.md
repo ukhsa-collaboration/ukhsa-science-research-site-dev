@@ -13,7 +13,7 @@ excerpt: "Research into improving the health of prison populations in Europe by 
 title= "Health Equity - Improving Vaccine Uptake in Prison Populations"
 image="Rise-vac2.png" 
 alt="RISE" 
-caption="Increasing vaccine uptake in prisons (image source: RISE /UKHSA)
+caption="Increasing vaccine uptake in prisons (image source: RISE /UKHSA)"
 >}}
 
 <p>This Spotlight highlights work undertaken by researchers from UKHSA, working as part of an international research consortium <a style="color:white;" href="https://wephren.tghn.org/rise-vac/" target="_blank">RISE-Vac Project</a>, Reaching and increasing services and vaccine equity uptake, which aimed to improve the health of prison populations in Europe, by working with individuals who have lived experience of being in prison, to promote vaccine literacy and increase vaccine uptake.</p>
