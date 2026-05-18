@@ -19,29 +19,18 @@ theme = "phe"
     weight = 2
 
   # Dropdown items
-  [[menu.main]]
-    name = "Spotlight Research"
-    parent = "our-research"
-    url = "/spotlight/"
-    weight = 1
-
-  [[menu.main]]
-    name = "Research Portal"
-    parent = "our-research"
-    url = "/research-portal/"
-    weight = 2
-
+ 
   [[menu.main]]
     name = "Animal Research"
     parent = "our-research"
     url = "/animal-research/"
-    weight = 3
+    weight = 1
 
   [[menu.main]]
     name = "Research Integrity"
     parent = "our-research"
     url = "/research-integrity/"
-    weight = 4
+    weight = 2
 
   # Top-level items
   [[menu.main]]
