@@ -11,9 +11,9 @@ excerpt: "Research into improving the health of prison populations in Europe by 
 
 {{<spotlight-feature 
 title= "Health Equity - Improving Vaccine Uptake in Prison Populations"
-image="RISE-vac2.png" 
+image="Rise-vac2.png" 
 alt="RISE" 
-caption="RISE - Increasing health equity in prison populations RISE-vac stakeholders and expected impact (Image source: RISE-vac)" 
+caption="Increasing vaccine uptake in prisons (image source: RISE /UKHSA)
 >}}
 
 <p>This Spotlight highlights work undertaken by researchers from UKHSA, working as part of an international research consortium <a style="color:white;" href="https://wephren.tghn.org/rise-vac/" target="_blank">RISE-Vac Project</a>, Reaching and increasing services and vaccine equity uptake, which aimed to improve the health of prison populations in Europe, by working with individuals who have lived experience of being in prison, to promote vaccine literacy and increase vaccine uptake.</p>
@@ -25,13 +25,13 @@ Authors:<br>
 {{< /spotlight-feature >}}
 
 {{< spotlight-content 
-title="Utilising Lived Experience to Increase Vaccine Uptake" 
+title="Using Lived Experience to Strengthen Vaccine Uptake" 
 image="RISE-vac.png" 
-alt="Increasing vaccine uptake in prison populations" caption="Increasing vaccine uptake in prisons (Image source: UKHSA)" 
+alt="Increasing vaccine uptake in prison populations" caption="RISE - Increasing health equity in prison populations RISE-vac stakeholders and expected impact (Image source: RISE-vac)" "(Image source: UKHSA)" 
 >}}
 
 <p>UKHSA, working with research partners, evaluated multiple vaccination strategies in prison settings across Europe and integrated these findings with data on vaccine knowledge, attitudes, and uptake among both staff and prison residents.</p> 
-<p>Using this data, UKHSA worked with <a href="http://epicconsultants.co.uk/" target="_blank">EP:IC Research Consultancy</a>, specialising in working with individuals in contact with the criminal justice system, to co-produce tailored information and training materials aimed at strengthening vaccine awareness.</p>
+<p>Using this data, UKHSA worked with EP:IC Research Consultancy, specialising in working with individuals in contact with the criminal justice system, to co-produce tailored information and training materials aimed at strengthening vaccine awareness.</p>
 
 <p>By engaging with individuals with lived experience, researchers were able to better understand the priorities of those in prison and identify which health messages were most effective.  Overall, the research demonstrated that the co-produced interventions improved vaccine literacy and uptake among both staff and prison populations, contributing to EU-wide guidance materials.</p>
 
