@@ -11,7 +11,7 @@ excerpt: "Research into improving the health of prison populations in Europe by 
 
 {{<spotlight-feature 
 title= "Health Equity - Improving Vaccine uptake in Prison Populations"
-image="RISE-vac.png" 
+image="RISE-vac2.png" 
 alt="RISE" 
 caption="RISE - Increasing health equity in prison populations RISE-vac stakeholders and expected impact(Image source:RISE-vac)" 
 >}}
@@ -26,7 +26,7 @@ Authors:<br>
 
 {{< spotlight-content 
 title="Utilising Lived Experience to Increase Vaccine Uptake" 
-image="Rise-vac2.png" 
+image="RISE-vac.png" 
 alt="Increasing vaccine uptake in prison populations" caption="Increasing vaccine uptake in prisons (Image source: UKHSA)" 
 >}}
 
