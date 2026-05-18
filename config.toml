@@ -1,3 +1,4 @@
+
 baseURL = "https://research.ukhsa.gov.uk/"
 languageCode = "en-us"
 title = "UK Health Security Agency"
@@ -6,23 +7,23 @@ theme = "phe"
 [menu]
 
   [[menu.main]]
-    name="About Us"
+    name = "About Us"
     url = "/about/"
     weight = 1
 
-    # ✅ Parent item 
+  # Parent item
   [[menu.main]]
     name = "Our Research"
     identifier = "our-research"
     url = "/our-research/"
     weight = 2
 
-     # ✅ Dropdown items 
+  # Dropdown items
   [[menu.main]]
-  name= "Spotlight Research"
-  parent = "our-research"
-  url ="/spotlight/"
-  weight = 1
+    name = "Spotlight Research"
+    parent = "our-research"
+    url = "/spotlight/"
+    weight = 1
 
   [[menu.main]]
     name = "Research Portal"
@@ -32,8 +33,8 @@ theme = "phe"
 
   [[menu.main]]
     name = "Animal Research"
-    url = "/animal-research/"
     parent = "our-research"
+    url = "/animal-research/"
     weight = 3
 
   [[menu.main]]
@@ -42,7 +43,7 @@ theme = "phe"
     url = "/research-integrity/"
     weight = 4
 
-  # ✅ Top-level items
+  # Top-level items
   [[menu.main]]
     name = "Partnerships"
     url = "/partnerships/"
@@ -52,16 +53,14 @@ theme = "phe"
     name = "Research Opportunities"
     url = "/opportunities/"
     weight = 4
-  [[menu.main]]
-     
+
   [[menu.main]]
     name = "Research Impact"
     url = "/research-impact/"
     weight = 5
-    
+
   [[menu.main]]
     name = "Contact Us"
     url = "/contact/"
     weight = 6
-#  [[menu.main]]
 
