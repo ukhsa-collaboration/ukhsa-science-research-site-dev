@@ -42,7 +42,7 @@ alt="Increasing vaccine uptake in prison populations" caption="RISE - Increasing
 
 <h3 class="red d-none d-lg-block">Further Reading:</h3>
 <p>
-<a href="https://wwwnc.cdc.gov/eid/article/30/13/23-0812_article" target="_blank">RISE-Vac Co-production of vaccine education materials with persons living in prison</a></p>
+<a href="https://wwwnc.cdc.gov/eid/article/30/13/23-0812_article" target="_blank">RISE-Vac Co-production of vaccine education materials with persons living in prison 
 Authors: Laryea-Adekimi F, D’Arcy J, Bardelli A, et al.(2024)</a>
 </p>
 <p>
