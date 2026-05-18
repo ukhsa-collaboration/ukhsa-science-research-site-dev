@@ -37,7 +37,7 @@ Authors:<br>
 title="Using Lived Experience to Strengthen Vaccine Uptake" 
 image="RISE-vac.png" 
 alt="Increasing vaccine uptake in prison populations" 
-" >}}
+>}}
 
 <p>By engaging with individuals with lived experience, researchers were able to better understand the priorities of those in prison and identify which health messages were most effective.  Overall, the research demonstrated that the co-produced interventions improved vaccine literacy and uptake among both staff and prison populations, contributing to EU-wide guidance materials.</p>
 
