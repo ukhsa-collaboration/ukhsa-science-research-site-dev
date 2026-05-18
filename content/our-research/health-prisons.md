@@ -16,7 +16,10 @@ alt="RISE"
 caption="Increasing vaccine uptake in prisons (image source: RISE /UKHSA)"
 >}}
 
-<p>This Spotlight highlights work undertaken by researchers from UKHSA, working as part of an international research consortium <a style="color:white;" href="https://wephren.tghn.org/rise-vac/" target="_blank">RISE-Vac Project</a>, Reaching and increasing services and vaccine equity uptake, which aimed to improve the health of prison populations in Europe, by working with individuals who have lived experience of being in prison, to promote vaccine literacy and increase vaccine uptake.</p>
+<p>
+This Spotlight highlights work undertaken by researchers from UKHSA, working as part of an international research consortium 
+<a style="color:white; line-height:1.5; href= https://wephren.tghn.org/rise-vac/" target="_blank">RISE-Vac Project
+</a>, Reaching and increasing services and vaccine equity uptake, which aimed to improve the health of prison populations in Europe, by working with individuals who have lived experience of being in prison, to promote vaccine literacy and increase vaccine uptake.</p>
 
 <p style="color:white;line-height: 1.5;">
 Authors:<br>
@@ -27,7 +30,7 @@ Authors:<br>
 {{< spotlight-content 
 title="Using Lived Experience to Strengthen Vaccine Uptake" 
 image="RISE-vac.png" 
-alt="Increasing vaccine uptake in prison populations" caption="RISE - Increasing health equity in prison populations RISE-vac stakeholders and expected impact (Image source: RISE-vac)" "(Image source: UKHSA)" 
+alt="Increasing vaccine uptake in prison populations" caption="RISE - Increasing health equity in prison populations. RISE-vac stakeholders and expected impact (Image source: RISE- UKHSA)" 
 >}}
 
 <p>UKHSA, working with research partners, evaluated multiple vaccination strategies in prison settings across Europe and integrated these findings with data on vaccine knowledge, attitudes, and uptake among both staff and prison residents.</p> 
