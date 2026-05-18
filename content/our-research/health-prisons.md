@@ -31,7 +31,7 @@ alt="Increasing vaccine uptake in prison populations" caption="Increasing vaccin
 >}}
 
 <p>UKHSA, working with research partners, evaluated multiple vaccination strategies in prison settings across Europe and integrated these findings with data on vaccine knowledge, attitudes, and uptake among both staff and prison residents.</p> 
-<p>Using this data, UKHSA worked with <a href="https://www.epicresearch.org.uk/" target="_blank">EP:IC Research Consultancy</a>, specialising in working with individuals in contact with the criminal justice system, to co-produce tailored information and training materials aimed at strengthening vaccine awareness.</p>
+<p>Using this data, UKHSA worked with <a href="http://epicconsultants.co.uk/" target="_blank">EP:IC Research Consultancy</a>, specialising in working with individuals in contact with the criminal justice system, to co-produce tailored information and training materials aimed at strengthening vaccine awareness.</p>
 
 <p>By engaging with individuals with lived experience, researchers were able to better understand the priorities of those in prison and identify which health messages were most effective.  Overall, the research demonstrated that the co-produced interventions improved vaccine literacy and uptake among both staff and prison populations, contributing to EU-wide guidance materials.</p>
 
