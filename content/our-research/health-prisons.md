@@ -24,6 +24,8 @@ This Spotlight highlights work undertaken by researchers from UKHSA, working as 
 <p>
 With an aim of reaching and increasing services and vaccine equity uptake, the project aimed to improve the health of prison populations in Europe by working with individuals who have lived experience of imprisonment to promote vaccine literacy and increase vaccine uptake.
 </p>
+<p>UKHSA, working with research partners, evaluated multiple vaccination strategies in prison settings across Europe and integrated these findings with data on vaccine knowledge, attitudes, and uptake among both staff and prison residents.</p> 
+<p>Using this data, UKHSA worked with EP:IC Research Consultancy, specialising in working with individuals in contact with the criminal justice system, to co-produce tailored information and training materials aimed at strengthening vaccine awareness.</p>
 
 <p style="color:white;line-height: 1.5;">
 Authors:<br>
@@ -36,9 +38,6 @@ title="Using Lived Experience to Strengthen Vaccine Uptake"
 image="RISE-vac.png" 
 alt="Increasing vaccine uptake in prison populations" caption="RISE - Increasing health equity in prison populations. RISE-vac stakeholders and expected impact (Image source: RISE- UKHSA)" 
 >}}
-
-<p>UKHSA, working with research partners, evaluated multiple vaccination strategies in prison settings across Europe and integrated these findings with data on vaccine knowledge, attitudes, and uptake among both staff and prison residents.</p> 
-<p>Using this data, UKHSA worked with EP:IC Research Consultancy, specialising in working with individuals in contact with the criminal justice system, to co-produce tailored information and training materials aimed at strengthening vaccine awareness.</p>
 
 <p>By engaging with individuals with lived experience, researchers were able to better understand the priorities of those in prison and identify which health messages were most effective.  Overall, the research demonstrated that the co-produced interventions improved vaccine literacy and uptake among both staff and prison populations, contributing to EU-wide guidance materials.</p>
 
