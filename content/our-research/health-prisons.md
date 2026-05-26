@@ -44,14 +44,11 @@ alt="Increasing vaccine uptake in prison populations"
 <p>The RISE-Vac project reinforced the principle that prison health is public health, highlighting benefits beyond detention settings by addressing health challenges within a highly mobile population that experiences significant health inequalities before returning to the wider community.</p>
 
 <h3 class="red d-none d-lg-block">Further Reading:</h3>
-<p>
-<a href="https://wwwnc.cdc.gov/eid/article/30/13/23-0812_article" target="_blank">RISE-Vac Co-production of vaccine education materials with persons living in prison. 
-Authors: Laryea-Adekimi F, D’Arcy J, Bardelli A, et al. (2024)</a>
-</p>
-<p>
-<a href="https://onlinelibrary.wiley.com/doi/full/10.1002/jcop.23077" target="_blank">Interventions to increase vaccine uptake among people who live and work in prisons: A global multistage scoping review.  
-Authors: St&ouml;ver, H. &amp; Tacoschi, L. (2024)
-</p>
+<p><a href="https://wwwnc.cdc.gov/eid/article/30/13/23-0812_article" target="_blank">RISE-Vac Co-production of vaccine education materials with persons living in prison.</a></p>
+<p style= "margin: 0;"> Authors: Laryea-Adekimi F, D’Arcy J, Bardelli A, et al. (2024)</p>
+<p><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/jcop.23077" target="_blank">Interventions to increase vaccine uptake among people who live and work in prisons: A global multistage scoping review. </a></p> 
+<p style= "margin: 0;"> Authors: St&ouml;ver, H. &amp; Tacoschi, L. (2024)</p>
+
 
 
 {{< /spotlight-content >}}
