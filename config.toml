@@ -19,7 +19,6 @@ theme = "phe"
     weight = 2
 
   # Dropdown items
- 
   [[menu.main]]
     name = "Animal Research"
     parent = "our-research"
