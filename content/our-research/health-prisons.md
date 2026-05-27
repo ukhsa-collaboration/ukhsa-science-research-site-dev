@@ -1,6 +1,6 @@
 ---
 title: "Health Equity - Improving Vaccine Uptake in Prison Populations"
-date: 2026-02-01T14:00:00Z
+date: 2026-06-01T14:00:00Z
 draft: false
 type: "spotlight"
 thumbnail: "thumbnail-vaccine.png"
