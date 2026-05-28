@@ -18,7 +18,7 @@
 
 /* Add subtle hover instead */
 .dropdown-menu a:hover {
-  background-color: #f2f2f2 !important;
+ background-color: #f2f2f2;
   color: #000 !important;
 }
 
@@ -38,7 +38,7 @@
 .dropdown-menu a {
   padding: 10px 16px;
   display: block;
-  
+}
 .dropdown-menu li:nth-child(3) a::after {
   content: "›";
   float: right;
