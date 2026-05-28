@@ -37,7 +37,7 @@ border-top: 1px solid #e5e5e5;
   display: block;
 }
 .dropdown-menu .dropdown-item:nth-child(3)::after {
-  content: "›";
+  content: "\203A";
   float: right;
   opacity: 0.6;
 }
