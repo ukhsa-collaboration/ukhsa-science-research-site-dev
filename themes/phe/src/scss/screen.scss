@@ -8,6 +8,7 @@
 @import "objects/**/*";
 @import "components/**/*";
 @import "utilities/**/*";
+
 /* Fix dropdown blue highlight */
 .dropdown-menu a,
 .dropdown-menu li a {
@@ -19,4 +20,22 @@
 .dropdown-menu a:hover {
   background-color: #f2f2f2 !important;
   color: #000 !important;
+}
+
+/* Add divider lines between menu groups */
+.dropdown-menu li:nth-child(3),
+.dropdown-menu li:nth-child(4) {
+  border-top: 1px solid #e5e5e5;
+  margin-top: 6px;
+  padding-top: 6px;
+}
+
+/* Improve spacing */
+.dropdown-menu li {
+  padding: 2px 0;
+}
+
+.dropdown-menu a {
+  padding: 10px 16px;
+  display: block;
 }
