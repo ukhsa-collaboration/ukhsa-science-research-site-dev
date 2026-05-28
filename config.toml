@@ -11,20 +11,21 @@ theme = "phe"
     url = "/about/"
     weight = 1
 
-  # Parent item
+  # Parent item (top tab)
   [[menu.main]]
     name = "Our Research"
     identifier = "our-research"
     url = "/our-research/"
     weight = 2
-    
+
+#First Dropdown item (same name as parent)
 [[menu.main]]
-  name = "Overview"
+  name = "Our Research"
   parent = "our-research"
   url = "/our-research/"
   weight = 0
 
-  # Dropdown items
+  #Other Dropdown items
   [[menu.main]]
     name = "Animal Research"
     parent = "our-research"
