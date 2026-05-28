@@ -17,6 +17,12 @@ theme = "phe"
     identifier = "our-research"
     url = "/our-research/"
     weight = 2
+    
+[[menu.main]]
+  name = "Overview"
+  parent = "our-research"
+  url = "/our-research/"
+  weight = 0
 
   # Dropdown items
   [[menu.main]]
