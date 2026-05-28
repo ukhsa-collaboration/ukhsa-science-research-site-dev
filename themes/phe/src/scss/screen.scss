@@ -38,4 +38,9 @@
 .dropdown-menu a {
   padding: 10px 16px;
   display: block;
+  
+.dropdown-menu li:nth-child(3) a::after {
+  content: "›";
+  float: right;
+  opacity: 0.6;
 }
