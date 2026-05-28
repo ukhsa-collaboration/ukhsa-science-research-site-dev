@@ -31,17 +31,6 @@ theme = "phe"
     url = "/animal-research/"
     weight = 2
 
-[[menu.main]]
-  name = "Spotlight research"
-  parent = "our-research"
-  url = "/spotlight-research/"
-  weight = 3
-
-[[menu.main]]
-  name = "Research portal"
-  parent = "our-research"
-  url = "/research-portal/"
-  weight = 4
 
   # Top-level items
    [[menu.main]]
