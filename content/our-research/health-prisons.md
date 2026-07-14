@@ -53,6 +53,6 @@ By engaging with individuals with lived experience, researchers were able to bet
 <p><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/jcop.23077" target="_blank">Interventions to increase vaccine uptake among people who live and work in prisons: A global multistage scoping review. </a></p> 
 <p style="margin: 0;">Authors: St&ouml;ver, H. &amp; Tacoschi, L. (2024)</p>
 <p>
-For more information, includine e-learning course, awareness-raising brochures, educational animations, publications and guidance visit <a href= "https://wephren.tghn.org/rise-vac/"   target="_blank"> RISE-Vac Website</a></p>
+For more information, includine e-learning course, awareness-raising brochures, educational animations, publications and guidance visit: <a href= "https://wephren.tghn.org/rise-vac/"   target="_blank"> RISE-Vac Website</a></p>
 
 {{< /spotlight-content >}}
