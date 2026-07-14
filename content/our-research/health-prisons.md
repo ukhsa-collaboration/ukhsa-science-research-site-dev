@@ -13,7 +13,7 @@ excerpt: "Research into improving the health of prison populations in Europe by 
 title= "Health Equity - Improving Vaccine Uptake in Prison Populations"
 image="Rise-2crop.png" 
 alt="RISE" 
-caption="Increasing vaccine uptake in prisons (image source: RISE-Vac /UKHSA)"
+caption="Increasing vaccine uptake in prisons (image source: RISE-Vac/UKHSA)"
 >}}
 
 <p>
@@ -40,7 +40,7 @@ alt="Increasing vaccine uptake in prison populations"
 >}}
 
 <p>
-By engaging with individuals with lived experience, researchers were able to better understand the priorities of those in prison and identify which health messages were most effective.  Overall, the research demonstrated that the co-produced interventions improved vaccine literacy and uptake among both staff and prison populations, contributing to <a href="https://wephren.tghn.org/rise-vac/rise-vac-outputs/" target="_blank">EU-wide guidance materials</a></p>.
+By engaging with individuals with lived experience, researchers were able to better understand the priorities of those in prison and identify which health messages were most effective.  Overall, the research demonstrated that the co-produced interventions improved vaccine literacy and uptake among both staff and prison populations, contributing to <a href="https://wephren.tghn.org/rise-vac/rise-vac-outputs/" target="_blank">EU-wide guidance materials.</a></p>
 
 <p>The RISE-Vac project reinforced the principle that prison health is public health, highlighting benefits beyond detention settings by addressing health challenges within a highly mobile population that experiences significant health inequalities before returning to the wider community.</p>
 
@@ -49,6 +49,6 @@ By engaging with individuals with lived experience, researchers were able to bet
 <p style="margin: 0;"> Authors: Laryea-Adekimi F, D’Arcy J, Bardelli A, et al. (2024)</p>
 <p><a href="https://onlinelibrary.wiley.com/doi/full/10.1002/jcop.23077" target="_blank">Interventions to increase vaccine uptake among people who live and work in prisons: A global multistage scoping review. </a></p> 
 <p style="margin: 0;">Authors: St&ouml;ver, H. &amp; Tacoschi, L. (2024)</p>
-<pFor more information, includine e-learning course, awareness-raising brochures, educational animations, publications and guidance visit <a href= "https://wephren.tghn.org/rise-vac/"   target="_blank">the RISE-Vac Website.</a></p>.
+<p>For more information, includine e-learning course, awareness-raising brochures, educational animations, publications and guidance visit <a href= "https://wephren.tghn.org/rise-vac/"   target="_blank">the RISE-Vac Website.</a></p>
 
 {{< /spotlight-content >}}
