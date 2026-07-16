@@ -22,7 +22,8 @@ This Spotlight highlights work undertaken by researchers from UKHSA, working as 
 </p>
 
 <p>
-With an aim of reaching and increasing services and vaccine equity uptake, the project aimed to improve the health of prison populations in Europe by working with individuals who have lived experience of imprisonment to promote vaccine literacy and increase vaccine uptake.
+The project aimed to improve health outcomes for prison populations across Europe by promoting equitable access to health services and by working with individuals who have lived
+experience of imprisonment to promote vaccine literacy and increase vaccine uptake.
 </p>
 <p>UKHSA, working with research partners, evaluated multiple vaccination strategies in prison settings across Europe and integrated these findings with data on vaccine knowledge, attitudes, and uptake among both staff and prison residents.</p> 
 <p>Using this data, UKHSA worked with EP:IC Research Consultancy, specialising in working with individuals in contact with the criminal justice system, to co-produce tailored information and training materials aimed at strengthening vaccine awareness.</p>
