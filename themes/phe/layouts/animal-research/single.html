@@ -225,23 +225,37 @@ Read the Concordat on Openness on Animal Research in the UK
   </section>
 
 <style>
+
   #threeRsTabs  .nav-link {
     font-size: 1.3rem;
     color: #000;
   }
-  </style>
+ 
+ @media (max-width:767px) {
+
+     #threeRsTabs {
+      display: flex;
+      flex-direction: column;
+     }
+
+     #threeRsTabs .nav-item {
+       width: 100%;
+     }
+    
+     }
+
+     </style>
   <!--TABS -->
 
   
   <section class="pt-3 pb-8">
    <div class="container">
-    <div class="nav-tabs-container">
-       <button class="js-tabs-dropdown">
-        Select a 3Rs principle
-        </button>
+    
     <ul class="nav nav-tabs nav-tabs--research mb-5"
         id="threeRsTabs"
-       role="tablist">
+         role="tablist">
+
+         <li class="nav-item" role="presentation">
        <button
          class="nav-link active"
          id="replacement-tab"
@@ -279,7 +293,7 @@ Read the Concordat on Openness on Animal Research in the UK
  </li>
  
   </ul>
-    </div> <!--nav-tabs-container-->
+
     <div class="tab-content">
   <!-- Replacement -->
 
