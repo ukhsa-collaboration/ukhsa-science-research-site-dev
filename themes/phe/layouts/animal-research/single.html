@@ -226,12 +226,32 @@ Read the Concordat on Openness on Animal Research in the UK
 
 <style>
 
-  #threeRsTabs  .nav-link {
-    font-size: 1.3rem;
-    color:#000;
+  #threeRsTabs  {
+    display: flex;
+    width: 100%;
+    background: #f2f2f2;
+    border-bottom: 1px solid #d9d9d9;
   }
-
-     </style>
+#threeRsTabs  .nav-item {
+    flex:1;
+    text-align: center;
+}
+#threeRsTabs  .nav-link {
+  width: 100%;
+  border: none;
+  background: transparent;
+  color: #000;
+  font-size: 1.3em;
+  padding: 1.5rem 1rem;
+}
+</style>
+#threeRsTabs  .nav-link.active {
+  border: none;
+  background: transparent;
+  color: #000;
+  font-weight: 600;
+  border-bottom: 4px solid #008da6;
+}
   <!--TABS -->
 
 
