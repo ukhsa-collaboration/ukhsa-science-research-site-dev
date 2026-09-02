@@ -228,21 +228,8 @@ Read the Concordat on Openness on Animal Research in the UK
 
   #threeRsTabs  .nav-link {
     font-size: 1.3rem;
-    color: #000;
+    color:#000;
   }
- 
- @media (max-width:767px) {
-
-     #threeRsTabs {
-      display: flex;
-      flex-direction: column;
-     }
-
-     #threeRsTabs .nav-item {
-       width: 100%;
-     }
-    
-     }
 
      </style>
   <!--TABS -->
@@ -251,21 +238,26 @@ Read the Concordat on Openness on Animal Research in the UK
   <section class="pt-3 pb-8">
    <div class="container">
     
-    <ul class="nav nav-tabs nav-tabs--research mb-5"
-        id="threeRsTabs"
-         role="tablist">
+    <div class="nav-tabs-container">
+       <button class="js-tabs-dropdown">
+        Select a 3Rs principle
+         </button>
 
-         <li class="nav-item" role="presentation">
-       <button
-         class="nav-link active"
-         id="replacement-tab"
-         data-bs-toggle="tab"
-         data-bs-target="#replacement"
-         type="button"
-         role="tab">
-         Replacement
+        <ul class="nav nav-tabs nav-tabs--research mb-5"
+          id="threeRsTabs"
+          role="tablist">
+    
+        <li class="nav-item" role="presentation">
+          <button
+           class="nav-link active" 
+           id="replacement-tab"
+           data-bs-toggle="tab"
+           data-bs-target="#replacement"
+          type="button"
+          role="tab">
+          Replacement
         </button>
-</li>
+  </li>
 
 <li class="nav-item" role="presentation">
  <button
