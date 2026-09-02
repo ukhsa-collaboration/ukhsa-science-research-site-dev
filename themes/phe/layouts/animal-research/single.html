@@ -178,7 +178,8 @@ Read the Concordat on Openness on Animal Research in the UK
         This guidance is designed to ensure that animal reserach is conducted ethically and responsibly, while still allowing for the advancement of scientific knowledge and 
         public health.
       </p>
-        <a
+      <div class="three-rs-buttons">  
+      <a
          href="https://www.understandinganimalresearch.org.uk/using-animals-in-scientific-research/three-rs"
          class="button button--external me-3"
          target="_blank"
@@ -186,13 +187,14 @@ Read the Concordat on Openness on Animal Research in the UK
         >
         Understanding Animal Research
       </a>
+      </div>
          
       <a
       href="https://nc3rs.org.uk/"
       class="button button--external"
       target="_blank"
       rel="noopener noreferrer"
-      style="margin-left: 1rem;"
+
         >
         National Centre for the 3Rs
         </a>
@@ -254,7 +256,24 @@ Read the Concordat on Openness on Animal Research in the UK
   border: none;
   border-bottom: 4px solid #008da6;
 
-  </style>
+  @media (max-width: 767pz) {
+     .spotlight .button {
+      width: auto !important; 
+      display: inline-block !important;
+      margin-right: 10px;
+      margin-bottom: 10px;
+     }
+    }
+.three-rs-buttons {
+  display: flex;
+  gap: 10px;
+  flex-wrap: nowrap;
+  align-items: center;
+}
+.three-rs-buttons  .button {
+  margin-left: 0 !important!
+}  
+</style>
   <!--TABS -->
 
 
